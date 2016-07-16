@@ -1,0 +1,15 @@
+{
+  "name": "twitch-siteoptions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ab-fs": "github:alcadesign/ab-fs",
+    "ab-request": "github:alcadesign/ab-request"
+  }
+}
