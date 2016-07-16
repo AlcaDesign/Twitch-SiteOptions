@@ -41,7 +41,7 @@ function checkAgainstOld() {
 
 function saveNewData() {
 	console.log('saveNewData');
-	return fs.writeJSONPretty(file, newData);
+	return fs.writeFile(file, newData);
 }
 
 function exec(command, options) {
