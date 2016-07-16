@@ -1,9 +1,11 @@
-const _exec = require('child_process').exec,
+#!/usr/local/bin/node
+const path = require('path'),
+	_exec = require('child_process').exec,
 	
 	fs = require('ab-fs'),
 	request = require('ab-request');
 
-let file = 'SiteOptions.json',
+let file = path.resolve(__dirname, 'SiteOptions.json'),
 	newData;
 
 function getData() {
