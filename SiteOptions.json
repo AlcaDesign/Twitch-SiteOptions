@@ -1,0 +1,840 @@
+{
+	"deploy_flavor": "production",
+	"recaptcha_public_key": "6LcWHx8TAAAAAEtdDeQ-e_ewJkIqWSL9-zvZOp1z",
+	"twitch_api_hostport": "api.twitch.tv",
+	"twitch_secure_login_hostport": "secure-login.twitch.tv",
+	"twitch_cdn_hostport": "www-cdn.jtvnw.net",
+	"www_hostport": "www.twitch.tv",
+	"secure_www_hostport": "secure.twitch.tv",
+	"cdn_hostport": "www-cdn.jtvnw.net",
+	"api_hostport": "api.twitch.tv",
+	"streams_api_hostport": "streams.twitch.tv",
+	"webclient_hostport": "web-cdn.ttvnw.net",
+	"webclient_uri": "//web-cdn.ttvnw.net/emberapp.js",
+	"secure_login_hostport": "secure-login.twitch.tv",
+	"mixpanel_token": "809576468572134f909dffa6bd0dcfcf",
+	"following_hosts_experiment": true,
+	"creative_featured_channels": "battlebots,protostar,make,learnsquared,darude,volpinprops,drawfeeshow,hellthyjunkfood,supersoulbros,adafruit,treshtoons,winterthirteen,jeromebirti,darezone,llanilek,elpusherman,classykatie,vulpsie,smittymcwetbiscuits,pharewings,ladyavianna,eternity_waits,visualjamie,safehouse,sifsweetman,greatr_,morbidcamel101,doubleclickslive,tracimoc,cullen9,andrea_sipl,blingsquaredcuteglass,jeffsfolio,sceneofactionmusic,stevelichman,xilent,themaginnis,johnlestudio,aditidancedesign,thefeeb,kalasketch,shticky,mrmarsrising,zan57,sweetest_kill,twosenseless,kingeppz,thedustyfactor,pokeranger69,sambidex,properartist,the_widdler,culprate,vasiliuss,qazitv,a_couple_streams,gageziegman,charlyminion,brendonisaiahbengtson,sculpture_geek,halie_atisuto,computex1,sketchben,chipwhitehouse,nickblade,browncoatcaptn,nefirst_red,elfinsox,motoruxin,rabbitman109,lifewithlaughs,mrjackart,draskia,sagnewshreds,kwarning,aareneasley,williamchyr,fiercekittenz,autodesksketchbook,artoframan,lion_ess,naphthol,nnniiino,thekesslereffect,anuxinamoon,ionicart,emzolv,derptyme,duckt4rt,thecreativejenn,laylazar,hazardousarts,macaodev,joglar,sma_art,theblock,gregbaugues,phil_nash,andrinja,nightwolfpack,goldamsel,tockcustom,llamachomp,gamespwnher,imperialgrrl,na_podhvate,workingchef,billy1kirby,hc_dizee,cheflethalplays,sharishxad,wicked_faery,tonilyran,lulaboo,chefamax,xzero20,pooseboy,bawkbasoup,bluejay712,simplytam,tiffykat,drunkkidsgaming,aggythesalty,clever_dave,therobanddanshow,jessicagoch,haylinic,fi3nd_,jerpdoesgames,friskkmkay,not_jenn,lethalfrag,datto,deernadia,thedoodsfoods,kittyplays,loriipops,viking_lass,milkncookiesss,elvenaimee,drumpunk100,app1ecrisp,richiix27,graceandfirefly,ladeedanger,sharyl_sykora,skyhook,jjriverband,douplex,thatdanishguy,morwic,itswoofy,shannanina,trippler999,miniappl3,grigoriypeppo,wander_ex,kinggrim,bryanmarktaylor,triogaming0414,gafinespline,amelyth,humbleego,twigglybits,wacksteven,somuchmonsters,dalsarius82,sirithre,tinypixxels,creeesart,mrboombati,vellysa,blindcoyotestudios,laughingmanatee,linvalin,simply_jxn,tommycastilloatelier,proletariat_inc,propgame,narcosvszombies,kattbotics,mudflapofficial,darylcagle,tashnarr,temmies,cg_village_captain,niffiner,megmouse82,kohseart,jhovgaard,garret_r,tectuma,slickentertainmentinc,handmade_hero,hustle_man,krzjn,moatdd,robserob,officialbartlet,dasmehdi,devwars,2daywithpatrickj,voxicon,lilblueboxox,almightysavo,dawah200,r1sh,invenatrix,moltenink,banzaibaby,lcfinch,moanmei,anna_verhoog,macsmithvideo,marcussakoda,violetlake,smabee_art,mrcreeep,tmiracletv,lindseyillustration,mrcomtruise,therealstark,josymovies,dianarrr,ellalune,finespline,alientonx,fakegamergirl,noellembrooks,lara_cr,ejipt,rintheyordle,reckzilla,u_n_i_c_o,sharkbaroness,mi_cho,bethfreemanartist,sohlol,artofarson,tanzenkat,vorsp,ladyaim,sheenaduquette,kimvoslice,cardenelli,evilhunterr,marjoriedavis,yetipoo,kyena,tareacosplay,rantologg,forrestimel,ladymazur,playinthemud,dctattoo_swe,cnotbusch,meniusa,codibear,evilfx,sinixdesign,alicexz,gamerkirei,quinnsimoesart,liveworkshop,thediredude,mariusbota,voodoo_val,arsenixc,domesticdan,cglas,pixystyx,uguubear,monorirogue,antilousdragonart,johnsilvaart,martin_ci,artyfakes,thejamcave,sampetersonart,synsinsyn,anthonyacc,evynfong,austenmarie,kogumah,fu1212y,seagageplays,silmac1,stevieraedrawn,mujumonster,duchessmorgoth,poeism,narandel,noobovich,loiza0319aad,mizzycyn,datarealms,journeyful,boss1801,archonthewizard,wheeze202,dgoodayle,stresslevelzero,2dgamedev,apolyon6k,automateallthethings,ryansetiawan,kachanac,luzarius,megaultrajman,awesomeallar,unrealengine,thejhnz,jessefreeman,threef_games,warbirdgames,robtheswan,shmellyorc,automationdev,siegegames,xenocideacademy,theelitegamers,hardlydifficult,nocaked,mastak_a,xfactor521,zeglovrk,robotsuperstar,ricepiratemick,flipswitchx,nicko_the_great88,themanymadmasks,weilard,guineapigparkour,fleckogold,boyfruit,tensaes,shyupuff,jessejayjones,eagletoons,mrpatafoin,gildedguy,ioanimator,myanimewaifu,loonygeekfun,tokyoscream,rip_streaming,vinissues,overpowergame,sblomkamp,theanimationstation,doublezmagnum,invader_kendall,kitsyfluffs,samgreenmedia,neareida,linktcone,mightyjrgaming,snugzmeow,revchumley,staceyofgotham,courtneykissme,ladysundae,xxbrandy,suspicioustumble,candocosplay,byndogehk,tundabolt,nijishoujo,vanimecustoms,raychullfierce,buttercupbrix,ladydevann,hayzemh,essradi,nicciknacks,kenditv,mariegrey,eviltedsmith,sarahgracie,meestermcfeelme,wonyumi,kenshh0,mszee,nixxycosplay,gingerliz,schrei205,chinnyxo,younihorn,willowmvp,kr1st3n,supparider,darnisart,hddami,acardboardtube,niku_senpai,slowhandzen,a88527304,willdabeef,4scended,thehypoxiaxp,okrono_dm,coyotenerdy,whackly,killeremo69,dreachu,forkthepikachu,peemonster,iitarax3,ladyn8hawk,electrokittenz,o_german_o,confusedlittledemon,lettershoppe,ernestventures,rachtalin,mnaomy,glassmancometh,hairybewchacca,jedsglass,kenshin_campione_tv,vieparlafoi,doug_does,keiksdesigns,echona,fuslie,themrpcgames,jeremyworst,alexgriendling,jordanoutlawart,neilvilppu,sorrosin,usagi0414,murdokxcom,iluffsasuke,mr_nightsky,warmics,fancyschmancytv,jellyfishbunny,barigiet,sathoryn,sheeriku,pamadak,annajeann,teocican,michaeldenicola,chirofish,petitecreame,manicstreaming,treshtoons,alexdrummoart,anitagadzinskaart,ksavannahb,somnivision,asiawww,kiracub,ryanjames3049,firebirdleather,anatisti,dmjazzgames,rankpop,therealshookon3,sabas_stream,chewiemelodies,xwisdom20,chasesings,wr4thtv,lefrenchstallion,alicemk2,marcusalx,tvsboh,ltchicken,zabuza54130,fallynnknivez,danielle13901,rambojoe43,madnessmethodoperation,meganagitor,justinbirdmusic,sassafras_wot,fujjeh,zamoskal,smokeylah,abstract_methodology,jaz_may,athenre,sinqnew,hysteriayard,misscoookiez,arkaedn,amethylia,geitmeise,coco_the_louder,grekklon,aricegirl,queenraykel,dream_ouji,gueneveres,chickentam,shanesemler,serdechny,philthyturtle,yurekb,kashou_,midnight_orchid,mothteeth,hc900,mete0ryt,drunkiegaming,diver__,frankiepixelshow,siddious67,wizard_fu,vendelo,orangemagik,reeltrash,xoneris,rizeupgaming,amandapanda1985,imaginarymonsters,silithur,pixacious,gillyrb2007,prinnycreed,gavinreed,pixel_dimensions,jejoll,bithexed,aeuvex,camilosasuke,pajlada,rosuav,callmepieman,geramy92,freecodecamp,livetocreate,brentschooley,karatgame,xesjkeee,nuflowx,trumpi27,tokyoscarab,skypython,distortednet,addeponken,danyguag,callowcreation,devin_brimer,highsight,dlastons,draxu123,sssmcgrath123,waterdance,drunkdevs,adam13531,drekko2,saulmanlive,rxsheepxr,cloudkilledaerith,peckapon,marshevalias,disasterexe,charliestmonica,rileyomalley,youngwavelord,itsnon,samwhiteart,naguri,tokimonster,stronkgamer,cnotbush,spectre_dave,gabulin,joxol,carnevaleobscura,drbarbados,mankej_,thorshand11,snugzmeow",
+	"creative_communities": "animation,cosplay,drawing,food,gamedev,glass,illustration,leatherwork,music,painting,pixelart,programming,sewing,designdolls,graphite,perler,vector,figurines,woodworking,writing,sketch,anime,watercolor,jewelry,electronics,overwatchcontest,3dmodeling,crossstitch,sculpting,cosplaycontest,editing,artstation,bodyart,fiberarts,metalworking,papercraft,design,digitalillustration,comedy,magic,dance,voiceacting,theater,talentshow,robotics,chainmaille,",
+	"community_theatres": null,
+	"creative_promoted_communities": "cosplaycontest",
+	"creative_banned_tags": "art,creative,1,2,3,4,5,6,7,8,9,retarded,hijoeputa,pajera,putito,wetback,serefsiz,culeado,estupidos,cojudo,jackass,fuckyou,idiotas,maldito,conchetumadre,babosas,conchetumare,malparidas,prostituta,babosos,cabronas,chuchon,conchasumadres,pastrula,pastrulas,encule,pastrulo,pastrulos,cagados,gilipoya,reconchatumadre,chuchas,culona,cerote,malparidos,conchasumadre,fagget,babosa,gilipolla,chinguen,bitches,sudaca,indios,malparida,chingado,bullshit,enculer,mames,dickhead,gilipoyas,zorras,bicha,cagar,marika,mamon,cocksucker,culiado,pendeja,vadia,culeros,gonorrea,mamar,maricas,vergas,mierdas,estupida,huevon,atdhe,pajero,sikeyim,skank,cagada,amcik,berga,perro,conchatumadre,reputas,reputo,reputos,reputa,merde,siktir,carajo,cazzo,trola,baboso,fucked,connard,fucking,pinga,gilipollas,imbecil,cagadas,salope,cabros,polla,yarrak,pendejos,retard,cagones,indio,culiao,cabro,wanker,niggers,pelotudo,queer,sikerim,indigena,boludo,chucha,homosexual,zorra,pinche,hijueputa,sexy,orospu,putas,malparido,porn,porno,cabrones,culero,putos,concha,buceta,bastard,chinga,viado,marica,motherfucker,boob,merda,caralho,fucking,cabron,suck,maricon,faggot,vagina,nigga,penis,pendejo,fuck,verga,asshole,mierda,pussy,nigger,whore,slut,fag,sex,dickcunt,shit,bitch,hore,pinto,rape,twat",
+	"channel_feed_overrides": "food",
+	"coview_channel_blacklist": "sharishaxd,blondiewondie,stpeach,pwnographicofficial,alisha12287,dinglederper,sinterbell,lilchiipmunk,stpeach,honeyliciousss,jennythesquirrel,cincinbear,raihnbowkidz,kittyplays,mitaliang,yuci7001,honeyballgames,morphia666",
+	"enable_rollbar_js": false,
+	"current_experiments": {},
+	"broadcaster_languages": {
+		"en": "English",
+		"zh": "中文",
+		"ja": "日本語",
+		"ko": "한국어",
+		"es": "Español",
+		"fr": "Français",
+		"de": "Deutsch",
+		"it": "Italiano",
+		"pt": "Português",
+		"sv": "Svenska",
+		"no": "Norsk",
+		"da": "Dansk",
+		"nl": "Nederlands",
+		"fi": "Suomi",
+		"pl": "Polski",
+		"el": "Ελληνικά",
+		"ru": "Русский",
+		"tr": "Türkçe",
+		"cs": "Čeština",
+		"sk": "Slovenčina",
+		"hu": "Magyar",
+		"ar": "العربية",
+		"bg": "Български",
+		"th": "ภาษาไทย",
+		"vi": "Tiếng Việt",
+		"asl": "American Sign Language",
+		"other": "Other"
+	},
+	"default_blc_languages": [
+		"ja",
+		"ko"
+	],
+	"enable_host_mode": true,
+	"disable_group_chat": false,
+	"disable_follows_side_panel": false,
+	"disable_following_directory": false,
+	"new_chat_client": true,
+	"new_chat_client_darklaunch_range": "0-100",
+	"load_more_on_follows": true,
+	"following_videos": true,
+	"dfp_sidebar_channel_ad": true,
+	"dfp_fp_sizzlestrip": true,
+	"chat_darklaunch_pct": 1,
+	"dfp_esl": true,
+	"disable_youtube_exporter": false,
+	"aws_artificial_load_factor": "0",
+	"tax_notifications_enabled": true,
+	"payment_amendment_notifications_enabled": true,
+	"international_payments_notifications_enabled": false,
+	"maintenance_mode": false,
+	"broadcast_language_chat_enabled": true,
+	"enable_vod_appeals": true,
+	"video_experiments": null,
+	"playlist_more_info": "http://blog.twitch.tv/2015/09/vod-playlist/",
+	"default_avatar_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/xarth/404_user_150x150.png",
+	"chat_replay_more_info": "http://blog.twitch.tv/2016/03/introducing-chat-replay/",
+	"disable_theatre": false,
+	"is_bits_enabled": true,
+	"is_bits_staffonly_beta": false,
+	"purchase_bits_url": "https://twitch.amazon.com",
+	"bits_products": [
+		{
+			"amount": 100,
+			"asin": "B017L2UX4C",
+			"discount": 0
+		},
+		{
+			"amount": 500,
+			"asin": "B018WMZKR0",
+			"discount": 0
+		},
+		{
+			"amount": 1500,
+			"asin": "B018WMZN5E",
+			"discount": 5
+		},
+		{
+			"amount": 5000,
+			"asin": "B018WMZSPY",
+			"discount": 8
+		},
+		{
+			"amount": 10000,
+			"asin": "B018WMZYPI",
+			"discount": 10
+		},
+		{
+			"amount": 25000,
+			"asin": "B01G4BISOS",
+			"discount": 12
+		}
+	],
+	"chat_rules": "{  \t\"esl_csgo\":[\"No harassing, stalking, or threatening of individuals\", \"No hate speech (sexist, racist, homophobic, trans-phobic, etc.)\", \"No spamming, links, or advertisements\", \"No posting other people’s private information\", \"No encouraging others to break any of these rules\"], \t\"esl_overwatch\":[\"No harassing, stalking, or threatening of individuals\", \"No hate speech (sexist, racist, homophobic, trans-phobic, etc.)\", \"No spamming, links, or advertisements\", \"No posting other people’s private information\", \"No encouraging others to break any of these rules\"], \t\"vinesauce\": [\"Be respectful to the streamer, mods and other viewers.\", \"Use common sense when posting (no adult content, spam.)\", \"Do not post a streamer or viewer’s or your own personal info/misinfo.\", \"Do not stalk or harass streamers or other viewers.\", \"Do not fight your Internet battles here. Politics are also not allowed.\", \"See our extended Rules list by typing !rules into chat\"], \t\"littlesiha\":[\"No hate speeches (homophobia, sexism, racism, etc etc)\", \"No rudeness towards myself, mods, or any other chatters\", \"No backseat gaming/spoilers\", \"No spamming\"], \t\"lobosjr\":[\"No harassing Lobos or other viewers.\", \"No spoiling, backseating, or suggestions, especially on blind playthroughs.\", \"Respect the moderator team; they act on Lobos' authority and are here to maintain a pleasant environment. \", \"Please keep the chat discussion relevant (no politics/religion).\", \"If you're not sure of something, just ask! And have a good time :)\"], \t\"haylinic\":[\"No name calling\", \"No sexual/sexist comments\", \"Be polite to everyone\", \"No spam\", \"No rude comments about gameplay/rank\"], \t\"peeve\":[\"No racism, homophobia, or other forms of hate speech.\", \"Please refrain from aggressive backseating, as well as spoilers during first playthroughs.\", \"Please don't be an elitist. Nothing wrong with taking pride in your own skill, but don't talk down to others.\", \"Please do not spam, nor use caps excessively.\", \"To prevent spam, only subs are able to post links.\"], \t\"pinballjoe\":[\"Be cool to your fellow viewers.\", \"No posting links\", \"No self promotion\", \"Please be kind and rewind.\"], \t\"ellohime\":[\"Keep it english please.\", \"No spam.\", \"Treat everyone here with respect\", \"ASK BEFORE POSTING LINKS!\", \"Don't be racist/hateful/argumentative/bullying/stupid.\", \"Don’t post other channel links without permissions\", \"Wash your hands also, it's just good hygiene.\"], \t\"cohhcarnage\":[\"No F-bombs, homophobic or racial slurs\", \"No ALL CAPS or excessive symbols (ASCII)\", \"No general spam or spam encouragement\", \"Please try to keep up the good vibes and keep out the negativity!\", \"We encourage discussion but please respect opinions.\", \"For a full list of rules, please type !rules into chat\", \"For info on our token system (and more) please type !texplain or !faq into chat\"], \t\"kaypealol\":[\"English only\", \"Be respectful to everyone\", \"No spam or excessive use of caps\", \"No racism\", \"Have a good day. You have to, you don't have a choice. It's in the rules :)))\"] }",
+	"is_chat_rules_experiment_enabled": true,
+	"bits_evo_enabled_channels": "116076154",
+	"native_broadcasts_experiment": null,
+	"experiments": {
+		"04165981-17be-4593-afbd-762a380f6838": {
+			"name": "MESSAGE_DELETED_EXPERIMENT",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "true"
+				},
+				{
+					"weight": 100,
+					"value": "false"
+				}
+			]
+		},
+		"143da2f9-bf80-4555-a661-76c378fcd5c8": {
+			"name": "ios_aa",
+			"groups": [
+				{
+					"weight": 5,
+					"value": "control"
+				},
+				{
+					"weight": 5,
+					"value": "variant"
+				}
+			]
+		},
+		"23eb19cd-61b1-4691-8ba3-59397db057e0": {
+			"name": "android_host_mode",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "variant"
+				}
+			]
+		},
+		"2b4d2ad3-f7e5-422b-be2b-9bd99975b57c": {
+			"name": "coview remove recs",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "control"
+				},
+				{
+					"weight": 50,
+					"value": "dismissable"
+				}
+			]
+		},
+		"2f8210be-a6c6-43b1-9f6a-4b7cc7ef93c0": {
+			"name": "coview forced variety",
+			"groups": [
+				{
+					"weight": 40,
+					"value": "control"
+				},
+				{
+					"weight": 15,
+					"value": "channel"
+				},
+				{
+					"weight": 15,
+					"value": "game"
+				},
+				{
+					"weight": 30,
+					"value": "max_two_channels"
+				}
+			]
+		},
+		"33a4ec99-5100-4831-b04a-f6a725c334f5": {
+			"name": "android_recently_watched",
+			"groups": [
+				{
+					"weight": 95,
+					"value": "treatment"
+				},
+				{
+					"weight": 5,
+					"value": "control"
+				}
+			]
+		},
+		"355ff3e2-38b5-449a-8ab8-a52b5d3ab817": {
+			"name": "remove csgo directory",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "remove"
+				}
+			]
+		},
+		"36a0e500-f117-41dd-8421-3e3db7d567dd": {
+			"name": "CREATIVE_DIRECTORY_CVS",
+			"groups": [
+				{
+					"weight": 90,
+					"value": "communities"
+				},
+				{
+					"weight": 5,
+					"value": "streams"
+				},
+				{
+					"weight": 5,
+					"value": "communities-tab"
+				}
+			]
+		},
+		"36a9f289-f5da-45ad-8b1a-df06bddba96d": {
+			"name": "VOD Thumbnail Previews Dark Launch",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "yes"
+				},
+				{
+					"weight": 0,
+					"value": "no"
+				}
+			]
+		},
+		"3701dbf7-dcc6-45db-963e-aabc4653dea3": {
+			"name": "ios_native_chat",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "native_chat"
+				}
+			]
+		},
+		"48205418-1541-4f7b-9a15-a38638f9dcad": {
+			"name": "ios_localized_directories",
+			"groups": [
+				{
+					"weight": 40,
+					"value": "control"
+				},
+				{
+					"weight": 20,
+					"value": "unlocalized"
+				},
+				{
+					"weight": 40,
+					"value": "limit"
+				}
+			]
+		},
+		"4afcc1d7-b6f4-489a-beb3-0a32eb780592": {
+			"name": "Closed Captions",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "off"
+				},
+				{
+					"weight": 0,
+					"value": "v1"
+				},
+				{
+					"weight": 0,
+					"value": "v2"
+				}
+			]
+		},
+		"4f5c0aa5-292d-4ed3-9b2a-f9da6ea195f2": {
+			"name": "Resume Watching Banner",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "yes"
+				},
+				{
+					"weight": 50,
+					"value": "no"
+				}
+			]
+		},
+		"58a07c08-c495-4f64-96ae-d29bc623a58b": {
+			"name": "coview user based recs",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "user"
+				}
+			]
+		},
+		"5fbb67a0-b4ff-4775-b836-e9a348a87481": {
+			"name": "Network Profile Collection",
+			"groups": [
+				{
+					"weight": 999,
+					"value": "no"
+				},
+				{
+					"weight": 1,
+					"value": "yes"
+				}
+			]
+		},
+		"61b169ff-bc62-4725-a40e-1be627197c6f": {
+			"name": "Recommended Games",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "no"
+				},
+				{
+					"weight": 0,
+					"value": "yes"
+				}
+			]
+		},
+		"653cc0db-d332-4df6-b224-15c5c481f7e7": {
+			"name": "language_directory_filter",
+			"groups": [
+				{
+					"weight": 34,
+					"value": "control"
+				},
+				{
+					"weight": 33,
+					"value": "full"
+				},
+				{
+					"weight": 33,
+					"value": "scroll"
+				},
+				{
+					"weight": 0,
+					"value": "scroll_new"
+				}
+			]
+		},
+		"66235fc6-1972-421c-ab6b-9137ddaacdaf": {
+			"name": "Comments Reaction Type",
+			"groups": [
+				{
+					"weight": 1,
+					"value": "1"
+				},
+				{
+					"weight": 1,
+					"value": "2"
+				},
+				{
+					"weight": 1,
+					"value": "3"
+				},
+				{
+					"weight": 1,
+					"value": "4"
+				},
+				{
+					"weight": 1,
+					"value": "5"
+				},
+				{
+					"weight": 1,
+					"value": "6"
+				},
+				{
+					"weight": 1,
+					"value": "7"
+				},
+				{
+					"weight": 1,
+					"value": "8"
+				},
+				{
+					"weight": 92,
+					"value": "9"
+				}
+			]
+		},
+		"6a857f53-de28-4025-8983-3cada70538cd": {
+			"name": "ESL CS:GO Steam Account Link",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "show-cta"
+				}
+			]
+		},
+		"6f1bb0b8-05bb-4bee-9008-5cee5b1732c9": {
+			"name": "android_show_following_on_launch",
+			"groups": [
+				{
+					"weight": 1,
+					"value": "control"
+				},
+				{
+					"weight": 1,
+					"value": "no_carousel"
+				},
+				{
+					"weight": 1,
+					"value": "with_carousel"
+				}
+			]
+		},
+		"75025ac0-54d8-48fc-a634-1b30a3d3939b": {
+			"name": "Use JS ads layer for flash backend",
+			"groups": [
+				{
+					"weight": 20,
+					"value": "yes"
+				},
+				{
+					"weight": 80,
+					"value": "no"
+				}
+			]
+		},
+		"7c804f58-cae5-4d51-9d0f-b2dd44cd8baa": {
+			"name": "Flash Playback Optimization",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "updated-swf"
+				},
+				{
+					"weight": 100,
+					"value": "stagevideo"
+				}
+			]
+		},
+		"852b3485-a831-4580-b7bf-acf819977704": {
+			"name": "Add videos tab to channel page",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "mixed"
+				}
+			]
+		},
+		"865ce2f3-52be-4a8c-87fe-d8ad580f4679": {
+			"name": "HTML5 Toggle",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				}
+			]
+		},
+		"882cbe15-90c9-4aa3-9b1b-cef4cccf4f49": {
+			"name": "VIDEO_UPLOADS",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "yes"
+				}
+			]
+		},
+		"906c9e2f-ac8a-43f3-9f7f-78668e292d4f": {
+			"name": "android_aa",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "control"
+				},
+				{
+					"weight": 50,
+					"value": "variant"
+				}
+			]
+		},
+		"93883758-3d7d-414b-9975-df688165726b": {
+			"name": "secret media",
+			"groups": [
+				{
+					"weight": 10,
+					"value": "yes"
+				},
+				{
+					"weight": 90,
+					"value": "no"
+				}
+			]
+		},
+		"98f3f2a5-9e4e-4ba8-aabe-2ff85e7309ee": {
+			"name": "CHAT_RULES_EXPERIMENT",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "experiment"
+				},
+				{
+					"weight": 50,
+					"value": "control"
+				}
+			]
+		},
+		"aaac75ea-c969-4826-b32d-ceefac620a79": {
+			"name": "Recommended Channels",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "no"
+				},
+				{
+					"weight": 100,
+					"value": "yes"
+				}
+			]
+		},
+		"ac39b897-d41d-4255-90b6-3a59027e12e0": {
+			"name": "vods_game_info",
+			"groups": [
+				{
+					"weight": 80,
+					"value": "control"
+				},
+				{
+					"weight": 10,
+					"value": "boxart_unwatched"
+				},
+				{
+					"weight": 10,
+					"value": "text_no_desc"
+				}
+			]
+		},
+		"ad39c35b-c6af-4687-b791-9ab408f825ef": {
+			"name": "VOD Thumbnail Previews Rollout",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "yes"
+				},
+				{
+					"weight": 0,
+					"value": "no"
+				}
+			]
+		},
+		"b29d055f-74f2-40b9-9383-9c4b79b30360": {
+			"name": "cloudfront web-cdn",
+			"groups": [
+				{
+					"weight": 1,
+					"value": "level3"
+				},
+				{
+					"weight": 1,
+					"value": "cloudfront"
+				},
+				{
+					"weight": 198,
+					"value": "control"
+				}
+			]
+		},
+		"b4d61bdb-c174-47e6-a2f9-a46a4088ac26": {
+			"name": "clips",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "yes"
+				},
+				{
+					"weight": 0,
+					"value": "no"
+				}
+			]
+		},
+		"b86f6c73-d333-4d80-ab45-07cfff39aede": {
+			"name": "csgo_language_sample",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "localized"
+				}
+			]
+		},
+		"b9063610-cdfd-43c3-8479-59a6ab82d831": {
+			"name": "Visible Post Reactions",
+			"groups": [
+				{
+					"weight": 1,
+					"value": "0"
+				},
+				{
+					"weight": 99,
+					"value": "3"
+				}
+			]
+		},
+		"c0168c60-b0f7-4766-aac6-b6edf7555302": {
+			"name": "VOD Lantern CDN selection",
+			"groups": [
+				{
+					"weight": 99,
+					"value": "yes"
+				},
+				{
+					"weight": 1,
+					"value": "no"
+				}
+			]
+		},
+		"c48ae3e6-1356-4ccc-8fbe-12c6909f9e98": {
+			"name": "coviews_vod_recommendation",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "following"
+				},
+				{
+					"weight": 0,
+					"value": "videos"
+				},
+				{
+					"weight": 100,
+					"value": "both"
+				},
+				{
+					"weight": 0,
+					"value": "following_above_host"
+				}
+			]
+		},
+		"c5824f4a-ecb8-4ef1-9d49-18885bf8bba5": {
+			"name": "ABS V2",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				}
+			]
+		},
+		"c926728f-d1d3-4b09-b868-db3e2aa000cc": {
+			"name": "In-Player Recommendations",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				}
+			]
+		},
+		"cda5757e-2229-4d3c-9427-5ad3aa18b72f": {
+			"name": "ios_nux_preroll_test",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "control"
+				},
+				{
+					"weight": 50,
+					"value": "no_prerolls"
+				}
+			]
+		},
+		"dd2d60cd-b76b-4beb-a38c-ea60df88b3cc": {
+			"name": "CREATIVE_UNLIKELY_HERO",
+			"groups": [
+				{
+					"weight": 90,
+					"value": "no"
+				},
+				{
+					"weight": 10,
+					"value": "yes"
+				}
+			]
+		},
+		"df008233-c0f2-46dc-92a2-61396ae402e3": {
+			"name": "Similar Channels",
+			"groups": [
+				{
+					"weight": 20,
+					"value": "control"
+				},
+				{
+					"weight": 16,
+					"value": "d,nhs,f,c,a"
+				},
+				{
+					"weight": 16,
+					"value": "d,nhs,f,c,b"
+				},
+				{
+					"weight": 16,
+					"value": "d,nhs,c"
+				},
+				{
+					"weight": 16,
+					"value": "d,hs,2r"
+				},
+				{
+					"weight": 16,
+					"value": "d,hs,c"
+				}
+			]
+		},
+		"e7516730-b94f-4d46-894e-c18612aab270": {
+			"name": "coview recommendations a/b testing",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "control"
+				},
+				{
+					"weight": 50,
+					"value": "experiment"
+				}
+			]
+		},
+		"f67a2dd3-fc9e-4e10-8aaf-929e1e0f484a": {
+			"name": "web_client_front_page",
+			"groups": [
+				{
+					"weight": 98,
+					"value": "ignore"
+				},
+				{
+					"weight": 1,
+					"value": "new_front_page"
+				},
+				{
+					"weight": 1,
+					"value": "old_front_page"
+				}
+			]
+		},
+		"f725b4b2-bd4c-4cc9-a354-d0db1e762955": {
+			"name": "VOD Marker Rollout ",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "yes"
+				},
+				{
+					"weight": 0,
+					"value": "no"
+				}
+			]
+		},
+		"fc2b4b0b-32dd-4e55-8e73-d87b9985a70e": {
+			"name": "Usher Protocol",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "http:"
+				},
+				{
+					"weight": 100,
+					"value": "https:"
+				}
+			]
+		},
+		"fe36f15d-a487-421b-92f5-ace71242062e": {
+			"name": "ios_recent_emotes",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "control"
+				},
+				{
+					"weight": 50,
+					"value": "recent_emotes"
+				}
+			]
+		}
+	}
+}
