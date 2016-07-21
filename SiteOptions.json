@@ -122,7 +122,7 @@
 	"is_sm_enabled": false,
 	"is_sm_staff_only_beta": false,
 	"sm_whitelist": null,
-	"native_broadcasts_experiment": "{\"start_date\":{\"year\": 2016,\"month\":6,\"day\":20,\"hour\":16,\"minute\":0,\"second\":0},\"end_date\":{\"year\": 2016,\"month\":6,\"day\":22,\"hour\":16,\"minute\":0,\"second\":0},\"target_channel\":\"gopconvention\",\"streams\":[{\"url\":\"/rncdiscussion\",\"name\":\"RNCDiscussion\",\"lang\":\"en\"}],\"lang_mappings\":{\"en\":{\"title\":\"RNC Discussion Forum\",\"text\":\"Want more in-depth discussion? Check out the RNCdiscussion chat.\"}}}",
+	"native_broadcasts_experiment": "{\"start_date\":{\"year\": 2016,\"month\":6,\"day\":20,\"hour\":16,\"minute\":0,\"second\":0},\"end_date\":{\"year\": 2016,\"month\":6,\"day\":22,\"hour\":16,\"minute\":0,\"second\":0},\"target_channel\":\"gopconvention\",\"streams\":[{\"url\":\"/rncdiscussion\",\"name\":\"RNCDiscussion\",\"lang\":\"en\"}],\"lang_mappings\":{\"en\":{\"title\":\"RNC Discussion Forum\",\"text\":\"Want more in-depth discussion? Check out the RNCdiscussion chat.\"}},\"esamarathon\": {\"start_date\":{\"year\": 2016,\"month\":6,\"day\":23,\"hour\":16,\"minute\":0,\"second\":0},\"end_date\":{\"year\": 2016,\"month\":6,\"day\":29,\"hour\":19,\"minute\":0,\"second\":0},\"streams\":[{\"url\":\"/gaminglive_powerplay\",\"name\":\"GamingLive_PowerPlay (Français)\",\"lang\":\"fr\"},{\"url\":\"/germenchrestream\",\"name\":\"GermenchRestream (Deutsch)\",\"lang\":\"de\"},{\"url\":\"/goldensplit\",\"name\":\"GoldenSplit (Русский)\",\"lang\":\"ru\"},{\"url\":\"/speedrunsespanol\",\"name\":\"SpeedRunsEspanol (Español)\",\"lang\":\"es\"}],\"lang_mappings\":{\"de\":{\"title\":\"ESA International\",\"text\":\"Möchtest du ESA in deiner lokalen Sprache ansehen? Dann besuche einen der internationalen Broadcasts!\"},\"en\":{\"title\":\"ESA International\",\"text\":\"Want to watch ESA in your local language? Try one of these international broadcasts!\"},\"es\":{\"title\":\"ESA Internacional\",\"text\":\"¿Te gustaría ver la ESA en tu idioma local? ¡Prueba una de las transmisiones internacionales!\"},\"fr\":{\"title\":\"ESA International\",\"text\":\"Envie de regarder ESA dans votre langue locale? Essayez une de ses diffusions internationales!\"}, \"ru\":{\"title\": \"ESA Международный\", \"text\":\"Хотите смотреть ESA на родном языке? Попробуйте одну из этих интернациональных трансляций!\"}}}}",
 	"experiments": {
 		"04165981-17be-4593-afbd-762a380f6838": {
 			"name": "MESSAGE_DELETED_EXPERIMENT",
@@ -154,11 +154,11 @@
 			"name": "android_host_mode",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "variant"
 				}
 			]
@@ -787,15 +787,15 @@
 			"name": "web_client_front_page",
 			"groups": [
 				{
-					"weight": 98,
+					"weight": 100,
 					"value": "ignore"
 				},
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "new_front_page"
 				},
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "old_front_page"
 				}
 			]
