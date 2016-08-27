@@ -363,11 +363,11 @@
 			"name": "Transcode_Quality_Experiment",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "regular"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "plus"
 				}
 			]
@@ -567,8 +567,12 @@
 					"value": "yes"
 				},
 				{
-					"weight": 92,
+					"weight": 87,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "pc-0.6.9"
 				},
 				{
 					"weight": 3,
@@ -590,6 +594,19 @@
 				{
 					"weight": 0,
 					"value": "yes"
+				}
+			]
+		},
+		"8ce5b50b-429b-4c20-a0f3-1b22eb577673": {
+			"name": "rollout_ios_vod_uploads",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "on"
+				},
+				{
+					"weight": 1,
+					"value": "off"
 				}
 			]
 		},
@@ -851,6 +868,19 @@
 				{
 					"weight": 0,
 					"value": "experiment"
+				}
+			]
+		},
+		"f398cefc-009d-4487-8c9d-5fe2e963110f": {
+			"name": "rollout_ios_clips",
+			"groups": [
+				{
+					"weight": 1,
+					"value": "on"
+				},
+				{
+					"weight": 0,
+					"value": "off"
 				}
 			]
 		},
