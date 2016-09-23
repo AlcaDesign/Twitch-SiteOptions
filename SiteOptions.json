@@ -671,6 +671,23 @@
 				}
 			]
 		},
+		"87adafb9-d360-4c0a-ace5-93e636c8e79c": {
+			"name": "Player Core Version control",
+			"groups": [
+				{
+					"weight": 10,
+					"value": "develop"
+				},
+				{
+					"weight": 80,
+					"value": "master"
+				},
+				{
+					"weight": 10,
+					"value": "loader_changes"
+				}
+			]
+		},
 		"882cbe15-90c9-4aa3-9b1b-cef4cccf4f49": {
 			"name": "VIDEO_UPLOADS",
 			"groups": [
