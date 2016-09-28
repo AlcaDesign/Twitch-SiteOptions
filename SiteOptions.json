@@ -84,7 +84,7 @@
 	"disable_theatre": false,
 	"is_bits_enabled": true,
 	"is_bits_staffonly_beta": false,
-	"ads_for_bits": false,
+	"ads_for_bits": true,
 	"purchase_bits_url": "https://twitch.amazon.com",
 	"bits_products": [
 		{
@@ -249,6 +249,19 @@
 				}
 			]
 		},
+		"2c1c9b8c-530c-4011-a2a0-e93c0e14d8c2": {
+			"name": "bits_for_ads",
+			"groups": [
+				{
+					"weight": 20,
+					"value": "on"
+				},
+				{
+					"weight": 80,
+					"value": "off"
+				}
+			]
+		},
 		"2f8210be-a6c6-43b1-9f6a-4b7cc7ef93c0": {
 			"name": "coview forced variety",
 			"groups": [
@@ -375,6 +388,19 @@
 				{
 					"weight": 100,
 					"value": "no"
+				}
+			]
+		},
+		"428d3b07-cc7a-424f-aad0-971f5415879a": {
+			"name": "NEXUS_ROLLOUT",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "disabled"
+				},
+				{
+					"weight": 0,
+					"value": ""
 				}
 			]
 		},
