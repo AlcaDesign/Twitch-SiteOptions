@@ -1016,11 +1016,11 @@
 			"groups": [
 				{
 					"weight": 20,
-					"value": "yes"
+					"value": "on"
 				},
 				{
 					"weight": 80,
-					"value": "no"
+					"value": "off"
 				}
 			]
 		},
