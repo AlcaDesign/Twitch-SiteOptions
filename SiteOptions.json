@@ -1041,11 +1041,11 @@
 			"name": "coview recommendations a/b testing",
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "experiment"
 				}
 			]
