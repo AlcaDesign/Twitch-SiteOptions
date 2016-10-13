@@ -749,19 +749,6 @@
 				}
 			]
 		},
-		"882cbe15-90c9-4aa3-9b1b-cef4cccf4f49": {
-			"name": "VIDEO_UPLOADS",
-			"groups": [
-				{
-					"weight": 0,
-					"value": "control"
-				},
-				{
-					"weight": 100,
-					"value": "yes"
-				}
-			]
-		},
 		"8ace0f50-8afd-424a-a086-3e61b3e66da0": {
 			"name": "MESSAGE_HISTORY",
 			"groups": [
