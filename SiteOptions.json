@@ -169,23 +169,6 @@
 				}
 			]
 		},
-		"15dde59b-96ad-4040-beba-4c73039d16ff": {
-			"name": "Transcode_Quality_Experiment_2",
-			"groups": [
-				{
-					"weight": 100,
-					"value": "regular"
-				},
-				{
-					"weight": 0,
-					"value": "plus"
-				},
-				{
-					"weight": 0,
-					"value": "nonplus"
-				}
-			]
-		},
 		"171906a2-6e34-4d0e-879c-a76a19f19097": {
 			"name": "vod_page_recommendations_ordering",
 			"groups": [
@@ -349,11 +332,11 @@
 			"name": "Channel Page Redesign",
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 100,
 					"value": "new"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "old"
 				}
 			]
@@ -388,11 +371,11 @@
 			"name": "NEXUS_ROLLOUT",
 			"groups": [
 				{
-					"weight": 99,
+					"weight": 95,
 					"value": "disabled"
 				},
 				{
-					"weight": 1,
+					"weight": 5,
 					"value": "enabled"
 				}
 			]
