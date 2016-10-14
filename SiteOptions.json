@@ -627,19 +627,6 @@
 				}
 			]
 		},
-		"75025ac0-54d8-48fc-a634-1b30a3d3939b": {
-			"name": "Use JS ads layer for flash backend",
-			"groups": [
-				{
-					"weight": 0,
-					"value": "yes"
-				},
-				{
-					"weight": 100,
-					"value": "no"
-				}
-			]
-		},
 		"84d81180-6faa-4c58-98d7-48bbff5035c7": {
 			"name": "baking_bread_us",
 			"groups": [
@@ -742,6 +729,19 @@
 				{
 					"weight": 50,
 					"value": "off"
+				}
+			]
+		},
+		"8bc4faaa-b4df-4862-b249-ac153de6294a": {
+			"name": "Seaweed",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "yes"
+				},
+				{
+					"weight": 50,
+					"value": "no"
 				}
 			]
 		},
