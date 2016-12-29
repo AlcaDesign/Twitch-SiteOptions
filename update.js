@@ -62,6 +62,7 @@ void function init() {
 	console.log('init');
 	console.time('time');
 	getData()
+	.then(JSON.parse)
 	.then(setVariable)
 	.then(checkAgainstOld)
 	.then(saveNewData)
