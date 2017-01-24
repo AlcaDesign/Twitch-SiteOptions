@@ -465,7 +465,11 @@
 					"value": "1.3.1"
 				},
 				{
-					"weight": 98,
+					"weight": 2,
+					"value": "1.3.2"
+				},
+				{
+					"weight": 96,
 					"value": "1.1.118"
 				}
 			]
@@ -698,6 +702,19 @@
 				{
 					"weight": 90,
 					"value": "control"
+				}
+			]
+		},
+		"5397de92-0538-42d1-977c-11842e03c9e5": {
+			"name": "adopt",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
 				}
 			]
 		},
@@ -1084,12 +1101,16 @@
 			"name": "PERPETUA",
 			"groups": [
 				{
-					"weight": 100,
-					"value": "control"
+					"weight": 0,
+					"value": "early"
 				},
 				{
 					"weight": 0,
-					"value": "yes"
+					"value": "mid"
+				},
+				{
+					"weight": 100,
+					"value": "control"
 				}
 			]
 		},
