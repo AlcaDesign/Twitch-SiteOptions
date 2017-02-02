@@ -291,11 +291,11 @@
 			"name": "Pineapple",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "no"
 				}
 			]
@@ -719,11 +719,11 @@
 			"name": "WATCH_NOW_RIGHTBAR",
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "treatment"
 				},
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "control"
 				}
 			]
@@ -1608,7 +1608,7 @@
 			"name": "snail",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "early"
 				},
 				{
@@ -1616,7 +1616,7 @@
 					"value": "mid"
 				},
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "control"
 				}
 			]
