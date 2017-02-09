@@ -556,11 +556,11 @@
 			"name": "ios_moat",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "active"
 				}
 			]
@@ -1324,19 +1324,6 @@
 				}
 			]
 		},
-		"b542e7a6-6fc9-4380-a5cd-95301706904f": {
-			"name": "FINAL_DESTINATION",
-			"groups": [
-				{
-					"weight": 50,
-					"value": "channel"
-				},
-				{
-					"weight": 50,
-					"value": "videos"
-				}
-			]
-		},
 		"b9063610-cdfd-43c3-8479-59a6ab82d831": {
 			"name": "Visible Post Reactions",
 			"groups": [
@@ -1700,11 +1687,11 @@
 					"value": "early"
 				},
 				{
-					"weight": 0,
+					"weight": 80,
 					"value": "mid"
 				},
 				{
-					"weight": 90,
+					"weight": 10,
 					"value": "control"
 				}
 			]
