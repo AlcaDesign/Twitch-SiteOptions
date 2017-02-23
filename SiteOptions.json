@@ -281,12 +281,16 @@
 			"name": "CVP-Feb-2017",
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 80,
 					"value": "1.3.5"
 				},
 				{
-					"weight": 2,
+					"weight": 10,
 					"value": "1.4.0"
+				},
+				{
+					"weight": 2,
+					"value": "1.4.0+speed"
 				},
 				{
 					"weight": 2,
@@ -544,6 +548,19 @@
 				{
 					"weight": 5,
 					"value": "communities-tab"
+				}
+			]
+		},
+		"3ba26ac2-a5db-4318-83c5-dcbe11e2774f": {
+			"name": "CLIPS_CLIPPY_PATENT_PENDING",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
 				}
 			]
 		},
@@ -963,27 +980,6 @@
 				}
 			]
 		},
-		"8a557906-5bfd-4790-b26c-cda8209567a7": {
-			"name": "LANGUAGE_DIRECTORY_ROWCOUNT",
-			"groups": [
-				{
-					"weight": 25,
-					"value": "2"
-				},
-				{
-					"weight": 25,
-					"value": "4"
-				},
-				{
-					"weight": 25,
-					"value": "8"
-				},
-				{
-					"weight": 25,
-					"value": "16"
-				}
-			]
-		},
 		"8ace0f50-8afd-424a-a086-3e61b3e66da0": {
 			"name": "MESSAGE_HISTORY",
 			"groups": [
@@ -1343,11 +1339,11 @@
 			"name": "onsite_notifications",
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 90,
 					"value": "control"
 				},
 				{
-					"weight": 5,
+					"weight": 10,
 					"value": "variant1"
 				}
 			]
@@ -1705,6 +1701,19 @@
 				{
 					"weight": 100,
 					"value": "no"
+				}
+			]
+		},
+		"ee02392c-ef7a-4a35-a680-ae69f3c910a8": {
+			"name": "dobbin_rollout",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "disabled"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
 				}
 			]
 		},
