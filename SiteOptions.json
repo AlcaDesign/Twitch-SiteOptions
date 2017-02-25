@@ -577,6 +577,27 @@
 				}
 			]
 		},
+		"3f983cb9-25be-41cd-814d-22eaa23fdd27": {
+			"name": "communities_site_search",
+			"groups": [
+				{
+					"weight": 25,
+					"value": "below_videos"
+				},
+				{
+					"weight": 25,
+					"value": "below_channels"
+				},
+				{
+					"weight": 25,
+					"value": "below_live"
+				},
+				{
+					"weight": 25,
+					"value": "control"
+				}
+			]
+		},
 		"403707e6-abb9-401c-a2ca-dd643293dbdd": {
 			"name": "VOD_COVIEWS_SHUFFLE",
 			"groups": [
@@ -813,6 +834,23 @@
 				{
 					"weight": 5,
 					"value": "live"
+				}
+			]
+		},
+		"5daee224-4c99-499f-b6e0-e308a5fa54f1": {
+			"name": "aws_roundtrip_latency_test_endpoint",
+			"groups": [
+				{
+					"weight": 33,
+					"value": "control"
+				},
+				{
+					"weight": 33,
+					"value": "edges_only"
+				},
+				{
+					"weight": 34,
+					"value": "localized"
 				}
 			]
 		},
@@ -1688,6 +1726,19 @@
 				{
 					"weight": 0,
 					"value": "enabled"
+				}
+			]
+		},
+		"f03d8b21-c0dc-43c6-8ee6-aa59d7edd3ef": {
+			"name": "aws_roundtrip_latency_test_opt_in",
+			"groups": [
+				{
+					"weight": 1,
+					"value": "true"
+				},
+				{
+					"weight": 99,
+					"value": "false"
 				}
 			]
 		},
