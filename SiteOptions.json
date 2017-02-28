@@ -153,6 +153,23 @@
 				}
 			]
 		},
+		"039bcc41-baa9-4351-8a76-3bcece6aec44": {
+			"name": "Transcode_Quality_Experiment_4",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "regular"
+				},
+				{
+					"weight": 0,
+					"value": "plus"
+				},
+				{
+					"weight": 0,
+					"value": "nonplus"
+				}
+			]
+		},
 		"04165981-17be-4593-afbd-762a380f6838": {
 			"name": "MESSAGE_DELETED_EXPERIMENT",
 			"groups": [
@@ -655,6 +672,19 @@
 				},
 				{
 					"weight": 0,
+					"value": "control"
+				}
+			]
+		},
+		"479d9473-bf6e-4d74-8f9b-dd85d6f98921": {
+			"name": "LOL_METADATA_EXPERIMENT",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "treatment"
+				},
+				{
+					"weight": 50,
 					"value": "control"
 				}
 			]
