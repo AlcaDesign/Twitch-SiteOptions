@@ -157,15 +157,15 @@
 			"name": "Transcode_Quality_Experiment_4",
 			"groups": [
 				{
-					"weight": 100,
-					"value": "regular"
-				},
-				{
-					"weight": 0,
+					"weight": 3,
 					"value": "plus"
 				},
 				{
-					"weight": 0,
+					"weight": 94,
+					"value": "regular"
+				},
+				{
+					"weight": 3,
 					"value": "nonplus"
 				}
 			]
@@ -1040,6 +1040,19 @@
 				{
 					"weight": 5,
 					"value": "no"
+				}
+			]
+		},
+		"88ad36bd-f5ba-4c8c-8d06-30e486cd5d07": {
+			"name": "clips_scared_to_be_lonely",
+			"groups": [
+				{
+					"weight": 1,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
 				}
 			]
 		},
