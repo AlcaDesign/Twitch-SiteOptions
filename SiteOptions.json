@@ -157,15 +157,15 @@
 			"name": "Transcode_Quality_Experiment_4",
 			"groups": [
 				{
-					"weight": 20,
+					"weight": 0,
 					"value": "plus"
 				},
 				{
-					"weight": 60,
+					"weight": 100,
 					"value": "regular"
 				},
 				{
-					"weight": 20,
+					"weight": 0,
 					"value": "nonplus"
 				}
 			]
@@ -239,12 +239,20 @@
 			"name": "CVP-Mar-2017",
 			"groups": [
 				{
-					"weight": 78,
+					"weight": 48,
 					"value": "1.3.5"
 				},
 				{
-					"weight": 14,
+					"weight": 40,
 					"value": "1.5.1"
+				},
+				{
+					"weight": 2,
+					"value": "1.5.2"
+				},
+				{
+					"weight": 2,
+					"value": "1.5.2+fxf"
 				},
 				{
 					"weight": 4,
@@ -332,11 +340,11 @@
 			"name": "CVP-Feb-2017",
 			"groups": [
 				{
-					"weight": 78,
+					"weight": 50,
 					"value": "1.3.5"
 				},
 				{
-					"weight": 14,
+					"weight": 42,
 					"value": "1.5.1"
 				},
 				{
@@ -372,6 +380,19 @@
 				{
 					"weight": 0,
 					"value": "enabled"
+				}
+			]
+		},
+		"1c7a531b-462b-4814-820e-5c3f2871cda9": {
+			"name": "CHANNEL_SIGNUP_CTA",
+			"groups": [
+				{
+					"weight": 95,
+					"value": "control"
+				},
+				{
+					"weight": 5,
+					"value": "show"
 				}
 			]
 		},
@@ -1328,19 +1349,6 @@
 				}
 			]
 		},
-		"aaac75ea-c969-4826-b32d-ceefac620a79": {
-			"name": "Recommended Channels",
-			"groups": [
-				{
-					"weight": 0,
-					"value": "no"
-				},
-				{
-					"weight": 100,
-					"value": "yes"
-				}
-			]
-		},
 		"ac2acc22-f0ef-4162-b9a3-7357249165ca": {
 			"name": "baking_bread_i",
 			"groups": [
@@ -1434,11 +1442,11 @@
 					"value": "control"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "variant2"
 				}
 			]
