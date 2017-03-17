@@ -239,8 +239,24 @@
 			"name": "CVP-Mar-2017",
 			"groups": [
 				{
-					"weight": 75,
+					"weight": 10,
+					"value": "1.5.1+def"
+				},
+				{
+					"weight": 8,
+					"value": "1.5.1+abs1"
+				},
+				{
+					"weight": 2,
+					"value": "1.5.1+abs3"
+				},
+				{
+					"weight": 61,
 					"value": "1.5.1"
+				},
+				{
+					"weight": 2,
+					"value": "1.5.2+speed"
 				},
 				{
 					"weight": 5,
@@ -253,14 +269,6 @@
 				{
 					"weight": 2,
 					"value": "1.5.2+fxf"
-				},
-				{
-					"weight": 4,
-					"value": "1.5.1+abs0"
-				},
-				{
-					"weight": 4,
-					"value": "1.5.1+abs1"
 				}
 			]
 		},
