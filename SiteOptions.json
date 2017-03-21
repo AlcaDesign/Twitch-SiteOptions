@@ -209,11 +209,11 @@
 			"name": "SOCIAL_COLUMN",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "variant1"
 				},
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "control"
 				}
 			]
@@ -1250,15 +1250,15 @@
 			"name": "BROWSE_EXPERIMENT",
 			"groups": [
 				{
-					"weight": 70,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "variant1"
 				},
 				{
-					"weight": 20,
+					"weight": 100,
 					"value": "variant2"
 				}
 			]
