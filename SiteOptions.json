@@ -153,23 +153,6 @@
 				}
 			]
 		},
-		"039bcc41-baa9-4351-8a76-3bcece6aec44": {
-			"name": "Transcode_Quality_Experiment_4",
-			"groups": [
-				{
-					"weight": 0,
-					"value": "plus"
-				},
-				{
-					"weight": 100,
-					"value": "regular"
-				},
-				{
-					"weight": 0,
-					"value": "nonplus"
-				}
-			]
-		},
 		"04165981-17be-4593-afbd-762a380f6838": {
 			"name": "MESSAGE_DELETED_EXPERIMENT",
 			"groups": [
@@ -251,28 +234,12 @@
 					"value": "1.5.1+abs3"
 				},
 				{
-					"weight": 58,
-					"value": "1.5.1"
-				},
-				{
-					"weight": 3,
-					"value": "1.6.0"
-				},
-				{
 					"weight": 2,
-					"value": "1.5.2+speed"
+					"value": "1.6.1+speed"
 				},
 				{
-					"weight": 5,
-					"value": "1.3.5"
-				},
-				{
-					"weight": 10,
-					"value": "1.5.2"
-				},
-				{
-					"weight": 2,
-					"value": "1.5.2+fxf"
+					"weight": 78,
+					"value": "1.6.1"
 				}
 			]
 		},
@@ -1208,6 +1175,31 @@
 				{
 					"weight": 100,
 					"value": "no"
+				}
+			]
+		},
+		"95003a8e-de0a-4319-9de3-8a0822799298": {
+			"name": "CVP March 21",
+			"groups": [
+				{
+					"weight": 10,
+					"value": "1.6.1+def"
+				},
+				{
+					"weight": 18,
+					"value": "1.6.1+abs1"
+				},
+				{
+					"weight": 2,
+					"value": "1.6.1+abs3"
+				},
+				{
+					"weight": 2,
+					"value": "1.6.1+speed"
+				},
+				{
+					"weight": 68,
+					"value": "1.6.1"
 				}
 			]
 		},
