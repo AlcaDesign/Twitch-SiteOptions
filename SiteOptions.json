@@ -1183,23 +1183,23 @@
 			"groups": [
 				{
 					"weight": 10,
-					"value": "1.6.1+def"
+					"value": "1.6.2+def"
 				},
 				{
 					"weight": 18,
-					"value": "1.6.1+abs1"
+					"value": "1.6.2+abs1"
 				},
 				{
 					"weight": 2,
-					"value": "1.6.1+abs3"
+					"value": "1.6.2+abs3"
 				},
 				{
 					"weight": 2,
-					"value": "1.6.1+speed"
+					"value": "1.6.2+speed"
 				},
 				{
 					"weight": 68,
-					"value": "1.6.1"
+					"value": "1.6.2"
 				}
 			]
 		},
@@ -1316,27 +1316,6 @@
 				{
 					"weight": 5,
 					"value": "no"
-				}
-			]
-		},
-		"a95aaca9-125f-416f-9a8a-1d344854919c": {
-			"name": "clips_fresh_eyes",
-			"groups": [
-				{
-					"weight": 0,
-					"value": "control"
-				},
-				{
-					"weight": 0,
-					"value": "variant1"
-				},
-				{
-					"weight": 0,
-					"value": "variant2"
-				},
-				{
-					"weight": 100,
-					"value": "variant3"
 				}
 			]
 		},
