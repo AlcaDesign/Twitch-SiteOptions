@@ -847,6 +847,19 @@
 				}
 			]
 		},
+		"52cb0929-0af1-45ba-81ef-79d9ae80b342": {
+			"name": "GROWTH_SKIP_SEEN_FRIENDS_IN_NOTIFICATIONS",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "yes"
+				}
+			]
+		},
 		"533f9d45-9152-45a2-8ec7-dc44d40cce6f": {
 			"name": "ios_moat_3",
 			"groups": [
@@ -1704,6 +1717,23 @@
 				}
 			]
 		},
+		"d48fe249-fd73-4c8f-bd17-415b70dc3708": {
+			"name": "chomperz",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "five"
+				},
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "fifteen"
+				}
+			]
+		},
 		"d4d938f7-bdc2-42cd-afd0-f434e4192c29": {
 			"name": "ORC",
 			"groups": [
@@ -1743,6 +1773,23 @@
 				{
 					"weight": 100,
 					"value": "d,hs,c"
+				}
+			]
+		},
+		"e15d2a40-b2bb-4819-af2b-cb7a6f0e31cb": {
+			"name": "CHANNEL_SIGNUP_CTA_V2",
+			"groups": [
+				{
+					"weight": 20,
+					"value": "show"
+				},
+				{
+					"weight": 30,
+					"value": "show_dismiss"
+				},
+				{
+					"weight": 50,
+					"value": "control"
 				}
 			]
 		},
