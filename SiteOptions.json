@@ -695,6 +695,19 @@
 				}
 			]
 		},
+		"45081886-ec79-4f81-9ed3-603c735b2b0c": {
+			"name": "mario",
+			"groups": [
+				{
+					"weight": 50,
+					"value": "yes"
+				},
+				{
+					"weight": 50,
+					"value": "no"
+				}
+			]
+		},
 		"474db509-7fb8-403e-97da-66dae8954e6d": {
 			"name": "android_home_games_carousel",
 			"groups": [
@@ -851,11 +864,11 @@
 			"name": "GROWTH_SKIP_SEEN_FRIENDS_IN_NOTIFICATIONS",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "yes"
 				}
 			]
@@ -946,11 +959,11 @@
 			"name": "clips_it_aint_me",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "variant1"
 				}
 			]
@@ -1784,11 +1797,11 @@
 					"value": "show"
 				},
 				{
-					"weight": 30,
+					"weight": 70,
 					"value": "show_dismiss"
 				},
 				{
-					"weight": 50,
+					"weight": 10,
 					"value": "control"
 				}
 			]
