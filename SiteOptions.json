@@ -499,6 +499,27 @@
 				}
 			]
 		},
+		"274f6835-a41d-417c-ad58-f1321e2aac39": {
+			"name": "android_skippable_ads",
+			"groups": [
+				{
+					"weight": 5,
+					"value": "skipcontrol"
+				},
+				{
+					"weight": 5,
+					"value": "skip15"
+				},
+				{
+					"weight": 0,
+					"value": "skip5"
+				},
+				{
+					"weight": 90,
+					"value": "holdout"
+				}
+			]
+		},
 		"2858bc04-3f98-4808-a2dd-86555885ca90": {
 			"name": "clips_feel_it_coming",
 			"groups": [
@@ -724,11 +745,11 @@
 			"name": "LOL_METADATA_EXPERIMENT",
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 95,
 					"value": "treatment"
 				},
 				{
-					"weight": 50,
+					"weight": 5,
 					"value": "control"
 				}
 			]
@@ -919,11 +940,11 @@
 					"value": "control"
 				},
 				{
-					"weight": 33,
+					"weight": 0,
 					"value": "removeCarouselOnly"
 				},
 				{
-					"weight": 0,
+					"weight": 33,
 					"value": "localizeTopChannelsOnly"
 				},
 				{
@@ -1130,11 +1151,11 @@
 			"name": "clips_scared_to_be_lonely",
 			"groups": [
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "variant1"
 				}
 			]
@@ -1665,7 +1686,7 @@
 					"value": "yes"
 				},
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -1877,11 +1898,11 @@
 			"name": "coview_with_predictions",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "experiment"
 				}
 			]
