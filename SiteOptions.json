@@ -229,11 +229,11 @@
 					"value": "variant1"
 				},
 				{
-					"weight": 80,
+					"weight": 60,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 30,
 					"value": "variant2"
 				}
 			]
@@ -1092,6 +1092,27 @@
 				{
 					"weight": 0,
 					"value": "control"
+				}
+			]
+		},
+		"79accd86-e77e-4eae-8979-d19ab2bc4521": {
+			"name": "ios_skippable_ads",
+			"groups": [
+				{
+					"weight": 5,
+					"value": "skipcontrol"
+				},
+				{
+					"weight": 5,
+					"value": "skip15"
+				},
+				{
+					"weight": 0,
+					"value": "skip5"
+				},
+				{
+					"weight": 90,
+					"value": "holdout"
 				}
 			]
 		},
