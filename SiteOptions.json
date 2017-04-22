@@ -546,6 +546,19 @@
 				}
 			]
 		},
+		"2e0cb30b-7aaa-4e01-9fdd-b7046605b41f": {
+			"name": "Mobile Web Chat Experiment",
+			"groups": [
+				{
+					"weight": 90,
+					"value": "Gets chat"
+				},
+				{
+					"weight": 10,
+					"value": "Doesn't get chat"
+				}
+			]
+		},
 		"2f6b028c-c2a5-462c-8daf-3bcb394839bb": {
 			"name": "android_playercore",
 			"groups": [
