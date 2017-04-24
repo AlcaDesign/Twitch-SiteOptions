@@ -143,6 +143,19 @@
 	"tsubs_enabled": false,
 	"release_subs_tsubs": "staff",
 	"experiments": {
+		"00683bde-a79d-4b9d-a7cc-b0549f854d36": {
+			"name": "offline_recs",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "no"
+				},
+				{
+					"weight": 0,
+					"value": "yes"
+				}
+			]
+		},
 		"0173154a-7fa4-4a76-b8e1-0575eb3a7fcd": {
 			"name": "android_live_preview",
 			"groups": [
@@ -229,11 +242,11 @@
 					"value": "variant1"
 				},
 				{
-					"weight": 60,
+					"weight": 40,
 					"value": "control"
 				},
 				{
-					"weight": 30,
+					"weight": 50,
 					"value": "variant2"
 				}
 			]
@@ -530,6 +543,19 @@
 				{
 					"weight": 100,
 					"value": "variant1"
+				}
+			]
+		},
+		"2884161f-6094-4189-b1aa-fd256468f96e": {
+			"name": "PLAYER_NOTIFICATION_BUTTON",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "treatment"
 				}
 			]
 		},
@@ -970,11 +996,11 @@
 			"name": "PERPETUA_CRSL",
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "experiment"
 				}
 			]
