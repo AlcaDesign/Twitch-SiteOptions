@@ -1725,6 +1725,19 @@
 				}
 			]
 		},
+		"b8d1e7be-59f7-4ee3-a0c6-54ce94366d14": {
+			"name": "padtime",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "pad_control"
+				},
+				{
+					"weight": 0,
+					"value": "pad_experiment"
+				}
+			]
+		},
 		"b9063610-cdfd-43c3-8479-59a6ab82d831": {
 			"name": "Visible Post Reactions",
 			"groups": [
