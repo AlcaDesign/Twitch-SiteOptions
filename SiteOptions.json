@@ -1799,11 +1799,11 @@
 			"groups": [
 				{
 					"weight": 100,
-					"value": "pad_control"
+					"value": "control"
 				},
 				{
 					"weight": 0,
-					"value": "pad_experiment"
+					"value": "treatment"
 				}
 			]
 		},
