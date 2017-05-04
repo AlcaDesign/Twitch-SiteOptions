@@ -1164,6 +1164,19 @@
 				}
 			]
 		},
+		"6b4086ea-dcce-41c9-a57b-000fa9366e35": {
+			"name": "clips_you_were_right",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				}
+			]
+		},
 		"711aaaf6-61c0-4cc4-9469-0dfc9908785a": {
 			"name": "VP_QOS_TEST",
 			"groups": [
