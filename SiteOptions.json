@@ -1811,11 +1811,11 @@
 			"name": "padtime",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "treatment"
 				}
 			]
