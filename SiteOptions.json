@@ -133,7 +133,7 @@
 	"fl_details_link_enabled": true,
 	"cmrc_game_details_v2_released": true,
 	"cmrc_channel_box_released": true,
-	"cmrc_kick_kick_boom_released": true,
+	"cmrc_kick_kick_boom_released": false,
 	"is_bk_enabled": true,
 	"bits_promo_enabled": true,
 	"p_cheer_enabled": true,
@@ -849,6 +849,19 @@
 				}
 			]
 		},
+		"497e1277-7fff-4c16-98f0-6b55c8b59a4f": {
+			"name": "I18N_GAME_NAMES",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
+				}
+			]
+		},
 		"4aa9ee11-136c-4521-a139-e2abb718ec07": {
 			"name": "Gabriel",
 			"groups": [
@@ -896,7 +909,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//spade.twitch.tv/"
+					"value": "//trowel.twitch.tv/"
 				}
 			]
 		},
@@ -1419,15 +1432,15 @@
 				},
 				{
 					"weight": 2,
-					"value": "1.7.5+spd34"
+					"value": "1.7.6+spd34"
 				},
 				{
 					"weight": 2,
-					"value": "1.7.5+spd45"
+					"value": "1.7.6+spd45"
 				},
 				{
 					"weight": 2,
-					"value": "1.7.5+spd35"
+					"value": "1.7.6+spd35"
 				},
 				{
 					"weight": 2,
@@ -1447,11 +1460,15 @@
 				},
 				{
 					"weight": 2,
-					"value": "1.7.5+spdcy"
+					"value": "1.7.6+spdcy"
 				},
 				{
-					"weight": 5,
+					"weight": 2,
 					"value": "1.7.5"
+				},
+				{
+					"weight": 3,
+					"value": "1.7.6"
 				}
 			]
 		},
@@ -1512,6 +1529,19 @@
 				{
 					"weight": 100,
 					"value": "variant2"
+				}
+			]
+		},
+		"9966ac82-62e7-43b2-b6dc-8e8fd03dd1c5": {
+			"name": "android_playercore_3",
+			"groups": [
+				{
+					"weight": 99,
+					"value": "control"
+				},
+				{
+					"weight": 1,
+					"value": "active"
 				}
 			]
 		},
