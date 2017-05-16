@@ -867,23 +867,19 @@
 			"groups": [
 				{
 					"weight": 5,
-					"value": "1.7.7+absctrl"
-				},
-				{
-					"weight": 5,
-					"value": "1.7.7+absoff"
-				},
-				{
-					"weight": 20,
-					"value": "1.7.7+spd67"
-				},
-				{
-					"weight": 65,
-					"value": "1.7.7"
+					"value": "1.8.2+absctrl"
 				},
 				{
 					"weight": 5,
 					"value": "1.8.2"
+				},
+				{
+					"weight": 10,
+					"value": "1.8.2+spd67"
+				},
+				{
+					"weight": 80,
+					"value": "1.7.7+spd67"
 				}
 			]
 		},
@@ -1655,6 +1651,19 @@
 				}
 			]
 		},
+		"9ce10ee7-98ec-4126-a42f-28a6a129ca9d": {
+			"name": "ios_chomments",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "active"
+				}
+			]
+		},
 		"9d1ee56c-22dc-4d5c-96dd-5ee393c6cd4b": {
 			"name": "xboxone_playercore",
 			"groups": [
@@ -1886,11 +1895,11 @@
 			"name": "CHANNEL_CHAT_CTA",
 			"groups": [
 				{
-					"weight": 20,
+					"weight": 0,
 					"value": "5min"
 				},
 				{
-					"weight": 80,
+					"weight": 100,
 					"value": "control"
 				}
 			]
