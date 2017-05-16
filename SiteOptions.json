@@ -973,7 +973,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-8a9219.sjc01.hls.ttvnw.net"
+					"value": "//video-edge-a1d22e.sjc01.hls.ttvnw.net"
 				}
 			]
 		},
@@ -1297,6 +1297,19 @@
 				}
 			]
 		},
+		"80ee272f-44ec-4d8c-8ad1-72f4933a3da4": {
+			"name": "android_ingest_testing",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
+				}
+			]
+		},
 		"819aed52-3cc1-4747-a840-476a39487a2e": {
 			"name": "SOCIAL_RECOMMENDATIONS",
 			"groups": [
@@ -1333,6 +1346,19 @@
 				{
 					"weight": 50,
 					"value": "two_page"
+				}
+			]
+		},
+		"87d995c4-afbc-400e-a6e4-472419071e26": {
+			"name": "ios_ingest_testing",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
 				}
 			]
 		},
@@ -1504,16 +1530,16 @@
 					"value": "1.7.4+absctrl"
 				},
 				{
-					"weight": 2,
+					"weight": 5,
 					"value": "1.8.2"
 				},
 				{
-					"weight": 28,
+					"weight": 80,
 					"value": "1.7.7+spd67"
 				},
 				{
-					"weight": 60,
-					"value": "1.7.7"
+					"weight": 5,
+					"value": "1.8.2+spd67"
 				}
 			]
 		},
