@@ -131,8 +131,6 @@
 	"is_fl_enabled": true,
 	"fl_enabled_list": "27697171,116810334,118271634,116903498,87220843,133588991,135264519,135264580,135264649,135264681,135264719,135264770,135264834,135264943,113883999,118463535,112125341,132980646,133560243,134319061,134738051,135267561,121123175,123056178,134751278,118915482,56211880,28213853,108440231,69911318,124106116,103769330,125197858,98539240,105359181,61998487,118218165,35044387,100478300,67853557,116383283,84392688,135264519,135264580,135264649,135264681,135264719,135264770,135264834,135264943,104314137,135476080,135476127,135476345,135476452,135476681,135476864,135476981,104314137,130816794,115256112,128971049,114581506,70516263,114673704,135621881,135622125,135622202,135622090,135622157,135636918,135637456,135637590,139075904,104874624,128971049,112479096,114598718",
 	"fl_details_link_enabled": true,
-	"cmrc_game_details_v2_released": true,
-	"cmrc_channel_box_released": true,
 	"cmrc_kick_kick_boom_released": false,
 	"is_bk_enabled": true,
 	"bits_promo_enabled": false,
@@ -651,11 +649,11 @@
 			"groups": [
 				{
 					"weight": 10,
-					"value": "player-core"
+					"value": "no"
 				},
 				{
 					"weight": 90,
-					"value": "mediaplayer"
+					"value": "yes"
 				}
 			]
 		},
@@ -898,7 +896,7 @@
 			"groups": [
 				{
 					"weight": 5,
-					"value": "1.8.5+absctrl"
+					"value": "1.8.6+absctrl"
 				},
 				{
 					"weight": 2,
@@ -906,11 +904,11 @@
 				},
 				{
 					"weight": 2,
-					"value": "1.8.5+abshist"
+					"value": "1.8.6+abshist"
 				},
 				{
 					"weight": 3,
-					"value": "1.8.5"
+					"value": "1.8.6"
 				},
 				{
 					"weight": 2,
@@ -918,7 +916,7 @@
 				},
 				{
 					"weight": 84,
-					"value": "1.8.5+spd67"
+					"value": "1.8.6+spd67"
 				},
 				{
 					"weight": 2,
@@ -1012,7 +1010,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-c15a93.sjc01.hls.ttvnw.net/v1/playlist/CpZNHiFVU_orq0Sk7EcZK-X89OEOFNqSp0egJ09fcbLDSMZxecdEBpQ0HgPGrxl21DtguZtopmF_A4Ibl5AwTtC2bputO1TigiX_RuwNwwcnFzSSGRou8fJv4k5B3sebHSqDY0TdIj35x9RvkGkyCbJt2PC0v-WYvZiTZDS56UAz4900azdafA5E3NTSeucVJpf8rKvNq0ATSjasSnz0QSz0BaXr48WWENBoytiYY7nvu_PORH3guXDPk9iitS9Y3UoR9j2rMVHsIcnb0sUWLMQSZkasDuvFVcuV-rGklEuyUPSDQNDuzYURS0ui60e8rt2kD9fKbnLq0mhSdfZkumpBZeZ4NPVqRk5Y4PEi8gTlXWUgTl8SIzeM2_o1wcz0LK64YwEZJ8S72Xe5Pwqv7qvi-_HXmTKOkTcyZxM12Sy1xveoj6scgmT67db3CZ.m3u8"
+					"value": "////video-edge-f20e35.sjc01.hls.ttvnw.net/v1/playlist/CoOlCKZyJrJhjl1Yl-dganhy5500XdGk5iK5Mv2ulsP50X8ZsMRme-O8Nq8uIOoPxc0KMEjNiYdzMVmgCXcrAjkemiY_-Nwn03b69wqtfloE41Q7JhEMP-ESoJDh0qHaC9BL47jfChBgDtVwzDH18LqaYn5lgIxQF2KYp6BFDr7Nkj7B_itPcs2wyQS5BQ8RHwiZ8jjnyoCj1zfmrcjyZGS0geIMwnQUv4FM55r2fxcpgOlUC7tBX8QQAuvPRgJQdQfLO3Xb9R6Fvwcnb7X1v6nYujLF3uC85fTJZFYwJEyWSH5MJgErSxrKNhT2paYUiP5tIKwpZkCNq-KoeZM7azmzrxAnQtqDNw-yCMhdyAZdOkgIt6nvNmOu_r-D_E2zGfD78RmRos0ys_06vRmvvEEx04SQOzeIKJjUV-HofoBjuonrYBn25J6iLwe7GgyE4o.m3u8"
 				}
 			]
 		},
@@ -1366,11 +1364,11 @@
 			"name": "android_pipboy_broadcasting",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -1535,11 +1533,11 @@
 			"name": "NEW_STATS",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -1960,11 +1958,11 @@
 			"name": "ios_google_ima",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "active"
 				}
 			]
@@ -2064,8 +2062,12 @@
 			"name": "Watch_Party_Web",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "no"
+				},
+				{
+					"weight": 50,
+					"value": "yes"
 				}
 			]
 		},
@@ -2247,7 +2249,7 @@
 			"groups": [
 				{
 					"weight": 100,
-					"value": "no"
+					"value": "yes"
 				}
 			]
 		},
