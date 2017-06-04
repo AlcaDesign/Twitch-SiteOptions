@@ -293,28 +293,15 @@
 				}
 			]
 		},
-		"0fb759af-22ba-415a-9c83-e2dbeb6f8e41": {
-			"name": "Settings Menu Redesign",
-			"groups": [
-				{
-					"weight": 0,
-					"value": "old"
-				},
-				{
-					"weight": 100,
-					"value": "new"
-				}
-			]
-		},
 		"0ff4ccc4-fb0f-41c0-b195-db9ccdb712d5": {
 			"name": "Bismol",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "no"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "yes"
 				}
 			]
@@ -727,11 +714,11 @@
 			"name": "HTML5_Toggle_Removal",
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 20,
 					"value": "remove"
 				},
 				{
-					"weight": 90,
+					"weight": 80,
 					"value": "keep"
 				}
 			]
@@ -897,19 +884,19 @@
 			"groups": [
 				{
 					"weight": 5,
-					"value": "1.8.6+absctrl"
+					"value": "1.8.7+absctrl"
 				},
 				{
 					"weight": 2,
-					"value": "1.8.100"
+					"value": "1.8.7+spd67"
 				},
 				{
 					"weight": 2,
-					"value": "1.8.6+abshist"
+					"value": "1.8.7+abshist"
 				},
 				{
 					"weight": 3,
-					"value": "1.8.6"
+					"value": "1.8.7"
 				},
 				{
 					"weight": 2,
@@ -917,11 +904,11 @@
 				},
 				{
 					"weight": 84,
-					"value": "1.8.6+spd67"
+					"value": "1.8.7+spd67"
 				},
 				{
 					"weight": 2,
-					"value": "1.8.100+spd67"
+					"value": "1.8.7+spd67"
 				}
 			]
 		},
@@ -1011,7 +998,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-15cbb0.sjc01.hls.ttvnw.net/v1/playlist/CuSWeNTmBwTBRBCnnFuRNT0U6yokdqYv4oSMaNDMyNtI6W70KPXixb4lKIDU5SindKmAm3CpMSkIxEWXPiJSwWvWGzxHonERuSfQNnLdR2F6X-5IcTnYRptYpKPyV-7wsnuHH8vGXNEAxjIRgyz8NWk8D8tK4csC2QB-2Wv0pbyE1l3LC2LdoBHXPvJqeibPhzuhueK5936iTrDNtbBt79ircx1CDigk31Jvy19NuFXZS2uD7kbjLFyKzGl2fpUMOlh4JW6adwkJkXVUCLr4eG60OceBZaGtoDqTiPzc_XE0cekejo9-b9wPqPLAfGLBkNNgJE44g_38jiEqc7QWKfGch9e7MFuGO_Pmo-jUlmW0sF5o6yahAZqnwIiD3epaj4WQcFkDgD3fxKhWmJjS2PlBcZkXqyErHYbg6T3RELBusdWPNDvZ9oZY2ZhE5Bs5.m3u8"
+					"value": "////video-edge-3f2b84.sjc01.hls.ttvnw.net/v1/playlist/CtOY_qZV7BmZRfb8WpOKv1im_DoKiJz-H3jaJxHohYh6FkhTMNdsgpaoYPP23E5pzCKGTJoFMDKD6yYLvvgWjW1fETNyA12XRwhK7G5c_W1H5QeJ9oBMINFGhpRbVeVbPB1jK1ZhH-Vq2aa3_D8mCQ1PsQA17EiOzswjJXTvMleYAzHGdh-rjbJ7QqLCp9v_armPrxHln5D3G-vXEUBPnqcVFiCHEWroSwVBHIzTyV4N7U1-FdGOGW5O_s1U2DVq342LaMKubNcy33pd5N2jJVC__bjmuOuJqeJSxL6lR7AWJwtX-0Ol7Vm0Wl-UvlDGx9NfgztTpINdKQag1UTZZllJ2nIj4cAVNft3IvnqxYVZZJ2cmrdlXJBd_SFU80PmclWPGMoqbzIc6pYcS1arg9C38n3ufRyQiZTrTZdwR_sNp8rRRY3Qkq7X00wBWfkiydp39fNn6WAQos6vDnujE6AG.m3u8"
 				}
 			]
 		},
@@ -1305,11 +1292,11 @@
 			"name": "auto_suggest_notification",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "show"
 				}
 			]
@@ -2475,11 +2462,11 @@
 			"name": "AKAMAI_IMAGE_MANAGER",
 			"groups": [
 				{
-					"weight": 5,
+					"weight": 50,
 					"value": "experiment"
 				},
 				{
-					"weight": 95,
+					"weight": 50,
 					"value": "control"
 				}
 			]
@@ -2554,6 +2541,6 @@
 		}
 	},
 	"prime_new_enabled": false,
-	"prime_new_blocked_regions": "TBD",
+	"prime_new_blocked_regions": "JP,JPA,MX,MEX,IN,IND,CU,CUB,SD,SUD,IR,IRN,CHN,CN,SY,SYR,PRK,KP",
 	"prime_new_whitelist": "samquality01,samquality02,samquality03,samquality04"
 }
