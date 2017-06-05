@@ -636,11 +636,11 @@
 			"name": "CVP MediaPlayer backend control",
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 100,
 					"value": "no"
 				},
 				{
-					"weight": 90,
+					"weight": 0,
 					"value": "yes"
 				}
 			]
@@ -929,11 +929,11 @@
 			"name": "LOL_METADATA_EXPERIMENT",
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 100,
 					"value": "treatment"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "control"
 				}
 			]
@@ -2423,11 +2423,11 @@
 			"name": "coview_with_regression",
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "experiment"
 				}
 			]
@@ -2540,7 +2540,7 @@
 			]
 		}
 	},
-	"prime_new_enabled": false,
+	"prime_new_enabled": true,
 	"prime_new_blocked_regions": "JP,JPA,MX,MEX,IN,IND,CU,CUB,SD,SUD,IR,IRN,CHN,CN,SY,SYR,PRK,KP",
 	"prime_new_whitelist": "samquality01,samquality02,samquality03,samquality04"
 }
