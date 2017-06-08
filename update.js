@@ -5,33 +5,27 @@ const path = require('path'),
 	fs = require('ab-fs'),
 	request = require('ab-request');
 
-let file = path.resolve(__dirname, 'SiteOptions.json'),
+let file = path.resolve(__dirname, 'experiments.json'),
 	newData;
 
 function getData() {
 	console.log('getData');
 	return request.body({
-		baseUrl: 'https://twitch.tv/',
-		url: 'site_options.js',
-		qs: {
-			v: Date.now()/1000
-		}
+		baseUrl: 'https://minixperiment.twitch.tv/',
+		url: 'experiments.json',
+		qs: { v: Date.now()/1000 },
+		json: true
 	});
-}
-
-function removeJavascript(data) {
-	console.log('removeJavascript');
-	return data.replace(/(^window.SiteOptions = |;$)/g, '');
 }
 
 function setVariable(data) {
 	console.log('setVariable');
-	newData = JSON.stringify(data, null, '\t')
+	newData = JSON.stringify(data, null, '\t');
 }
 
 function checkAgainstOld() {
 	console.log('checkAgainstOld');
-	return fs.readFileUTF8(file)
+	return fs.readFileUTF8(file).catch(() => '{}')
 	.then(data => {
 		if(data === newData) {
 			throw false;
@@ -59,7 +53,7 @@ function exec(command, options) {
 function updateToGithub() {
 	console.log('updateToGithub');
 	return Promise.resolve()
-	.then(() => exec('git add SiteOptions.json'))
+	.then(() => exec('git add experiments.json'))
 	.then(() => exec('git commit -m "Update"'))
 	.then(() => exec('git push'));
 }
@@ -68,7 +62,6 @@ void function init() {
 	console.log('init');
 	console.time('time');
 	getData()
-	.then(removeJavascript)
 	.then(JSON.parse)
 	.then(setVariable)
 	.then(checkAgainstOld)
