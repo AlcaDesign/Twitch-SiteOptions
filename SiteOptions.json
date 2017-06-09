@@ -280,15 +280,15 @@
 			"name": "clips_shelter",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 20,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "variant2"
 				}
 			]
@@ -589,11 +589,11 @@
 			"name": "android_skippable_ads",
 			"groups": [
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "skipcontrol"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "skip15"
 				},
 				{
@@ -601,7 +601,7 @@
 					"value": "skip5"
 				},
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "holdout"
 				}
 			]
@@ -753,6 +753,19 @@
 				}
 			]
 		},
+		"3a823fae-acbe-40c4-9ed8-6b1e685eb4b2": {
+			"name": "ios_notification_center",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "active"
+				}
+			]
+		},
 		"3ba26ac2-a5db-4318-83c5-dcbe11e2774f": {
 			"name": "CLIPS_CLIPPY_PATENT_PENDING",
 			"groups": [
@@ -884,31 +897,23 @@
 			"groups": [
 				{
 					"weight": 5,
-					"value": "1.8.7+absctrl"
+					"value": "1.8.8+absctrl"
 				},
 				{
 					"weight": 2,
-					"value": "1.8.7+spd67"
+					"value": "1.8.8+spd67"
 				},
 				{
 					"weight": 2,
-					"value": "1.8.7+abshist"
+					"value": "1.8.8+abshist"
 				},
 				{
 					"weight": 3,
 					"value": "1.8.7"
 				},
 				{
-					"weight": 2,
-					"value": "1.7.7+spd67"
-				},
-				{
-					"weight": 84,
-					"value": "1.8.7+spd67"
-				},
-				{
-					"weight": 2,
-					"value": "1.8.7+spd67"
+					"weight": 88,
+					"value": "1.8.8+spd67"
 				}
 			]
 		},
@@ -998,7 +1003,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-fa7e57.sjc01.hls.ttvnw.net/v1/playlist/CmAW8dGuxTR2j5XSTvAo6RNIPPgc2ZI6SQnTRddOF1xKEedw78jZz3rD8L32bbEW44jLpBbf_QMfz_HFoAra5U5idSlW7eVVNAXeCloBvFGYpo8p7T8v6tPBiI_gU6-99vnzAIiuqHCNvbFUXo5Z5Y1FN9AgGQ7w2A_haCzeqweu57RhHc3TfPGgIeT_fCqUr1pbLTCZ7KZEzzyW6s0ugzAcdGyNvsCqZQtfXS7PA5wjv6h1zTSSrl8cxNFjqb0xm6akwPxcV_-CU08G-PkMN3p_3BVdkb5iRLcPNS3c4LtHTxFDbXXFY0Kpem1qdr6QW7DYQHbykbhJ5GeJfJQmNL11aVSmvRaHCxBZl2eV3bNMVZUod2udsmNWh1ieTsEz2v0w80iVhSR0oqdQP7pekplqmZSeKdiSmgosdOgTXchnv_ZHCTedvpFcmjSeXv.m3u8"
+					"value": "////video-edge-860752.sjc01.hls.ttvnw.net/v1/playlist/CmeqOG7vQChjCIeTQOhd6HamR_KnjZ-FVFPKU8skSEh1H1bxe4Y27HlhIPsf63M3LydVtKmuJvXrScZslITipN_nRzIfaonFr1OiLfSlgsk714KGeGQPEyP0FWUqFZqS8CpVpW92lZecFkBqjLz2G886XIOtHsfj3vfb0mvvEkT-mFJXMow2KW1QO8CzfmGgzR4exybhpSTVJwfDlQT8sZhMHtg8q6-dKMRlq-LPo4ptKaypZHf61NfJW9TyApfRuN_pJlXwX6LS0SpBqobvbV-sZ0ML08c9pGFyuWERAqZ5i58CehZ00uWRF7KPW1SxN86TBE3vKO7DyKTdfuyyMUduSZ3X2zD-JpwTwHb-Y5OpFCNS6z-VgMIG__yQ_qYITmoiCAiqfxtl1EhkchVT9mu8MGFEOpX5j-5pWS0ShAjTZ2Sbj7MZgY7jvzLJjD.m3u8"
 				}
 			]
 		},
@@ -1331,11 +1336,11 @@
 			"name": "ios_skippable_ads",
 			"groups": [
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "skipcontrol"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "skip15"
 				},
 				{
@@ -1343,7 +1348,7 @@
 					"value": "skip5"
 				},
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "holdout"
 				}
 			]
@@ -1391,11 +1396,11 @@
 			"name": "sub_options",
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "one_page"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "two_page"
 				}
 			]
@@ -1724,7 +1729,7 @@
 				},
 				{
 					"weight": 10,
-					"value": "test"
+					"value": "active"
 				}
 			]
 		},
@@ -2046,6 +2051,19 @@
 				}
 			]
 		},
+		"c14ad553-a6e6-441b-961f-8ebf0d444791": {
+			"name": "android_notification_center",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "active"
+				}
+			]
+		},
 		"c31d337d-4186-465d-9d0b-cb72a5b2aef2": {
 			"name": "newsfeed_recommended_clips",
 			"groups": [
@@ -2259,15 +2277,7 @@
 			"groups": [
 				{
 					"weight": 0,
-					"value": "skip5"
-				},
-				{
-					"weight": 0,
-					"value": "control5"
-				},
-				{
-					"weight": 100,
-					"value": "control"
+					"value": "skipcontrol"
 				},
 				{
 					"weight": 0,
@@ -2275,7 +2285,11 @@
 				},
 				{
 					"weight": 0,
-					"value": "control15"
+					"value": "skip5"
+				},
+				{
+					"weight": 100,
+					"value": "holdout"
 				}
 			]
 		},
@@ -2338,15 +2352,15 @@
 			"name": "CHANNEL_SIGNUP_CTA_V2",
 			"groups": [
 				{
-					"weight": 15,
+					"weight": 0,
 					"value": "show"
 				},
 				{
-					"weight": 70,
+					"weight": 0,
 					"value": "show_dismiss"
 				},
 				{
-					"weight": 15,
+					"weight": 100,
 					"value": "control"
 				}
 			]
@@ -2429,6 +2443,31 @@
 				{
 					"weight": 100,
 					"value": "experiment"
+				}
+			]
+		},
+		"ed516213-9b6f-49a0-96f7-1706aafc8e2d": {
+			"name": "baking_brownies",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "no_play_800"
+				},
+				{
+					"weight": 0,
+					"value": "no_play_1300"
+				},
+				{
+					"weight": 0,
+					"value": "yes_play_800"
+				},
+				{
+					"weight": 0,
+					"value": "yes_play_1300"
 				}
 			]
 		},
