@@ -757,12 +757,12 @@
 			"name": "ios_notification_center",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 100,
-					"value": "active"
+					"weight": 0,
+					"value": "off"
 				}
 			]
 		},
@@ -2055,12 +2055,12 @@
 			"name": "android_notification_center",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 100,
-					"value": "active"
+					"weight": 0,
+					"value": "off"
 				}
 			]
 		},
