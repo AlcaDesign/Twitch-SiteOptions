@@ -59,6 +59,9 @@ function exec(command, options) {
 function updateToGithub() {
 	console.log('updateToGithub');
 	return Promise.resolve()
+	.then(() => exec('git diff --color SiteOptions.json')
+		.then(out => console.log(out))
+	)
 	.then(() => exec('git add SiteOptions.json'))
 	.then(() => exec('git commit -m "Update"'))
 	.then(() => exec('git push'));
