@@ -701,11 +701,11 @@
 			"name": "HTML5_Toggle_Removal",
 			"groups": [
 				{
-					"weight": 20,
+					"weight": 40,
 					"value": "remove"
 				},
 				{
-					"weight": 80,
+					"weight": 60,
 					"value": "keep"
 				}
 			]
@@ -990,7 +990,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-860752.sjc01.hls.ttvnw.net/v1/playlist/CmeqOG7vQChjCIeTQOhd6HamR_KnjZ-FVFPKU8skSEh1H1bxe4Y27HlhIPsf63M3LydVtKmuJvXrScZslITipN_nRzIfaonFr1OiLfSlgsk714KGeGQPEyP0FWUqFZqS8CpVpW92lZecFkBqjLz2G886XIOtHsfj3vfb0mvvEkT-mFJXMow2KW1QO8CzfmGgzR4exybhpSTVJwfDlQT8sZhMHtg8q6-dKMRlq-LPo4ptKaypZHf61NfJW9TyApfRuN_pJlXwX6LS0SpBqobvbV-sZ0ML08c9pGFyuWERAqZ5i58CehZ00uWRF7KPW1SxN86TBE3vKO7DyKTdfuyyMUduSZ3X2zD-JpwTwHb-Y5OpFCNS6z-VgMIG__yQ_qYITmoiCAiqfxtl1EhkchVT9mu8MGFEOpX5j-5pWS0ShAjTZ2Sbj7MZgY7jvzLJjD.m3u8"
+					"value": "////video-edge-f2b2e2.sjc01.hls.ttvnw.net/v1/playlist/CoI-1HFe4ESDbDj-TulzD34wklmWBFYJqEo3bVzlJBHZKLM-i62De0bTzCCzGDFh7PyzTA7ijC6xsfYuF68zcwJse9OAedj0stIamWn_ajE8vFUfwmxLxdmeBzcIr4fMQuM22pb4L7B_J7hyQIpHILYt3Fe06VwsVRm3mYKeqbQcnJgPf_T1QyWl3K7dWSqpaidd2Kxc8vDRGwqZm2066bGO1dHVpwQy-gKEsVcZNatp3FDji0z_vKUVVhYci09ebqi8kwEUq3wEX0zFYZv4z7ullxnzsMQo0phluYMR8UswDIX5lW_bomfUir0fJfBK3YovakLWuPC9l1E1xVY7xUX0AQzbLjiFOhEw8hpxI_BLiiA10LJi4XyyWswtqcgZcMB1892b2d-Yn7X94BupmuAEA5wdvNytHsxeEfcV1pE6fM-IvXy2OHBlMqch9AweXN5_NhoY7HQH.m3u8"
 				}
 			]
 		},
@@ -2442,19 +2442,19 @@
 				},
 				{
 					"weight": 0,
-					"value": "no_play_800"
+					"value": "no_play_600"
 				},
 				{
 					"weight": 0,
-					"value": "no_play_1300"
+					"value": "no_play_1050"
 				},
 				{
 					"weight": 0,
-					"value": "yes_play_800"
+					"value": "yes_play_600"
 				},
 				{
 					"weight": 0,
-					"value": "yes_play_1300"
+					"value": "yes_play_1050"
 				}
 			]
 		},
