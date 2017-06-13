@@ -168,19 +168,6 @@
 				}
 			]
 		},
-		"04165981-17be-4593-afbd-762a380f6838": {
-			"name": "MESSAGE_DELETED_EXPERIMENT",
-			"groups": [
-				{
-					"weight": 0,
-					"value": "true"
-				},
-				{
-					"weight": 100,
-					"value": "false"
-				}
-			]
-		},
 		"04b8f9e1-4849-48fa-8d33-c56ec9f040a0": {
 			"name": "android_video_paint",
 			"groups": [
@@ -672,14 +659,14 @@
 			]
 		},
 		"30a7dfaa-e3d2-477e-a4f1-28e2ffb80e72": {
-			"name": "newsfeed_recommendations",
+			"name": "NEWSFEED_RECOMMENDATIONS",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "variant"
 				}
 			]
@@ -2233,6 +2220,19 @@
 				}
 			]
 		},
+		"d1aef411-5131-4ffe-8dc8-f6f1f9c05e78": {
+			"name": "android_playercore_4",
+			"groups": [
+				{
+					"weight": 99,
+					"value": "control"
+				},
+				{
+					"weight": 1,
+					"value": "active"
+				}
+			]
+		},
 		"d24f182c-e36f-498e-9e49-113e02a83bad": {
 			"name": "passport_redesign",
 			"groups": [
@@ -2250,11 +2250,11 @@
 			"name": "clips_click_me",
 			"groups": [
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "variant1"
 				}
 			]
