@@ -701,11 +701,11 @@
 			"name": "HTML5_Toggle_Removal",
 			"groups": [
 				{
-					"weight": 40,
+					"weight": 1,
 					"value": "remove"
 				},
 				{
-					"weight": 60,
+					"weight": 99,
 					"value": "keep"
 				}
 			]
@@ -990,7 +990,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-ae41dc.sjc01.hls.ttvnw.net/v1/playlist/Ct2KvGR2icah1l3-D3E-hesrI7GD2lDfb8acQaZiq_WrFNT41bmkDnW2ScZgHC-NTvQ7hMCTBphN2a_QalzjeN65f4uGNHhaG0SDIUPXeps86q0nTHQy5boe-1cN8g2zE9LErD7FRMZiVaN4mfALTysIk-Zt0rQQ0W3wWKwgDLM-O8Ff3JUGKZA6sPwD42KBrbZBkNLGKB3rooTVP6fboCZMXpmc0kz-LqHXAS-hwA5LZ2p0me0dAE3ipiIAHEtKBP7h9ShhikB5IccbIKmr9gaxEFV-fpT6xt70yYA5pfgXPiEN-As44nQmJQXrcgOdTWnks9u5mRTJk27g-1pbHFM0QhgsiUPCTYgqmo-_Xq81wD1Owo9o9JjE9TcoQfI9Ui6rkp_D3AtnH9nCmz5tlr3RBcAH7EwD1kUUeDXsxIokXdx9vFXHY.m3u8"
+					"value": "////video-edge-d9a7fa.sjc01.hls.ttvnw.net/v1/playlist/CkrGvDcauBSuI0cOTILGH7zJw_sF0__x930yZwlPXYBlDa44qzfWMCbckIseXxyTxQM2IeQRM_l4-p-daUmWeMEl7OlQBKl1fYYktcIvuHjFREp4jDSjZQ5VOdektOBgPZUbUC4fKgb6F422vJVsoyryfTie5qfiBeIquuDQvA57XqfGdI9gM9zMaAICWmxZJNn69m0op2bWRX9Aaef2612PUGAceiucYseGALdmt6u43n1Z5w3ReCIp2AyX1x2mzrF9Sw7sOVYVi3FLaKoba2-j_WcCcDaHvNYYGCwRhdBaBOe9RLKdPvY7QjvgYGJy0vkwZ7Vh9mZgLu1i0Qv6Z7baNWAVc7IzXD7oXZhuR6zq9x9_1tajUKu99d3Hen1ZD5PuXkSvZksxYcwW4Ns_tmwIDmMI8bmgEvzBnOyq2ZdyTXtdmt6dv4hMVzw2.m3u8"
 				}
 			]
 		},
@@ -1310,11 +1310,11 @@
 			"name": "CHANNEL_SIGNUP_COLUMN",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "treatment"
 				},
 				{
-					"weight": 100,
+					"weight": 99,
 					"value": "control"
 				}
 			]
@@ -1363,6 +1363,10 @@
 				{
 					"weight": 50,
 					"value": "variant1"
+				},
+				{
+					"weight": 0,
+					"value": "variant2"
 				}
 			]
 		},
