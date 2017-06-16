@@ -395,11 +395,11 @@
 			"name": "android_clips_all_night",
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "variant1"
 				}
 			]
@@ -990,7 +990,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-d9a7fa.sjc01.hls.ttvnw.net/v1/playlist/CkrGvDcauBSuI0cOTILGH7zJw_sF0__x930yZwlPXYBlDa44qzfWMCbckIseXxyTxQM2IeQRM_l4-p-daUmWeMEl7OlQBKl1fYYktcIvuHjFREp4jDSjZQ5VOdektOBgPZUbUC4fKgb6F422vJVsoyryfTie5qfiBeIquuDQvA57XqfGdI9gM9zMaAICWmxZJNn69m0op2bWRX9Aaef2612PUGAceiucYseGALdmt6u43n1Z5w3ReCIp2AyX1x2mzrF9Sw7sOVYVi3FLaKoba2-j_WcCcDaHvNYYGCwRhdBaBOe9RLKdPvY7QjvgYGJy0vkwZ7Vh9mZgLu1i0Qv6Z7baNWAVc7IzXD7oXZhuR6zq9x9_1tajUKu99d3Hen1ZD5PuXkSvZksxYcwW4Ns_tmwIDmMI8bmgEvzBnOyq2ZdyTXtdmt6dv4hMVzw2.m3u8"
+					"value": "////video-edge-e0557c.sjc01.hls.ttvnw.net/v1/playlist/Cu3tIspHdxDEb5sU6A-sjQ4on5JZ3zCIjLVvmFHmUZ8xQ_ckViyX8iJPSOhFpyeiCdqVOpiKBDQXe5pDYKtJ51SEltQcckwpfV-2QcxhbPALPCMiS5KvYIhG9r_QiDCENXhGeGunLxJIm2Z9RYCbzdXgchX9gqQlvnwYLDgmS4ots4bMorq4xrPloRy8Fl_Xwqjp8K58MBXXZ2voZBIH-pErkiwtZ5nHVPHVUtSebrLhr-9qmfkFQZLBmaTJxkxqQ35mS5UrZp_j83iq_KAO9tmxTzC6de9lyE7M3dZGOt7vFDZEUvbRB_I-TqmSU9_QHmtwo7WRN4mdOikfD9cxe89AtgKpxPWBzyO0bS-MJUxfQuUlCqY-Oqk92ZfdK8nR4NFk7cLkvFsKjbDYkpt2VeNCqc7s0HEOY-557j8I1w5a8PehEhMx4W9iqMuBhLrM5OlvjW_y28oiBb-3JtV.m3u8"
 				}
 			]
 		},
