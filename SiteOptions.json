@@ -1767,6 +1767,19 @@
 				}
 			]
 		},
+		"ac1c908f-3779-4068-ae72-086c288f6f87": {
+			"name": "FEATURED_COLLECTION_CARD",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "no"
+				},
+				{
+					"weight": 0,
+					"value": "yes"
+				}
+			]
+		},
 		"ac2acc22-f0ef-4162-b9a3-7357249165ca": {
 			"name": "baking_bread_i",
 			"groups": [
