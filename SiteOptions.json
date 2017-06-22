@@ -460,15 +460,15 @@
 			"name": "clips_no_long_talk",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 34,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 33,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 33,
 					"value": "variant2"
 				}
 			]
@@ -1007,7 +1007,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-f47ba4.sjc01.hls.ttvnw.net/v1/playlist/CtjQAads6Z2t1P0zRoDkOGqqn4Mv8Z43rcbMH2lGxFKeVmgkNk2Y-T9_aLFonnIRjmVLpQgMdZ2NznEwpO5cNPQdfOGu9rmRXQYee4PCsBjiQBeBCNdF9B3sEauhTNix6J3iVqpUow9dPfLGw93HbVNNhnu5KO3ncgsI74gmOcs8g-w5UEMEp_tA-P5RsJ-BmCRxEZ6JUDlvGfaSvbOrFoLvvy74ko9yme-YtmDptdApz3-e_U3QAlHgw-zCdZAgwDgCa7nNS9JH04WyCOSYJGVWhVRlVh7VS1srmaBASoZs4CuOSYnsu_0eAye-WFLMZa9St40gU6rNR1uVasORXPT-9FJMeKtLSY7IHVP0SYx0sWOv2sC7XJ5tSktniyzXKQ6EAnqK0_nqJ81IHtB-pYqtCeDpsVueaoWbk29ixeecLa2VNAi99MihawMWyPqeQ-0t_daQqspaOyoZSfZQn7wi.m3u8"
+					"value": "////video-edge-a599d2.sjc01.hls.ttvnw.net/v1/playlist/CuPYIkkfatJNZn8S4oSPpBFOvDBNHrG_JwYftW9i8QBzIAlRlgUjiHsjogkvWlGJc-wGA7LtYW-uxyS7bBzogIPvLLH83TiXwy5fmCnUNUezHJXXR1cpDATuMuqyc6W1dj8Ztyglw7hnVgmDIFHBjlaQkYOSbNJ7cMycnY4Xp3_gjU8wEUwpLaDERZw2iA1LFd0VK8jkEeW00SAlpgTMHVdVUf8qet7AqqSkqXfDbrZt8iqVcU97_7vTbBxoozG5j0AFX4IB8i0nQSQdZ_e_0fHJnH7Lf9YQ7rzXKCZOB2ZYVAeiiSF1Tcf1z2kNaB8CABpkcLrEdXKcm8_TlOH9FnZf60XAIm8hTvY2c1FHvkehMNZJ4O2Qa_JG5wD2_N5LmLuws-nKJdksjP5wyWsfn8WFxAUqEO3-dJWLLyAGnJVmimJ4VZKIw7nOierW_0d8pV6uavtT_a.m3u8"
 				}
 			]
 		},
