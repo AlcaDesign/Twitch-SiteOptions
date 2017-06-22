@@ -146,11 +146,11 @@
 			"name": "offline_recs",
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "no"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "yes"
 				}
 			]
@@ -460,16 +460,20 @@
 			"name": "clips_no_long_talk",
 			"groups": [
 				{
-					"weight": 34,
+					"weight": 25,
 					"value": "control"
 				},
 				{
-					"weight": 33,
+					"weight": 25,
 					"value": "variant1"
 				},
 				{
-					"weight": 33,
+					"weight": 25,
 					"value": "variant2"
+				},
+				{
+					"weight": 25,
+					"value": "variant3"
 				}
 			]
 		},
@@ -1788,11 +1792,11 @@
 			"name": "FEATURED_COLLECTION_CARD",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				}
 			]
