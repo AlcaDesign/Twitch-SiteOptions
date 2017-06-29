@@ -681,11 +681,11 @@
 			"name": "NEWSFEED_RECOMMENDATIONS",
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "variant"
 				}
 			]
@@ -2428,11 +2428,11 @@
 			"name": "clips_fake_love",
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "variant1"
 				}
 			]
