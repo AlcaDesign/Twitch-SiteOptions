@@ -1022,7 +1022,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-07f681.sjc01.hls.ttvnw.net/v1/playlist/CvKjFiWhEb44EojwcHekk2qGiUChQeL7NaB1YpUP1gp1VpgH7mWq0nICiJ_FkpJ1TFKNdW0dMk9BgtVaIvuM10f-FyowyNNe__8syY30bqOMZaC0fPjgeJ4HPJWyLJYAC6GOcRej1-MgsXz64p9ZHjmoW2a5sbJLnDGSRvDUm3dIjUWUOX9cUK9deTvW7KowXTqjcA_j_B6lTtK7AGyhKPIestHNmaQpgZO4cVN1N6U1FTYLiGCvyhlWQNSRIiRVM2HC9PJbbt2qoXwSftcKxrF-cJb0KMHacOESjaaJH0mtQ25E5QoIdUxjGGTjoaz9GyG-dFNfChs-OrDvT1aewCu3GPb5OYNeI4pJtj6mEkiqP3ct5g4QocjaiqKQ6xnLF2PULco_tH7sfmovXCHD-dXFTkkoN9GN7xYZYCLbXlF9MMY1jta1FiQcw2aVtim9VA4iESWRBGmRX.m3u8"
+					"value": "////video-edge-818fdd.sjc01.hls.ttvnw.net/v1/playlist/Cpix0uOyV3JIFpRrTAgkgz5Rm7ObTojswu4eTTDv4yNHY6I1vhGkNa8tNW2VOco4ne_eH5i30dj7pbeTyRjhX6i_3-MDcnczCuuCznOqn-GDJtc0SdhdxhzGLeG9ZsZxwnWA0LBmX64zIBTTq0tvkoX9zK3rMVp8HBjLA0Eldx8QcbePwr6fWM7pCJeA5whGYFsC4zvkjAazpLU3npsj7zbGNaM8asUEyvkDpr2BRTdQjqd-2aQreNBUxjjJRyFz-B-RMLxzFOuYDvWYSSlhssmPQZrssS9p8SL8v28eDlEHOyFl8rZaGD8JWaQShaMbEXx-0rkHu7f8ihaWpXO26MVQGtXTLqKl1d3RGtSJeMNsm-fHgnbiXZkQ28RqjmK-Ty78S2b-Fti-oJBpc0QWGcuHGiMzZo1mUYSVYNqiO7FgtdrHGHsxppePd0ASUW9jCxbEkrgAwuVvA2BnqrFh.m3u8"
 				}
 			]
 		},
@@ -1069,6 +1069,19 @@
 				{
 					"weight": 5,
 					"value": "no"
+				}
+			]
+		},
+		"4e9d0a3c-4f43-4817-8db4-ac060fc32b74": {
+			"name": "latency_component_instrumentation",
+			"groups": [
+				{
+					"weight": 95,
+					"value": "control"
+				},
+				{
+					"weight": 5,
+					"value": "active"
 				}
 			]
 		},
