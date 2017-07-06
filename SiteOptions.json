@@ -755,6 +755,19 @@
 				}
 			]
 		},
+		"35731f0a-bd57-4582-915d-907dee75b3d4": {
+			"name": "trending_emotes",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				}
+			]
+		},
 		"36a0e500-f117-41dd-8421-3e3db7d567dd": {
 			"name": "CREATIVE_DIRECTORY_CVS",
 			"groups": [
@@ -769,6 +782,19 @@
 				{
 					"weight": 5,
 					"value": "communities-tab"
+				}
+			]
+		},
+		"39543b0b-b0b8-466c-bb09-d580b00fc5ef": {
+			"name": "pulse_rollout_latency",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant"
 				}
 			]
 		},
@@ -1022,7 +1048,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-4f2981.sjc01.hls.ttvnw.net/v1/playlist/CmXEITcNjlii_CpGT1WcKXWZIytwftAwzDJVV5LzrNLMlOJ7VzUz-ND_xEx2Hi9wn9CYW_iRwMBI6z0e7jlSZR9QfXZnetloGUbLG9HsGyl0mRDi6NHXtJBXc5cwyAvq8bnOrYSlXodjH-kLxJHMzLqyZ2IGA3O62PjR9WU2LCn2TV-bJIzPLZ2LOf5R93Bs8hXX6u1G1S2M0QW8ibhNfRgrkGdxb7HEhhlZ-FBvPyffCQ-rCYD8e834kwj42hlfTIx3TU_eiPnWOHt1H28lk_-sArUrNeXvl0fXw2CTshnD4FuQMeUDSuC1hK7hnAxrgsu3B_OhhoRPp70vZtgHmZm2f9wXKYfe58q4g7JEv0t5BDHLBtQQxglRLK92hGjo4nT9R_c1IU7mkgdltM-q6FnQiVLOxtQx23XGd6BNp1YJRSt4RwdTbXfDspIg7.m3u8"
+					"value": "////video-edge-9cf872.sjc01.hls.ttvnw.net/v1/playlist/CiZjLazT5VJ-p3ZfWPcKr6K_NPS4fSj2B61UyATv8mhSAE_M-5T7X7hclW_alWDOOY9EU6G_DsyOROCdGvUnQnElcbJ0p0D6WLl0EMl3JAwzZd3peabM8iXpwsdXW2awZPGKEoQPvzzP-2WAOPMDXvNIz29nSIkxzEDQFGRofj306CLCigwdi_2xesRt6Nqdey3sbdYm2sWFQJVpJX6avAGeApD7-r5TDbOg6qIgWpjGhWtYDEFlok0od6RiO7MC5oYWfbf2xKDGVvh68g5fxavjUDNTsS7ImXZ8dzGWZPdDmiseXBiFFSlvE288zCuEtnkxlj9vFiJ9zCY2rZLIBRSjdEYyY2pB8z-spXA8T_A6KMqvML8ELNLdG7H6Wwc_Z3I7ryC0cAowjOHXRlx-9YiqTnjRahZ1FJyXTN11018foNYFypgrdubH.m3u8"
 				}
 			]
 		},
@@ -1631,11 +1657,11 @@
 			"name": "clips_hear_me_now",
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "variant1"
 				}
 			]
@@ -1704,15 +1730,15 @@
 			"name": "GAME_FOLLOW_ONBOARD",
 			"groups": [
 				{
-					"weight": 34,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 33,
+					"weight": 0,
 					"value": "variant1"
 				},
 				{
-					"weight": 33,
+					"weight": 0,
 					"value": "variant2"
 				}
 			]
@@ -1727,6 +1753,19 @@
 				{
 					"weight": 1,
 					"value": "holdback"
+				}
+			]
+		},
+		"9b0ada24-ec4b-4664-8576-bf2dda26724b": {
+			"name": "android_theatre_refactor",
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
 				}
 			]
 		},
@@ -1967,7 +2006,7 @@
 			]
 		},
 		"b19d0945-ad8e-49c9-89f8-2dbb99bddf92": {
-			"name": "android_player_core_5",
+			"name": "android_playercore_5",
 			"groups": [
 				{
 					"weight": 99,
@@ -2434,6 +2473,19 @@
 				{
 					"weight": 100,
 					"value": "holdout"
+				}
+			]
+		},
+		"d6ba259c-3f82-48ac-b158-bf4760fc864b": {
+			"name": "android_playercore_6",
+			"groups": [
+				{
+					"weight": 99,
+					"value": "control"
+				},
+				{
+					"weight": 1,
+					"value": "active"
 				}
 			]
 		},
