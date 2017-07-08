@@ -10,8 +10,7 @@
 	"api_hostport": "api.twitch.tv",
 	"streams_api_hostport": "api.twitch.tv",
 	"webclient_hostport": "web-cdn.ttvnw.net",
-	"vendor_uri": "//web-cdn.ttvnw.net/assets/vendor.js",
-	"webclient_uri": "//web-cdn.ttvnw.net/assets/web-client.js",
+	"webclient_uri": "//web-cdn.ttvnw.net/emberapp.js",
 	"benchmark_uri": "//web-cdn.ttvnw.net/benchmark.js",
 	"secure_login_hostport": "secure-login.twitch.tv",
 	"mixpanel_token": "809576468572134f909dffa6bd0dcfcf",
@@ -1032,7 +1031,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-e85c99.sjc01.hls.ttvnw.net/v1/playlist/CtNY6UPSUy0yTofkEdGOSDFWurp1BialkRbRat1kBx6_QEo3-UmrKFCQP8r4VM0EuG1NKul8CHLUqrq-86kZT1pjVnCdh8qbwFhShfjH6PJ4mmver3aJGbN8WEb6eL1WPU5CjxoU1Kl-4V_zkWC1JZ5hT_A3o6hGAnson1vbaW7iUCCuoE0iuVs8OWe2AZQLexm5-MJIIUzK4RI2IC4YUhwtpbrRY6XASGu5I_NolfsvZBXl2Pi7chwrYhiwXgjdknhf53jzeIqFWxnLrtcGQePG0lPQ6bsLqF0-KmQqq1Sox4v4qEFnDsruCM5hWblM3RyvpGf2d_gR6P0O0CXtdCiOoxeuD5_51c04c8_OukGs57ujWx50El43JgXGzyAZ7CPkCR50igJsl9l_Ky6SByorWuvjhixmifZpCb64S9yiX2TjqIKsW128AKO7XxVZ.m3u8"
+					"value": "////video-edge-eebff6.sjc01.hls.ttvnw.net/v1/playlist/CpvwSlfht79u2Km3Qlbb1D5HxiTeF-qpVt_zP7kTAQhyd0XAnb6DnJZNkoQUu7XfeBXcTktLBgF0Y14pZNPbpIpO46-jHTp4oIChqCw9RGpB4KreuMh2nqultlIZ7DKJttNYapxww3ETngstypuAQ4WwYBN3uhNu5oqvtEQmH1GgY_Sl1uvvmN0pprKh4ElUF4XGiUV7D4CCY87shA1fOEialQXw3QC-KocbSPnc_x9jgC85LJPX2HiITj-D3eeFz6cRIXGwtH3goFDM1HoZeEBP6oSHo8nyuDSHPKuOvZvEakBtmR_i7gBzHVXurlVWqw_0zS5pv5kVIEqNsnTj383MvmmfeKaO9iCYq2jCdeTcbLjhfkudmG1sDPl8sD2O1_Pmr56go-M9WIrX_n-fyylUqXYCCKhzSU8cF4dSOiumF_usisN2nvJdp8zzxE3-inGLARZZkQkeAVgGt.m3u8"
 				}
 			]
 		},
