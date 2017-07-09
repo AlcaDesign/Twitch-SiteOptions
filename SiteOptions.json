@@ -612,11 +612,11 @@
 			"name": "CVP MediaPlayer backend control",
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 98,
 					"value": "no"
 				},
 				{
-					"weight": 0,
+					"weight": 2,
 					"value": "yes"
 				}
 			]
@@ -1031,7 +1031,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-eebff6.sjc01.hls.ttvnw.net/v1/playlist/CpvwSlfht79u2Km3Qlbb1D5HxiTeF-qpVt_zP7kTAQhyd0XAnb6DnJZNkoQUu7XfeBXcTktLBgF0Y14pZNPbpIpO46-jHTp4oIChqCw9RGpB4KreuMh2nqultlIZ7DKJttNYapxww3ETngstypuAQ4WwYBN3uhNu5oqvtEQmH1GgY_Sl1uvvmN0pprKh4ElUF4XGiUV7D4CCY87shA1fOEialQXw3QC-KocbSPnc_x9jgC85LJPX2HiITj-D3eeFz6cRIXGwtH3goFDM1HoZeEBP6oSHo8nyuDSHPKuOvZvEakBtmR_i7gBzHVXurlVWqw_0zS5pv5kVIEqNsnTj383MvmmfeKaO9iCYq2jCdeTcbLjhfkudmG1sDPl8sD2O1_Pmr56go-M9WIrX_n-fyylUqXYCCKhzSU8cF4dSOiumF_usisN2nvJdp8zzxE3-inGLARZZkQkeAVgGt.m3u8"
+					"value": "////video-edge-d030e3.sjc01.hls.ttvnw.net/v1/playlist/Cg4fMlS-Uxr26HVz_Cm1KOTYgkt78IUpEb7rSURj08fJYKZzzG6gBqfnGywi2bwu1Xo_0ckYgRLm6Jtg_jXYCrUvtfWZl18LtL3CGk-cYaj7Ftrc1HvJ_R4h1-ZfWReFoX2Qcmq98znxqxwcfZJFOfdbBnmjGYzVlDnjnsU0xudINOQpbZLxJCHWRRZPr__KMQd8zeDc-IYToCPHkDlwq7y7fPigeMm06MMGVAviBSKLP9hrYmXZOIefXfhBRxkrkzUL6hgnok6ei7KjWRirRGWGWhUkzSPZ3QwHFVEHJZp0zlEEsxYKEVbaxdPZ5J98iIPj8WaHWEZOZC0m9spFdI2LE4-sAAyFXkS84QR1OIdaguiZ-9d2n-N4iwb1XVKGXkcsOK6WteveE8wJ9eQdItCen4Io7Pz9GBoH1q-6fmyqCC22tKNybx8FyVYpYGstrf2CXnlh3.m3u8"
 				}
 			]
 		},
