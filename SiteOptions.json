@@ -612,11 +612,11 @@
 			"name": "CVP MediaPlayer backend control",
 			"groups": [
 				{
-					"weight": 98,
+					"weight": 100,
 					"value": "no"
 				},
 				{
-					"weight": 2,
+					"weight": 0,
 					"value": "yes"
 				}
 			]
@@ -817,6 +817,19 @@
 				{
 					"weight": 50,
 					"value": "no_show"
+				}
+			]
+		},
+		"3e44f0d0-68fe-4cc9-9e2e-e85718c13d3d": {
+			"name": "COMMUNITIES_SORT",
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "experiment"
 				}
 			]
 		},
@@ -1031,7 +1044,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-be6fdf.sjc01.hls.ttvnw.net/v1/playlist/Cjm7Hy2-tRxGDeL7m7q__l7Zs6k-HFbYMaPML5YN419OB7jzrfnnvk554dX6OMh9N2tXfFss_hr3xLdAdI1Cr2SxDufYtZUrLMzHrxa49TCKkO0AivbZHs0OQVsx8XPUatrYfaJQFWMm_xSU-v9SaaFBmXBSjFPCqNBAtWYYoMSw5gIUg0sRblcGYKygelZAmMbC9nrVcyswhwIJFcMfp-VD47RcpRBr1vcNfN1ojRdnrapfSjnbWEYxNnHWLXcrJJCm97DgRD5klyfT4VUHU4w6jjv3a-4cvPep4BIijsV9xwCZzbqxKTXTGs27hY2Udy871TGlXxZC0OXekyKcpWwrPi7fqhoykMNWADA9J4KayftxunhiKbIPuBEC5V333SAMbRpj-UIGhP5xK1WecYHR4cWwbdCq-FmxCVF-AflGXsAX3OgChIKWtBA.m3u8"
+					"value": "////video-edge-43e614.sjc01.hls.ttvnw.net/v1/playlist/CiHYQw8cJTvj4VWjkMdMG_GDFREvIeBlICFpoKmhP-DijFpgEmWzLnLkvI6dXrY78OtIqjHzJs428vedmk5U63aGyms2FebRxTUvpe9SX03_kGt0046opH74GFoPj0B0Hj5DnpTwbMlPqVEWtXs_HwznADqshyYUP9YsXToRB7jcLSyevUMcyQCZ5lj9RI7QtxsdSngEOt2mHthXpLhkUbIISlg8AaGb-hy8rDySmiBDXE4zw80KlVNJMy_s8DguUNbnNd1rlbxXvJicplkbULZqkEuGnaBBoLX3lZPwHrUiJR6qN1EYgmvm4Fy1KMr8hzka1-wkeVCPCA4Rwk1kxh-o1v_Vp7MZY1omMb-nh9sCu6dO9q9zTmvaq5bqPogTtIJTA7cMuhOMJac-5fbklD1aCtTexO7oUFs3DGyl1WkKiupPWE.m3u8"
 				}
 			]
 		},
@@ -1407,11 +1420,11 @@
 			"name": "CHANNEL_SIGNUP_COLUMN",
 			"groups": [
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "treatment"
 				},
 				{
-					"weight": 95,
+					"weight": 100,
 					"value": "control"
 				}
 			]
@@ -1471,11 +1484,11 @@
 					"value": "variant1"
 				},
 				{
-					"weight": 50,
+					"weight": 49,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "variant2"
 				}
 			]
