@@ -229,11 +229,11 @@
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "yes"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "no"
 				}
 			]
@@ -421,7 +421,7 @@
 			"t": 1,
 			"groups": [
 				{
-					"weight": 3,
+					"weight": 2,
 					"value": "a"
 				},
 				{
@@ -1150,7 +1150,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-bbea22.sjc01.hls.ttvnw.net/v1/playlist/Cv47YBQ4vuKicJn34vqmkj_Gog91aXVnvkZ9wnQKN5xIze9KSYqQoA3xJaxQI-YoO6ZCZjCtQEzLSp02iNZzmWGZxWqpgNnEBwG6kh0Ql4dxCKuXhiOMTxjfdeNe9huBS960K6sCvAmnUq6bEQ4iBJJMTKABDE6KTPqrMCbVVb58jQuy02YuC_ZmIj9OChARTQpQ26v3_GAdcpGjyllogLVSuYwGGR8I4T2C_NFQ_qEX-pxweeydcFBCyjOaL7f61mak51sID_3htf44GEUxvad8AA8xSDUssmHDeY2DRKLofrmcwe1Ss2cLAsRs3lbBVuXX_XheQhqBKnVcqyaOpWw0-R2jKYYbl1hsate6Li9y0nsoc32nPF2ktgNGA8KxTNymTx-rqhyUpvC4Fu4LFkdGiVCexZ07DqNAWTO0CXOD2u9BMzkfUMySJg_OtVFf5irlsfZ3LrOyWPC1.m3u8"
+					"value": "////video-edge-1a881e.sjc01.hls.ttvnw.net/v1/playlist/CqGXWoDA4OWCNc1OvB0ONpF6EOz-CjjNMVjbqx2J1E0STjDTcYPYjTPhwd2F4IwdB8l2uInqk9kFJaSrnB4Zk6ZhcnJm1Nr6HVtxM90ocW9e5OYRG5PPTjtLg3qLG0lYtdmMI-pvqU9JfimUzFqwWpWhxWXZNyuju1jfOfdPZEOXa962LYcvv3hlFf1BUf-QUym2cej4JbaZ7AKpFoZGd9v6GMOBb4IWL5eBcxoalor3KlIyoTMgJ5BwLFOJ01gRgllm7qB1XlfWT9JWK6UG1nJzJQEP0EXDLHKqkWOX6_vRUuwjkczH6HIasr0oW2fzfmbYPw0gvsIEwxrQtwPWbLVn2bsJWQeCTMMtpBOJmhI7rqWj_IKSmcEwn45-uhmfC7Ypc9B3bGUChB9C_GQDStb6BYo-Fr0oAk1NppwNvMUmDNNoLla-23E_R80QbZg.m3u8"
 				}
 			]
 		},
@@ -1324,6 +1324,20 @@
 				}
 			]
 		},
+		"59c5198b-ea6d-423d-b337-ea93d0dc8d66": {
+			"name": "LEEROY_JENKINS",
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				}
+			]
+		},
 		"5daee224-4c99-499f-b6e0-e308a5fa54f1": {
 			"name": "aws_roundtrip_latency_test_endpoint",
 			"t": 1,
@@ -1463,7 +1477,7 @@
 			]
 		},
 		"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
-			"name": "vod_rtqos",
+			"name": "rtqos",
 			"t": 1,
 			"groups": [
 				{
@@ -1633,11 +1647,11 @@
 					"value": "variant1"
 				},
 				{
-					"weight": 50,
+					"weight": 49,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "variant2"
 				}
 			]
@@ -1835,6 +1849,20 @@
 				{
 					"weight": 100,
 					"value": "variant1"
+				}
+			]
+		},
+		"97f8559c-1077-4480-ad07-b64f1c9b8529": {
+			"name": "android_auto_video_quality",
+			"t": 1,
+			"groups": [
+				{
+					"weight": 90,
+					"value": "control"
+				},
+				{
+					"weight": 10,
+					"value": "active"
 				}
 			]
 		},
