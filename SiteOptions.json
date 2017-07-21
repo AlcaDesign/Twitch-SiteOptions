@@ -1150,7 +1150,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-a6acf0.sjc01.hls.ttvnw.net/v1/playlist/Cir4VLugZ9hbsQ-VU0Oi2h_MLB6LF2Lj9QpaMiZl53rld9w5aYenuDXna-uHnatfrdQwtS5LUYiGN2p9MKg_s2ZlRybJuxoQ5wotGlyBu6dOqc0FgG7EJn6VcfrEIlFWkk8k4kmYeDv2m2a76u4_vJQP64-itXnb0s6_qa0t2_DEs2P9qDfab54PqJFWvw1wmpt7knUjUmuTT_62ynuw19q6MEbG87p4GOiRLp0dCyqhMu1BrCsuf4RC5pN_ptahcMHg9-xbwbF9k03q88amuZzdBxBg_5FmefoEOeJdIfufa20uSiohBUn92VK_218HfMFqgU3tufRhZNNqAtYu-QvmnRJpcTS-fWju6OKL6HHJOxRLV_uFjUBW6sWdDrAgMqLRSTAF749T3cnfKqM4xfEr6xgnEqVEPCOR-aDtaAgcsNQXj3rp4bmVcZkGtwmE.m3u8"
+					"value": "////video-edge-5ab8f4.sjc01.hls.ttvnw.net/v1/playlist/CoN-fGDdphnbgW0ZqFcnPBUyhqV73m2-b_-L8dP4-Q_tj5Zms7yZRUABq-QSTw_ZCUnwVeHNpnEDGZ0vuYjuheMBmpfb4_LvAfSSBPmtcnL6No7mlNg4C8G0eKv5oHq6KsRrRmV44JEqlXhLfc-saJ8bADhv_S1fp0OwzAR5EGdQIkJQMmI3t1h4IioHm-UgWlNXRdqwfR44_OV9vlhjg7zho_8YYZQEHGBuSD1zByKAsHRhd0QBZ7AG1KZ0RjHym2tYKugclto7QdYvvwOLG93lowcooiIZBNGB1F_LZk8pTf5MakiExqXNr19IwR_l8UFmh3I_Kw1EnF4F6Z2g4l7depkJt1lifHKDmUxaN5kp2Cdfkok8x8dA8jbkfghYXTelP3A4bOVXpK8aPzp4pQskawFP0L3XwqghygyMMJmgomlTfNXVF1NBCS9lxk3Uu3U3GllQnWsLu2h.m3u8"
 				}
 			]
 		},
@@ -1440,28 +1440,6 @@
 				}
 			]
 		},
-		"653cc0db-d332-4df6-b224-15c5c481f7e7": {
-			"name": "language_directory_filter",
-			"t": 1,
-			"groups": [
-				{
-					"weight": 34,
-					"value": "control"
-				},
-				{
-					"weight": 33,
-					"value": "full"
-				},
-				{
-					"weight": 33,
-					"value": "scroll"
-				},
-				{
-					"weight": 0,
-					"value": "scroll_new"
-				}
-			]
-		},
 		"68cde3a8-d4a6-44ae-af4a-22dbc5a0393c": {
 			"name": "passport_redesign_test",
 			"t": 1,
@@ -1529,6 +1507,20 @@
 				{
 					"weight": 100,
 					"value": "no"
+				}
+			]
+		},
+		"70a7aea8-402f-43e8-9e2d-23ce4e6fd196": {
+			"name": "ios_volume_view",
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
 				}
 			]
 		},
@@ -2727,7 +2719,7 @@
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 5,
 					"value": "skipcontrol"
 				},
 				{
@@ -2735,11 +2727,11 @@
 					"value": "skip15"
 				},
 				{
-					"weight": 0,
+					"weight": 5,
 					"value": "skip5"
 				},
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "holdout"
 				}
 			]
@@ -3057,6 +3049,28 @@
 				{
 					"weight": 10,
 					"value": "hidden"
+				}
+			]
+		},
+		"fd0fc84e-e959-4a5d-88c7-949ab0622947": {
+			"name": "crunchyroll_autohost",
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "10min"
+				},
+				{
+					"weight": 100,
+					"value": "20min"
+				},
+				{
+					"weight": 100,
+					"value": "30min"
 				}
 			]
 		},
