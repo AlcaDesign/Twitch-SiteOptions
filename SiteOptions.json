@@ -261,11 +261,11 @@
 					"value": "control"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "variant1"
 				},
 				{
-					"weight": 95,
+					"weight": 100,
 					"value": "variant2"
 				}
 			]
@@ -1078,6 +1078,20 @@
 				}
 			]
 		},
+		"49f40b88-2044-409d-b306-2eb308489a60": {
+			"name": "Twilight_Upsell",
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "upsell"
+				}
+			]
+		},
 		"4aa9ee11-136c-4521-a139-e2abb718ec07": {
 			"name": "Gabriel",
 			"t": 1,
@@ -1142,7 +1156,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-8cd984.sjc01.hls.ttvnw.net/v1/playlist/CqOAlyW-yWB9ttf7xL5GxragV-1Ojb385l6Yw2VvDtgLWz9OmHB6ViNFVDhIZE2sXxi8VelF3JjXlrLfn7EhH1R0xr0j0DgQNUFzU53jPrmrm9VQ5K600KdpwqbDD6_kwY1_FQFzFMMgdFgtmjASWLKTVHgU-yQ-entp0Tp4PmXqX0MhjRBGbi_Vuu2-UT3qfQnG2gcmQmzN6DmfzgF3bn32vEzSlzJN6GiHjSmnZfdKzPKpLeeyfJc9gx_nDqXX6HGEv3SdIUONKaBloB0Bfko4JPr74c4Z0oEYmD3FOoGJ6pl7gvsmXz7VK-C4Srt455buaeyTIiUGtaJ7RyhQLj4KA7Ml-UOzmkv0pzc-0krYcxtDLCoI6FIh-CwFsAhvvnI9eCfw7U1o7Zi0KzMWLbO5tsF_oG4S5-MbxRGKUxDh7M1rVIlSJjtDejRQYZv_JCGPBlXaEajxQ.m3u8"
+					"value": "////video-edge-fdde94.sjc01.hls.ttvnw.net/v1/playlist/Cv19bHtJQRBwknwf9MSfllbUmd7Pbujm8jhaRvtXvekQJQ3L7tC7QW0a9vvHn_h_gB0UgANoGXb-bmERGm0-lkDIC6ljLimn-udrSToaZWdGKONTSEF2JWsBSqpsxUJHs_QqoPxI3uF_jcqGB8q_0Z6a755NJVDI2jGL7EFRrPZIVgX-8ZQATv-zpC_-71NtLt2zDJxiDmuHzGQoi0v18DQ-ZEB4EBnow7fht7xJP7K1xT3Mrz7wPGzqBhoHajQkAvHMeNa1fXUqRnzbSYqSX2_dqW38zvvg-WH6mt48TAW5-sBjRMEipJWFAZChK7OFQD3kAJEZTIZ7Q7hCwunUusgXqQcdy46mu6QIwiPAviOhw-lWUc9_g273KiVTAe_PTqltYvBhLxAhpNYZBEJrqKC1ATM3JpwikWsKjPz4_yEFak4nigT01INFuEQVhfdCV5-Vjwg6Aq997C.m3u8"
 				}
 			]
 		},
@@ -1465,11 +1479,11 @@
 			"t": 1,
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "variant1"
 				}
 			]
@@ -1961,11 +1975,11 @@
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -3105,7 +3119,7 @@
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
@@ -3119,6 +3133,10 @@
 				{
 					"weight": 100,
 					"value": "30min"
+				},
+				{
+					"weight": 25,
+					"value": "15sec"
 				}
 			]
 		},
