@@ -1410,6 +1410,20 @@
 				}
 			]
 		},
+		"676f7ba1-6f07-4782-adc2-99eaf7e04361": {
+			"name": "SIGNUP_INTERCEPT",
+			"t": 1,
+			"groups": [
+				{
+					"weight": 90,
+					"value": "control"
+				},
+				{
+					"weight": 10,
+					"value": "show"
+				}
+			]
+		},
 		"68cde3a8-d4a6-44ae-af4a-22dbc5a0393c": {
 			"name": "passport_redesign_test",
 			"t": 1,
@@ -3041,23 +3055,23 @@
 			"t": 1,
 			"groups": [
 				{
-					"weight": 80,
+					"weight": 75,
 					"value": "control"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no_play_600"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no_play_1050"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "yes_play_600"
 				},
 				{
-					"weight": 5,
+					"weight": 25,
 					"value": "yes_play_1050"
 				}
 			]
