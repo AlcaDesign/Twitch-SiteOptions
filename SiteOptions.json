@@ -1120,7 +1120,7 @@
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-02ccc3.sjc01.hls.ttvnw.net/v1/playlist/Cr_05fdzbaKm6H_Xe4PpdiUgGxGArnVjixNBlYQGC1BLd1kzSab5rruWdD5Nb2HSrGn8oLklmQAF3uMGmoYA1MpNpKY_xEcatDKwHFGPuMZFSOSHyyNY8XyumjHyLzRKT4jhyYXzJ49XpcZk_91gn4_cyrH4RowyOqSNEkwwOIkaGWIeuiyv6oATtVXYFFAb2Hz5_BeQEFM1Cy8RPtJ_CGy10B8zykByNfd8SPS7z3lABaaro2Uob7cCBALeEg9Fmzo3T8S3Niek_jLFcOBtY5KYSdzcEIxws0ifsLjqAB2h4bYLlpUuwNjXJ5WUhnjv7HzXWeRNzPg74WNP8puOISVRKfQsEJBGPOjk8jmveuqlhLYeZjJgtnawOf_nfVn1f2l74U9Hk3iOyg_SXoKRXOwQsBtdGKFjwQ9bDCyWNaQAi0wI6UDNHFKYYVEiIRpxQPntUT.m3u8"
+					"value": "////video-edge-46e0fa.sjc01.hls.ttvnw.net/v1/playlist/CkhEXxpOMk9_gxVVO6XxjJXI6nJjN1qiKq3KEU3Ubwyc2__L3Tj54V_TPGXihlwoiK7ZZnQCm4xYzqnlLjld2-nK_4OK-ufqNVk6h1WXau_ytcbOHzIJXgSZdN6i_iF3tngWLXi1mKhALNY36Jf7f2DLHlq2zOzEjwusYpyghOxUoHf3jOypmkAq9SH665JUpXnrdnsm2SWp0aXkXyTovSFs8eU9hFUPBVwuhyWjUWjFFXidarxVRfA0NuERjjPzU4R0QBd1MhWxyiqjkLtRyWA5oPUMdU6XMQQXD5Z8z_Q4X1jwc8kvjCY94jVGwPRJbRBPapOgPmIajBcrpHLJ_JH3cKccprVhcSc3zK6Nr6vLSAidMRLyTI00EbD9BgV7FpAU74kI_58hpOIi1GQEk1KvnTkxaekvJUfhZuzYkM3O47n8AXstQ8wPpPn1hY04W_.m3u8"
 				}
 			]
 		},
@@ -1415,11 +1415,11 @@
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 100,
 					"value": "show"
 				}
 			]
@@ -2843,6 +2843,20 @@
 				{
 					"weight": 90,
 					"value": "holdout"
+				}
+			]
+		},
+		"d51e556e-b8c8-4bdd-bc69-7acb169849da": {
+			"name": "android_playercore_8",
+			"t": 1,
+			"groups": [
+				{
+					"weight": 99,
+					"value": "control"
+				},
+				{
+					"weight": 1,
+					"value": "active"
 				}
 			]
 		},
