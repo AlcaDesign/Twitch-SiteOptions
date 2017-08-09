@@ -2463,6 +2463,21 @@
 				}
 			]
 		},
+		"ae497662-3b14-4bc8-95f4-adc4beedca4d": {
+			"name": "android_graphql_profile",
+			"v": 1797,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "active"
+				}
+			]
+		},
 		"af8f152a-f618-416e-8b79-d6ac30479018": {
 			"name": "PERPETUA",
 			"v": 999,
