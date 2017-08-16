@@ -665,15 +665,15 @@
 		},
 		"2c137391-5182-429f-8760-9f71e4d40918": {
 			"name": "CVP MediaPlayer backend control",
-			"v": 1676,
+			"v": 1815,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 96,
+					"weight": 92,
 					"value": "no"
 				},
 				{
-					"weight": 4,
+					"weight": 8,
 					"value": "yes"
 				}
 			]
@@ -1176,12 +1176,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 1810,
+			"v": 1817,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-498350.sjc01.hls.ttvnw.net/v1/playlist/ClQpryhQqGbqXmhll3zeMe0GQe5cUZOU5XPlj-vKPW0LOdmdl7Voz5kAoNa6U1mBK3NVCgH8B_E0LnNiQOO5Ozx40t4c0h0NWhqvPzYH4raG5_TP8og1wOSQbr5CaVpt-Tal6gtBkYcoI_u7TDKDs97XfzO36aTFQoQaS5WDrNrnS_3x8E6fL-9xi5nJ8Qe4glw9WhYTRleIbziuq0EjGOyJNv5JilM60iSCvxXEp-AddoSFiYKTqMEJzPNh2-ZIpbrIpGwsvpVPCf5sxNq-vAjgHzfki1DtQSOwtevuaZWaujlwLT-1q6OSBszSpOHILYVwGpNf2ZxaV3Nfkt_vp_3dnQ-0vGNYR39A0FW_gEE4BzENenp6svAsulpxwHhCvhQq9QkyMS2ozpsWx5A0ZAJ1SL3X_4AJmp9VJ_r7T325pdzvfTz8ZlhOtbR697U_c_DYZMmYe5DhG_uOoO-IA.m3u8"
+					"value": "////video-edge-c32026.sjc01.hls.ttvnw.net/v1/playlist/Cu6usgBB9xrFzTkgRXrAU5dwwtJ6T2tIetp-62OQBTfwRQL7j1elGYJ-cj67HUw45cfU7XBwOI3ineiBVAaqWHYA3s41vQJI_ur4EM2OFBTrOXDSV_aAigNCeEg5EnvzJ3tAAgH-KNFN2rOfFJIneCyoZa4mZmRr29y_OaJMNITOJ3TTx9uYcQJ92YhV0SjqaHPdzwc7nTmMwLbOAn3tVVU18dyEEy8LOimCQoxG7DA4tdQBu-KnAmklvmwCgoT-jMCEjkLSuEGL-Uu8d9BUUQ0jOZjNmiVGuOC2wSs6IQiTDbuTcaZxcqveCwiKywTm79C6mQa4sv03ItXlIViTozGUWnPgPcQnxWj3-B6CYIUFE5remNKoX48qRGYGzBlaBTEBmvhLi4p2LM44qxKVoGoERiYYphM9Mosksz98pAna6JrtJUgHomFN0EogT4.m3u8"
 				}
 			]
 		},
@@ -2527,6 +2527,21 @@
 				}
 			]
 		},
+		"b05f4f84-ca59-40cd-ad05-c4913b1fcc6f": {
+			"name": "ios_feed_theater_multiple_vod",
+			"v": 1814,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
+				}
+			]
+		},
 		"b19d0945-ad8e-49c9-89f8-2dbb99bddf92": {
 			"name": "android_playercore_5",
 			"v": 1595,
@@ -3361,12 +3376,24 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 1801,
+			"v": 1816,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
-					"value": "2.0.0"
+					"weight": 25,
+					"value": "2.0.100"
+				},
+				{
+					"weight": 25,
+					"value": "2.0.101"
+				},
+				{
+					"weight": 25,
+					"value": "2.0.102"
+				},
+				{
+					"weight": 25,
+					"value": "2.0.103"
 				}
 			]
 		},
