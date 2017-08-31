@@ -695,24 +695,28 @@
 		},
 		"2be750b2-f97a-41e5-a699-0d934cefc05c": {
 			"name": "ios_onboarding_recommendations_v5.3",
-			"v": 1925,
+			"v": 1933,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 75,
+					"weight": 20,
 					"value": "control"
 				},
 				{
-					"weight": 25,
+					"weight": 20,
 					"value": "opt_in"
 				},
 				{
-					"weight": 0,
+					"weight": 20,
 					"value": "opt_in_situ"
 				},
 				{
-					"weight": 0,
+					"weight": 20,
 					"value": "in_situ"
+				},
+				{
+					"weight": 20,
+					"value": "hold_out"
 				}
 			]
 		},
@@ -1214,12 +1218,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 1929,
+			"v": 1935,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-d93cc1.sjc01.hls.ttvnw.net/v1/playlist/CmUy9KHowsz8iIcE5TJCqHAlSbr3S9j0XTc8uXQZeh8RQGvAKLKngoTFGcxdw1PPPBLWdEXWzS7H_LlvuOqfm7rEDd8IWKZ6rL7lqRmZf_S2recr9LQKVboVWY5XSBZhMsJHjfZWV0bBPDWr_wJ_70yAVVD3f0fXGRzvBlowRBsy1MmH9G-ttan-vInH-D-EEokJo6LHf3hS3B4nOk69i17Dc0taL-OicoUa9guVnGwmLm4B3mfkQ72t3pVREH2ZVFLNrY7f0BRO1TPfiFX5CMfOGRfreLihnkJ1hQLzX6s8Cj_5_pz1irPLXiCbumsygIAo0pF5I-EJv_YkWU-zbZnKnp7RufRlmjLqKvzrlJeW9mFMf9dXYNK_Dqlp4vQkXwPfNssnw0QRdAPKNZTd4VlMtecahVwZejb3E-ifxUK44oncc0R.m3u8"
+					"value": "////video-edge-7ee143.sjc01.hls.ttvnw.net/v1/playlist/CupJcD_AaDXrKhj0AjimbF5u4Jbc_pbmDhEpV0C0Cdm9vjqQXK3e2pLKk3I1Y7PZCIt8hyyDDe6nhAFMpFJOhZmDfKx6L3Q2aCk937YM5TkRHMT_ZQbE4WfVEI8djbfCiCKXVJHuFqgui3XuSp0RyWIYI5wRTvZCSOK-GwjOX95ssk6P_czQ7h4MWH0_Kyls4RMV5U_u0mCSMTqjsYU9yuC1NcRDNjsNvS4IxvDTU8Grfd86D12p8WLjmhvuX5VTMajx1NGrgT9luXEtn4gQQI9MPkDkaBP14JpAeAQS8Y6vwtiTc2x0qMcD4CmL75uHAB4vrA1KUWTJDV2X9mU8iiDcA_np5d63_Hjv4-5Hbz2uDPePSm6DrHKs3sed6iA8FYfoPIH1so8V8PsoKbHPAzpSNL0phbNQab7Igj3SF_iOhTDWscbyyA40NrKAwKmlRjVy.m3u8"
 				}
 			]
 		},
@@ -3344,7 +3348,7 @@
 		},
 		"dadbbe2e-7a79-4d10-8d29-cbff8101ac30": {
 			"name": "clips_make_me",
-			"v": 1811,
+			"v": 1934,
 			"t": 1,
 			"groups": [
 				{
@@ -3549,7 +3553,7 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 1914,
+			"v": 1932,
 			"t": 1,
 			"groups": [
 				{
@@ -3558,7 +3562,7 @@
 				},
 				{
 					"weight": 5,
-					"value": "2.0.109"
+					"value": "2.0.110"
 				},
 				{
 					"weight": 5,
