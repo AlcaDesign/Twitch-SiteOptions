@@ -496,23 +496,23 @@
 		},
 		"198744b6-e96f-413b-aaf6-eab0128c9833": {
 			"name": "signup_redirect_search",
-			"v": 2062,
+			"v": 2072,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 25,
 					"value": "games"
 				},
 				{
-					"weight": 10,
+					"weight": 25,
 					"value": "popular"
 				},
 				{
-					"weight": 10,
+					"weight": 25,
 					"value": "search"
 				},
 				{
-					"weight": 70,
+					"weight": 25,
 					"value": "control"
 				}
 			]
@@ -1423,12 +1423,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2058,
+			"v": 2071,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "////video-edge-f9b921.sjc01.hls.ttvnw.net/v1/playlist/CsFfGHSqegJy7CVu0-obX8FzJ8BQy-WfOIDdrp4zd_HGqxEI1dylufkSGKztcd6DUpVv_xmwoSNZouC9jCfqbXIeuO4aYAbJOcmjS3WjNz_EHPvyyMXM2dTNq1zHP-l3OOt4Osna20J1i73NocgWzGgm5Muet2asv4mVClqj8BNNTiqRvgnZbE2D6P2q6t46GoO3CTJdISkQL8SnyYDa-Rd3lpB1KaT5tUwOa04ZKW1r2gAY52udL2297qoYS9LH1UZyymZitMoPyctSre1EZ_iYhBLhqqEdEpUyZFIFdXYDowC7BfoMqZtKFp-9o6oR4CmIwHTz9f7qzDFWYkFDyIjl2v9O-CNJqezb7B_zcwRzmssNSx-beRhqCZ9OAt439aJLloV2Kl_tcD6e7z_UArcNZ3CJrHjdmCHQplALIzS_8oz6zYgpELGQWGRfNhUzEFA8NBuJNXx_w1306a5x.m3u8"
+					"value": "////video-edge-42ea4a.sjc01.hls.ttvnw.net/v1/playlist/CpnO6X6WMZNGZBJCt4DCjq1DwRODalzr6foMAak5Pv61y6_zN9hAtKn0N_BHVwcMjU65KjYqm49gTGfziToG-Y5yY-K_N9i3KIcM8RsQXTrHwADGu7jFsCXft1J9HR5Wh_22sRw37s3-UGuUDwAgvStQtcqqNlq1uwMuTQFvbRJYUuui7pIHdUG2GfA0dyUqXmzCoh5GAKE8lEjuUS5Mx-wWbdw2FVITZt-RdlnQ2ZRloic__xcR_e5y_exq8813pYk5k0naiMqRylT6NjZnkCWPoW1dYyEA6RsolFWLZuN_R5-9nAM65GCiJJ3hGE2EEYaeokZk0ktVUI_JNp3wOpj8kw8JjJQ9IhfQ2Vy_tBjYJtawhgm-RbhQeYlRUw0-wbdREuCVMSYqaO3E-0GZx_Sy6vdQQbzwTDGsGvbucxLivJMWSxpS6cIGsUY8h0i6UB9.m3u8"
 				}
 			]
 		},
