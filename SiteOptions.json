@@ -247,15 +247,15 @@
 		},
 		"070d88d9-02da-42cf-a83d-4f884878f93a": {
 			"name": "MOBILE_CHECKOUT",
-			"v": 2045,
+			"v": 2097,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "yes"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "no"
 				}
 			]
@@ -1917,15 +1917,15 @@
 		},
 		"6d07fedb-c0e6-4eae-9082-d4c100eade25": {
 			"name": "android_aax",
-			"v": 2014,
+			"v": 2096,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 5,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 95,
 					"value": "active"
 				}
 			]
