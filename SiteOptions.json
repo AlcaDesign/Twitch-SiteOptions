@@ -881,7 +881,7 @@
 		},
 		"2f8b56a6-609f-44e9-a65b-3c3277be5a90": {
 			"name": "android_videoplayer_v0",
-			"v": 1989,
+			"v": 2106,
 			"t": 1,
 			"groups": [
 				{
@@ -893,11 +893,11 @@
 					"value": "native"
 				},
 				{
-					"weight": 1,
+					"weight": 5,
 					"value": "playercore"
 				},
 				{
-					"weight": 98,
+					"weight": 94,
 					"value": "exoplayer"
 				},
 				{
@@ -1423,12 +1423,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2095,
+			"v": 2107,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-77dfbe.sjc01.hls.ttvnw.net/v1/playlist/CjGfHseYscQ0YmKzbiTyyN1NcKuyC0u6Mx7OBRYHFxQasWwUF36uxnAlJs_iuIAz1glC2_idc6anCG5WthJnDrAiNywQh4Gsmoqklgu-1PAGB813_un77QOa-SEJekjIgmMS_68BYs--Sv3p4jpjLbWtN3erMIXFeoYcRtHUmPAhNwtAqYV1xy427qfKJ2JOxrVr_aaH-xzrQvUvB1cIRmHwHPwItVmMwPD213IYSyBh8C9Hme8ePAUxQMTIJCKuWo5Ue9_-00qZmLlFtFZR_yr17HhQFzYGePUe7q4y7q4vI9IrL-2_cgbDCTiTZKauYHIXCP2XmYUdj8I4DdoKInWCaEiX4wBDf0t1fGZUqSczc1QRstx6ocD1qSoWgd5GjHRDL1mxRAklnOvTbn-CwzzSCtZr-9rSUkKQLvjPM44N0r_bOYxCj80FjSfXg.m3u8"
+					"value": "//video-edge-774f18.sjc01.hls.ttvnw.net/v1/playlist/Ch36ujRlp_qlh37jlDjgEp9y_eTQDvYkZcydrhqMBVKa09Gva_GEnYyDpzB-zk-glm2QpTO6wMnE2jMZWgQmnSJ9Zf8W8zw5kkcNaw8rVWs7cZDslmOdkYQI-kiAcqrhVpEbp3tszYdI9Zvwe5siJFhPJGJLsWuk79PoWJ6AYfv4WIsLQ-ILQ5_0xwBKfxX6oKlkIL1IAHLfbf_x2zGSG_GNkSOqtzwKVp5bvW0E5OH-la_Esn7fZA6yRw_ZSKQM7eAmvPuf8r8y4IZxAZIgTkuhf89PxKSvgQvkwbr9bQmF_rKvMqCqU00Y_bg-X5ODpseHtiYndwEu__hSt8Hcl9bNOMCdmkuUs5b3v8iBbjK08S252Ptcn_tCvHJoo2VDPcAtFpNOf0TMYuF8U9RQ7_p1xeF69CSm6BfkfRTsFZGZlo9um.m3u8"
 				}
 			]
 		},
@@ -3638,6 +3638,25 @@
 				}
 			]
 		},
+		"d6386417-a815-4c24-a21b-20e78d5a9e07": {
+			"name": "android_onboarding_1_2",
+			"v": 2108,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 34,
+					"value": "control"
+				},
+				{
+					"weight": 33,
+					"value": "variant_a"
+				},
+				{
+					"weight": 33,
+					"value": "variant_b"
+				}
+			]
+		},
 		"d6ba259c-3f82-48ac-b158-bf4760fc864b": {
 			"name": "android_playercore_6",
 			"v": 1596,
@@ -3977,22 +3996,26 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2068,
+			"v": 2105,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 95,
 					"value": "2.0.8"
+				},
+				{
+					"weight": 5,
+					"value": "2.0.9"
 				}
 			]
 		},
 		"ed516213-9b6f-49a0-96f7-1706aafc8e2d": {
 			"name": "baking_brownies",
-			"v": 1782,
+			"v": 2099,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 75,
+					"weight": 20,
 					"value": "control"
 				},
 				{
@@ -4008,7 +4031,7 @@
 					"value": "yes_play_600"
 				},
 				{
-					"weight": 25,
+					"weight": 80,
 					"value": "yes_play_1050"
 				}
 			]
@@ -4045,7 +4068,7 @@
 		},
 		"f164d19e-cbbd-4774-86c7-106f21d892c0": {
 			"name": "ios_browse_game_display_tablet_layout",
-			"v": 1916,
+			"v": 2102,
 			"t": 1,
 			"groups": [
 				{
