@@ -217,8 +217,9 @@
 		},
 		"05f51b55-9ce2-4d95-9896-8fdfb83b0b04": {
 			"name": "test1",
-			"v": 1923,
+			"v": 2115,
 			"t": 1,
+			"s": 1,
 			"groups": [
 				{
 					"weight": 10,
@@ -1408,27 +1409,27 @@
 		},
 		"4b724df5-bf1c-4e8b-98b6-2c24fc9af1ae": {
 			"name": "clips_slow_down",
-			"v": 2052,
+			"v": 2117,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 1,
+					"weight": 20,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 80,
 					"value": "variant1"
 				}
 			]
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2114,
+			"v": 2119,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-696140.sjc01.hls.ttvnw.net/v1/playlist/ClYJTWQwHVowvxCVBD7jPaecjYnUuYFgFmaigjcQ0SdTxho1ZGFe07iJp8mmLDX42YjtWQwTZp6VEg50EUXW0oA1fo0ZHYYhf115Ypp3vd1eNa_erUQF5WvyM72USrX-4r0NeuqkknJrV4STaFgvHQ2P4hYVntNVwfwTdDqGa71dwhPhQoelInui-6aNHo6TWXDTqEbSQB8TiSKMRGryvhPxnL8KEzaKPJWco38_szCV17epgbtYOOS6x8CfQTTTDviHDVeJ7C1XT5CfGxlllRdvh1OLyy-SguNgC7eHZWJ9iOqt7xK01ft5exdidBmmXIZMtOxHshwXSlHCTe0wHxQXlIsyd6cWjht03FxBZy62xqgwKXaCOUQsHz-8JTa9lhT4SwogLiJZt_1b5Prm9Tgm9j4PZdgzNa_PE3qXHGoGEuFAQkpxcRT1.m3u8"
+					"value": "//video-edge-ed32cc.sjc01.hls.ttvnw.net/v1/playlist/Ckk36fL7NG50VprY-wy-d2KDLYCizt2anKc6YWTTW9M5_E829kfHBYP5judMpy49n2IxZVgrGZDI8GQ_Nz-AGEcnkoS2zwGVXp_tE5JFZyS4VOrZkZCB_6_-Lv5iFEfOdLdmUzieWhmkaY2LCzeaNzHVReGQHZKnNwKqox9yF2NQmEZiuDfJgCjNCj2duzNZBVGL3sYnlD7pbGafKAaFisVkpGw-Y6drz8rt-VmRt71cQkzPg28X0FujuWhBkv-UsGOQoAoGxVZZzrLdNNbXNBBSi8MPgq9HEc3ZKXkq3OZi3axiUlc4Xi2HM9pDP7H4zJDtH-jBmALKu9V-05KVrMpiU80c__ym-d-Jsdm19acY9A6GuGu-2CmEnHC_3W012aJGcvf6eIiCjvc23UiBLOVMeHY0YdHnG_i20_Gzi343yYWHpAuEtPejMtWBbcWiQyrP8EXteZKCzl7oOVVz-5.m3u8"
 				}
 			]
 		},
@@ -3996,15 +3997,11 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2110,
+			"v": 2118,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
-					"value": "2.0.8"
-				},
-				{
-					"weight": 50,
+					"weight": 100,
 					"value": "2.0.9"
 				}
 			]
