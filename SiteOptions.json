@@ -748,21 +748,6 @@
 				}
 			]
 		},
-		"27ebb243-e247-4868-8619-6959c674fc13": {
-			"name": "NEW_CHECKOUT",
-			"v": 1915,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "yes"
-				},
-				{
-					"weight": 0,
-					"value": "no"
-				}
-			]
-		},
 		"2858bc04-3f98-4808-a2dd-86555885ca90": {
 			"name": "clips_feel_it_coming",
 			"v": 983,
@@ -1200,6 +1185,21 @@
 				}
 			]
 		},
+		"43ce4dcb-ef59-489e-a163-685a939cea48": {
+			"name": "clips_sunday_candy",
+			"v": 2131,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				}
+			]
+		},
 		"441c3783-aa74-4a33-aa67-80034afe7e89": {
 			"name": "ios_vodcast",
 			"v": 1598,
@@ -1424,12 +1424,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2119,
+			"v": 2132,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-ed32cc.sjc01.hls.ttvnw.net/v1/playlist/Ckk36fL7NG50VprY-wy-d2KDLYCizt2anKc6YWTTW9M5_E829kfHBYP5judMpy49n2IxZVgrGZDI8GQ_Nz-AGEcnkoS2zwGVXp_tE5JFZyS4VOrZkZCB_6_-Lv5iFEfOdLdmUzieWhmkaY2LCzeaNzHVReGQHZKnNwKqox9yF2NQmEZiuDfJgCjNCj2duzNZBVGL3sYnlD7pbGafKAaFisVkpGw-Y6drz8rt-VmRt71cQkzPg28X0FujuWhBkv-UsGOQoAoGxVZZzrLdNNbXNBBSi8MPgq9HEc3ZKXkq3OZi3axiUlc4Xi2HM9pDP7H4zJDtH-jBmALKu9V-05KVrMpiU80c__ym-d-Jsdm19acY9A6GuGu-2CmEnHC_3W012aJGcvf6eIiCjvc23UiBLOVMeHY0YdHnG_i20_Gzi343yYWHpAuEtPejMtWBbcWiQyrP8EXteZKCzl7oOVVz-5.m3u8"
+					"value": "//video-edge-04c224.sjc01.hls.ttvnw.net/v1/playlist/CpYL4JtPMPErqM48lQPFDccsfKVKLbzBx6CEQYKJC-Y3Hx6XvMp5IerXpM4iq1COkQehwQWh7Ch7qlIxnoJu-u_ToNCzy23R3YQxQsmCVUveR76dIEP71SLHVC7prgvX5_6ke3o_4GqONTMkzTv3rigVRWsFoKbsUooOSBROj13yHWUNp25bpp--buNWCtOnnlji_El3Bc96i2PI4Oo-V3fBdjocfyqEJB_IHjLfFUYDv9AvCt0R6R0QCWcDrHYdrd2qLfM4Db4W6qF7jKFhh655SjIkOPnkyirfc-QcheI2HW5ZXGeaxDIJj458xTOSTjxXvtSbVgAJyjCYaSXsR1RmAS_OIMUvCedgzmTQJlwhuRcucFSfbQjyXEr0lccPx7Y_ykTtK6zencsOJXX6UMQilODR-Fkm08jff6ih5w6Mt1_Bs0NVLN_9Q6sGu8lKQ.m3u8"
 				}
 			]
 		},
@@ -2356,21 +2356,6 @@
 				}
 			]
 		},
-		"8ec5564f-4f15-4269-9824-5658a432cbf3": {
-			"name": "NEW_POA",
-			"v": 1927,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "yes"
-				},
-				{
-					"weight": 0,
-					"value": "no"
-				}
-			]
-		},
 		"8f5277f3-7583-4fd9-ab09-e5a5c432b12b": {
 			"name": "android_autoplay_profile",
 			"v": 1263,
@@ -2646,6 +2631,21 @@
 				}
 			]
 		},
+		"9a6391a8-a115-4875-a0c0-afc34db3d87d": {
+			"name": "BITS_CHECKOUT",
+			"v": 2126,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				}
+			]
+		},
 		"9acd1217-f98c-419a-b39a-0e7fb9e5f325": {
 			"name": "ios_pipboy_browse_ccus",
 			"v": 1544,
@@ -2838,6 +2838,21 @@
 				},
 				{
 					"weight": 1,
+					"value": "variant1"
+				}
+			]
+		},
+		"a88d97b7-ec93-4724-935e-e93f166df82f": {
+			"name": "clips_feel_good",
+			"v": 2134,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
 					"value": "variant1"
 				}
 			]
@@ -3720,19 +3735,19 @@
 		},
 		"dadbbe2e-7a79-4d10-8d29-cbff8101ac30": {
 			"name": "clips_make_me",
-			"v": 1993,
+			"v": 2130,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 1,
+					"weight": 100,
 					"value": "variant1"
 				},
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "variant2"
 				}
 			]
@@ -3970,19 +3985,19 @@
 		},
 		"ec57d33c-2d58-4088-9ff6-617418a6cf1b": {
 			"name": "citadel",
-			"v": 2038,
+			"v": 2133,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "10"
 				},
 				{
-					"weight": 100,
+					"weight": 80,
 					"value": "no"
 				},
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "15"
 				},
 				{
@@ -3997,12 +4012,12 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2118,
+			"v": 2121,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 100,
-					"value": "2.0.9"
+					"value": "2.0.10"
 				}
 			]
 		},
