@@ -497,23 +497,23 @@
 		},
 		"198744b6-e96f-413b-aaf6-eab0128c9833": {
 			"name": "signup_redirect_search",
-			"v": 2072,
+			"v": 2153,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 25,
+					"weight": 0,
 					"value": "games"
 				},
 				{
-					"weight": 25,
+					"weight": 0,
 					"value": "popular"
 				},
 				{
-					"weight": 25,
+					"weight": 0,
 					"value": "search"
 				},
 				{
-					"weight": 25,
+					"weight": 100,
 					"value": "control"
 				}
 			]
@@ -1424,12 +1424,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2146,
+			"v": 2152,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-5333f4.sjc01.hls.ttvnw.net/v1/playlist/CunXDIgdbO8vII375d9BGNB7CEprzDE2NjjTHSRvK44MuXC2vrJ2P8WFkYvbxNjB7d6uMVkVZ1pVWdmG_-8xICVd0iAcP8AvCNbo2Y0phw3zca2417vguH_f77HNzyAieRYpeQNKtN4VaxSwf0wtMpzARfHFvlBf8bihB0Q7B_ajHwfoudsXuKQgLwVI_kGWaUaa05OZb_JI6zIJ7q8n2KYj-Fe0P0VF1-1mo-4RXcxEETJv2QrdaliZ9OyLiKAzVxrwXkWpPCgbT2lJqsJHe-vd6OqZbZAjuk2uDdP-sfDFE2kWd5sACXQmO7kK9bc_YE37HQvVQtFhykeHflfHVqTwZUMKf9seunZlc11uk4Qyymv9J115CbvJMZ2KITFjXVXRwBIFWRQQI-ZVJcraOLNPY-lTfPC2_wDEcSBv5Kf04iLunhHSeGV4rAT4qo6l8gbVZga4ITO4EMTsF.m3u8"
+					"value": "//video-edge-777594.sjc01.hls.ttvnw.net/v1/playlist/Cgkzrj8nyOle5yiidyvWKJ06_ZdmB-9oOJw3i08o1sH-uFNJ9f0k-e8-nsXMS1rYRzY_PUQkOkcDgoICsQeaktgBCE3Eu9zmxjaC0rLu4F5_VDVdjhYdZX3b3hzsZ1oKouslBs_2cWJHn_hDkoW5xvMI1iTJt29VFqOi47Ds1GQMMB1cwzCU8U4RL0W7z0Bf2fQs894kPV_DlZ5tzQNmfzxyoAtAiOurrf0XzRoEc0jaCIRqqKsZLhQCfogAauqotjDgxDvtfb19caccETcV8p7ytDjE18j8d-7FPsvflIVznUG6oMkvqZULqQL6vrLo_TxZMsufQWclB8DGG98ZeghKbuY5sxeiEmxaFicq-kif68G35VME7S8_pdA-LN_F9kKgkAhEiJ2gFK2TDkCuTA1wvYo7tHNb7bFqGMr0Zb6pnQv46o6oDc2PRGVSZw6-ViWtVT.m3u8"
 				}
 			]
 		},
@@ -1693,15 +1693,15 @@
 		},
 		"5f94f02e-56fd-4681-bcba-95f37a7d83fa": {
 			"name": "ZUORA_PHASE_1",
-			"v": 1997,
+			"v": 2147,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -1943,6 +1943,21 @@
 				{
 					"weight": 95,
 					"value": "active"
+				}
+			]
+		},
+		"6e2a89f6-a1e8-45c0-8cc9-77e1fc5590ad": {
+			"name": "ios_raids_ads",
+			"v": 2149,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "test"
+				},
+				{
+					"weight": 100,
+					"value": "control"
 				}
 			]
 		},
@@ -3685,6 +3700,21 @@
 				{
 					"weight": 1,
 					"value": "active"
+				}
+			]
+		},
+		"d5ceeac2-4734-46f3-a1a6-8edba1c6839c": {
+			"name": "android_raids_ads",
+			"v": 2150,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "active"
+				},
+				{
+					"weight": 100,
+					"value": "control"
 				}
 			]
 		},
