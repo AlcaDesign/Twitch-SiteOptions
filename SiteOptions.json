@@ -533,6 +533,21 @@
 				}
 			]
 		},
+		"19f5492f-19f1-430c-8f22-1db077308950": {
+			"name": "ios_broadcast_abs",
+			"v": 2168,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "enabled"
+				},
+				{
+					"weight": 100,
+					"value": "control"
+				}
+			]
+		},
 		"1a42d36b-3f3f-4b80-8252-bdd6cc675ec3": {
 			"name": "Pineapple",
 			"v": 892,
@@ -780,16 +795,16 @@
 		},
 		"298a5f39-228a-487a-ad06-422c18458403": {
 			"name": "twilight_merch_store_launch",
-			"v": 2056,
-			"t": 2,
+			"v": 2159,
+			"t": 1,
 			"groups": [
 				{
 					"weight": 100,
-					"value": "off"
+					"value": "on"
 				},
 				{
 					"weight": 0,
-					"value": "on"
+					"value": "true"
 				}
 			]
 		},
@@ -1331,6 +1346,21 @@
 				}
 			]
 		},
+		"4994d68b-77d3-41f3-bebb-64b96c753b43": {
+			"name": "BROADCAST_SOFTWARE",
+			"v": 2166,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
+				}
+			]
+		},
 		"49f40b88-2044-409d-b306-2eb308489a60": {
 			"name": "Twilight_Upsell",
 			"v": 2021,
@@ -1424,12 +1454,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2152,
+			"v": 2171,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-777594.sjc01.hls.ttvnw.net/v1/playlist/Cgkzrj8nyOle5yiidyvWKJ06_ZdmB-9oOJw3i08o1sH-uFNJ9f0k-e8-nsXMS1rYRzY_PUQkOkcDgoICsQeaktgBCE3Eu9zmxjaC0rLu4F5_VDVdjhYdZX3b3hzsZ1oKouslBs_2cWJHn_hDkoW5xvMI1iTJt29VFqOi47Ds1GQMMB1cwzCU8U4RL0W7z0Bf2fQs894kPV_DlZ5tzQNmfzxyoAtAiOurrf0XzRoEc0jaCIRqqKsZLhQCfogAauqotjDgxDvtfb19caccETcV8p7ytDjE18j8d-7FPsvflIVznUG6oMkvqZULqQL6vrLo_TxZMsufQWclB8DGG98ZeghKbuY5sxeiEmxaFicq-kif68G35VME7S8_pdA-LN_F9kKgkAhEiJ2gFK2TDkCuTA1wvYo7tHNb7bFqGMr0Zb6pnQv46o6oDc2PRGVSZw6-ViWtVT.m3u8"
+					"value": "//video-edge-16fa0a.sjc01.hls.ttvnw.net/v1/playlist/CuBszRn5pTAfjHyMfQA-xtvZWdaZ2MT4KNgr2m6kzQSbmJ267gjP6Xn8C7nNIE7dLU52ziN3SC41_uWiZmc8A71JSCJN-u3PFR1ZdN0k0OUc87L8jlzaHMM_FwckuvbxmAS4s-AR58CtZzlkz57xkWRCG5E_qdMCLUB0kBlg2XJaznwFEPNrPZh6xoSPz4gTh3pWMKvIifZLBcv8_dR_Yx6xjnWIcMw1vFEmVoJ40zSCdEWqkAWHAqP5OOR9gMGHtArXXy3bkVLgy51qulwrpFxArnt0qkgCxP8yXxbkg58bnIk5Q00sNwusevpdDvTLj4mOV7sEvfXhOELEvxk1y4U6tmnv7vNfRpOpXQl_w-OYT77bLoFBys-m7evgCz2z328w2u5T5rHUzNP3qd17Fjyt01rqszVXms2oBcHnvEJwvjLtSUegrKFa0YKw.m3u8"
 				}
 			]
 		},
@@ -1828,7 +1858,7 @@
 		},
 		"68ca29e7-fdd0-43f3-b3f4-9b97cf1341c0": {
 			"name": "ios_ipad_optimized_screens",
-			"v": 2093,
+			"v": 2163,
 			"t": 1,
 			"groups": [
 				{
@@ -1918,15 +1948,15 @@
 		},
 		"6cc85744-ded0-481a-a6ea-38c4b13cea64": {
 			"name": "ios_aax",
-			"v": 1951,
+			"v": 2160,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 50,
 					"value": "active"
 				}
 			]
@@ -2557,15 +2587,15 @@
 		},
 		"991479b1-3c15-4fd4-a225-28c1994008cd": {
 			"name": "ios_chomments_posting",
-			"v": 1884,
+			"v": 2169,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "active"
 				},
 				{
-					"weight": 100,
+					"weight": 60,
 					"value": "control"
 				}
 			]
@@ -3797,6 +3827,21 @@
 				}
 			]
 		},
+		"d932e71d-23b9-4562-a2d3-2c57761cbfc6": {
+			"name": "clips_love_story",
+			"v": 2170,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				}
+			]
+		},
 		"dadbbe2e-7a79-4d10-8d29-cbff8101ac30": {
 			"name": "clips_make_me",
 			"v": 2130,
@@ -4214,6 +4259,21 @@
 				},
 				{
 					"weight": 0,
+					"value": "no"
+				}
+			]
+		},
+		"f7249378-b153-4612-bd09-972fbb0b0b7e": {
+			"name": "TWILIGHT_ACHIEVE",
+			"v": 2167,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
 					"value": "no"
 				}
 			]
