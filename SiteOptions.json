@@ -563,6 +563,21 @@
 				}
 			]
 		},
+		"1b6d4038-40ca-455a-81c7-e239d7568de9": {
+			"name": "ios_dynamic_spade_url",
+			"v": 2199,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "original"
+				},
+				{
+					"weight": 100,
+					"value": "dynamic"
+				}
+			]
+		},
 		"1b905261-e257-4703-ac84-12a6a9099935": {
 			"name": "CLIENT_BATCH_SPADE",
 			"v": 730,
@@ -1469,12 +1484,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2194,
+			"v": 2200,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-3f7dc2.sjc01.hls.ttvnw.net/v1/playlist/CgS646f89gB7-uc28JYvb5XnKEncf94AcxzBdb5JweRWLRXefxftsaAQ5BThyZDN_JpZK_5FwQFxAc2WPE9YdUHD7-Y9o0cd5WANhMgzW6gpSn4LHanTX3ihxD3JmlsJ296yKyYqCHD7E5tB4OMXcgrzBLEgk6rRvM4crCZLY1FQAEW-EEIV7ZZozx4AQ1nxfHMQ8zephCKb5a2wZATC4Uf0pq-LUFgDwbaS-sTzudH4OGHdoF87y_jqO00tHeI01ay2eqRCpbJDoAPvU4tF0TB_SJIBINtTMfi7_EIhWMKtm_RxIoef99rr3NxOJZA90GyRuDEJjOlwE5h0sItJkZ8zhrKHM9an-RhLkBkkyjhA47jAxqVeKb1a4qLNe4Kz41xawItPS8F1-F2MYi-VhOl2gTRtGBCHg82OuTClrK7B55SqIudDWJaPUsk98XcGd7R595JfUL.m3u8"
+					"value": "//video-edge-d3fc63.sjc01.hls.ttvnw.net/v1/playlist/CtRJV1vln_Tl4VupLRHLcdp9S3JNvGtCZ1ijACn5iWkQFGXEa6ldHB3os9mtnANhT0_gDxTUvgT_wxTWAEv_63hhPAmQpXWl-V5Hy5YQ_enBMI9Cu5n0fdFy_wGF-LvciJqQQOoXLqAUbQhn10_9gD1dnIWvLJtDbf-az6-Pg5rz07ffny-vhAKrfVtk8QdRagmc_V8hp-jSKBdo6mmjXZBXhYWuhkDKLSdA14EOFd62sXMHFbgTQuk6BMgG4IjrBUOzJ6haS3FN8XeAwU7JjGxHkpGCADKSUvxhOjFNhHzY2ZtqcgNC0V2n3ADQSfzZ7UB8jcH6wTley4p8ot4wjT-2ao-v3lVEV3vmVhTNJ8Cvluaai0sfGuX3w1KO4e_-bgfzcDR80mKGty6p_AJqgoUOC48zDez0HC_6Qfz22FBDHwjOiJyAflKO9gmX3jWCPA_sEDx7AS023_.m3u8"
 				}
 			]
 		},
@@ -2263,6 +2278,21 @@
 				}
 			]
 		},
+		"7e75faa1-7a39-4c06-8474-c1b902ab9189": {
+			"name": "android_profile_upload_5.5",
+			"v": 2196,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
+				}
+			]
+		},
 		"80a4bf5b-0897-4ae6-bf0b-70357524c39b": {
 			"name": "ios_feed_display_content_type_indicator",
 			"v": 1940,
@@ -3001,6 +3031,21 @@
 				{
 					"weight": 1,
 					"value": "variant1"
+				}
+			]
+		},
+		"a6896ac8-2d90-4342-840b-b48573b00d62": {
+			"name": "ios_autoplay_videos_setting",
+			"v": 2197,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
 				}
 			]
 		},
@@ -4454,7 +4499,7 @@
 		},
 		"fd74ad1d-d885-4d12-9036-f571fc82e6df": {
 			"name": "JANEWAY",
-			"v": 2076,
+			"v": 2198,
 			"t": 1,
 			"groups": [
 				{
