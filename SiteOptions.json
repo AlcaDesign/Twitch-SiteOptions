@@ -1346,21 +1346,6 @@
 				}
 			]
 		},
-		"48e86f7b-7550-4561-9782-9dfe0796b1f3": {
-			"name": "CHOMPIFY",
-			"v": 2091,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 0,
-					"value": "control"
-				},
-				{
-					"weight": 100,
-					"value": "experiment"
-				}
-			]
-		},
 		"497e1277-7fff-4c16-98f0-6b55c8b59a4f": {
 			"name": "I18N_GAME_NAMES",
 			"v": 1237,
@@ -1484,12 +1469,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2222,
+			"v": 2229,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-972fbe.sjc01.hls.ttvnw.net/v1/playlist/CtSln2t06ixLFBcMMQkT8g8KTL7bryFMDsspzxdG7z6YagQLkADWpas0Xko7QWcraEWYf2v0qovHVCVmDNWwu_Xqs6pQeU093KIeiyk0RhKGXhnJ5Uhrn-ENgQp9ebL6AcL0XMUfdymjmKIxe6w9vIDshWIr6Upx4t7AJfHjQOwbTdaqBqFY5-gq9OJ3sZwSEp6jB7YcxUGWxdJdUGZsEuptoMyreMFA8ffWFS39Fx-EBrf9xJEaawDJdhZH8FvMoVhqwjxN5g1xjFFg9InE8YG-hiq0cuNTmvJbw1pN6XLtqvoD_63OhYTngiBK1sGXNWmdNL8kbHF7vAIbpZ00MQ5ZuEhwhlotQP9BYTDhf5i60FrS2aOPj6BkgcHVb7kydRBiHckI7o31cF7MUj1mhhGfKUne_EbFAd_GJlezi6qAfdGTX4n0PEMLw1iwa.m3u8"
+					"value": "//video-edge-9f9846.sjc01.hls.ttvnw.net/v1/playlist/Cnjsl41f7ev6sJsxIFhqL2SwgpwGvGnLeMQgdvundG9T4hbvat_AUT-vEwpXxbH9o1AVwYsm8xjTpXX6eeWWWV6JQtMH5AlojaYfDvgP3gk-8QypdIU1bASxD3ROEV0JdxCp7NRvU69xN7E0gyRHa9lppM5ORKutwk8vve4P3MIi-hAihK-wkFR6N2kOmD5uWM6xp0HOCOXADZTVDg9Xo0W6Ge-zT9XvkLcgwlBZsTOaRgzW6-9R14w4-5KzYlcYnAEARFcCofrKrV7KJnX5qhwJ_dJX7Qh1vHEawiETMBouQbeLdCjcI-6rs_GzKN19dv-K2t8WapkHp7BqkWBuwXdM8G-i7-AVGNth4J8vzrhCq1JU9JLMi3Mj4JHqSPn8GgbCfawx3jlr1WbH8gk0Juj7Bw8tABCOmes3YBens4Ri_lDSncKV98WDpUopN5.m3u8"
 				}
 			]
 		},
@@ -4033,15 +4018,15 @@
 		},
 		"daf63994-587b-4062-8978-d970027af40f": {
 			"name": "SOCIAL_RECOMMENDATIONS_2",
-			"v": 2083,
+			"v": 2226,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 10,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 90,
 					"value": "variant2"
 				}
 			]
@@ -4291,15 +4276,11 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2215,
+			"v": 2223,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
-					"value": "2.0.10"
-				},
-				{
-					"weight": 50,
+					"weight": 100,
 					"value": "2.0.13"
 				}
 			]
@@ -4333,7 +4314,7 @@
 		},
 		"ef25ca44-13bd-4e89-99d2-f9939c013fec": {
 			"name": "twilight_streamer_trailers",
-			"v": 2212,
+			"v": 2228,
 			"t": 2,
 			"groups": [
 				{
@@ -4518,15 +4499,15 @@
 		},
 		"fd74ad1d-d885-4d12-9036-f571fc82e6df": {
 			"name": "JANEWAY",
-			"v": 2204,
+			"v": 2225,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 99,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "yes"
 				}
 			]
