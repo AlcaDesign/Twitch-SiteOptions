@@ -125,7 +125,7 @@
 	"is_chat_rules_experiment_enabled": true,
 	"bits_evo_enabled_channels": "116076154",
 	"native_broadcasts_experiment": "{\"twitch\":{\"start_date\":{\"year\": 2016,\"month\":7,\"day\":31,\"hour\":22,\"minute\":30, \"second\":0},\"end_date\":{\"year\": 2016,\"month\":8,\"day\":1,\"hour\":0,\"minute\":0, \"second\":0},\"streams\":[{\"url\":\"http://link.twitch.tv/AIVpilotsurvey\",\"name\":\"Stream then review!\",\"lang\":\"en\"}],\"lang_mappings\":{\"en\":{\"title\":\"Make Your Voice Heard\",\"text\":\"You help determine the fate of these new shows.\"}}},\"dota2ti\": {\"start_date\":{\"year\": 2016,\"month\":7,\"day\":8,\"hour\":15,\"minute\":0,\"second\":0},\"end_date\":{\"year\": 2016,\"month\":7,\"day\":14,\"hour\":7,\"minute\":0,\"second\":0},\"streams\":[{\"url\":\"/mineskitv\",\"name\":\"MineskiTV (Tagalog)\",\"lang\":\"tl\"},{\"url\":\"/dota2ti_es\",\"name\":\"dota2ti_es (Español)\",\"lang\":\"es\"},{\"url\":\"/dota2ti_pt\",\"name\":\"dota2ti_pt (Português)\",\"lang\":\"pt\"}],\"lang_mappings\":{\"en\":{\"title\":\"Manood at Mag Chat Sa Paborito Nyong Channel\",\"text\":\"Gusto mo bang mapanood ang The International sa Filipino? Subukan nyong mamili sa mga pang-malawakang pahayag!\"},\"en\":{\"title\":\"Watch and Chat in Your Local Language\",\"text\":\"Want to watch The International in your local language? Try one of these international broadcasts!\"},\"es\":{\"title\":\"Mira y Chatea en tu Idioma Local\",\"text\":\"¿Te gustaría ver The International en tu idioma local? ¡Prueba una de las transmisiones internacionales!\"},\"pt\":{\"title\":\"Assista e Converse no Seu Idioma Local\",\"text\":\"Quer assistir ao The International no seu idioma local? Tente uma dessas transmissões internacionais!\"}}}}",
-	"chat_sticky_experiment": "{\r\n  \"viewing_parties_experiment\":{\r\n    \"title\":\"TwitchCon Viewing Parties\",\r\n    \"text\":\"Watch TwitchCon with Twitch communities: all the Con, less of the spam.\",\r\n    \"streams\":{\r\n      \"twitch\":{\"display_name\": \"Twitch\"},\r\n      \"twitchconbiblethump\":{\"display_name\":\"twitchconbiblethump\"},\r\n      \"twitchconlive\":{\"display_name\":\"twitchconlive\"},\r\n      \"twitchconfrankerz\":{\"display_name\":\"twitchconfrankerz\"},\r\n      \"twitchconsandstorm\":{\"display_name\":\"twitchconsandstorm\"}\r\n    },\r\n    \"whitelist\":[],\r\n    \"host_limit\":3,\r\n    \"start_date\":{\"year\":2016,\"month\":8,\"day\":30,\"hour\":7,\"minute\":0, \"second\":0},\r\n    \"end_date\":{\"year\":2016,\"month\":9,\"day\":3,\"hour\":7,\"minute\":0, \"second\":0}\r\n  },\r\n  \"native_broadcasts_experiment\":{\r\n    \"close_count\": 5,\r\n    \"start_date\":{\"year\": 2017,\"month\":7,\"day\":22,\"hour\":16,\"minute\":0, \"second\":0},\r\n    \"end_date\":{\"year\": 2017,\"month\":7,\"day\":26,\"hour\":21,\"minute\":0, \"second\":0},\r\n    \"primary_stream\": \"luchalibreaaa_en\",\r\n    \"streams\":{\r\n      \"luchalibreaaa_en\":{\"name\":\"Lucha Libre AAA (English)\",\"lang\":\"en\"},\r\n      \"luchalibreaaa\":{\"name\":\"Lucha Libre AAA (Español)\",\"lang\":\"es\"}\r\n    },\r\n    \"lang_mappings\":{\r\n      \"en\":{\"title\":\"Lucha Libre AAA\",\"text\":\"Want to watch Lucha Libre AAA in your local language? Try one of these international broadcasts!\"},\r\n      \"es\":{\"title\":\"Lucha Libre AAA\",\"text\":\"¿Te gustaría ver la Lucha Libre AAA en tu idioma local? ¡Prueba una de las transmisiones internacionales!\"}\r\n    }\r\n  },\r\n  \"alt_roles_experiment\":{\r\n    \"title\":\"<Limit> Streams Mythics and Raids!\",\r\n    \"text\":\"Limit, the #1 US guild to wrap up Warlords of Draenor now has multiple roles you can check out! Tanks, heals, DPS, we got you covered.\",\r\n    \"streams\":{\r\n      \"xyronic\":{\"name\":\"Xyronic\",\"description\":\" - Mage / Warlock\"},\r\n      \"soiy\":{\"name\":\"Soiy\",\"description\":\" - Warrior / Melee DPS\"},\r\n      \"malicrin\":{\"name\":\"Malicrin\",\"description\":\" - Priest / Healer\"},\r\n      \"maxisgoatlord\":{\"name\":\"Maxisgoatlord\",\"description\":\" - Tank\"},\r\n      \"preheat\":{\"name\":\"Preheat\",\"description\":\" - Mage\"},\r\n      \"fedor_limit\":{\"name\":\"Fedor\",\"description\":\" - Shaman / Healer\"},\r\n      \"refute\":{\"name\":\"Refute\",\"description\":\" - Druid / Healer\"},\r\n      \"holyzorea\":{\"name\":\"Azorea\",\"description\":\" - Mythic Dungeon Tutorials\"}\r\n    },\r\n    \"start_date\":{\"year\": 2016,\"month\":8,\"day\":19,\"hour\":17,\"minute\":0,\"second\":0},\r\n    \"end_date\":{\"year\": 2016,\"month\":9,\"day\":19,\"hour\":17,\"minute\":0,\"second\":0}\r\n  }\r\n}",
+	"chat_sticky_experiment": "{\r\n  \"viewing_parties_experiment\":{\r\n    \"title\":\"TwitchCon Viewing Parties\",\r\n    \"text\":\"Watch TwitchCon with Twitch communities: all the Con, less of the spam.\",\r\n    \"streams\":{\r\n      \"twitch\":{\"display_name\": \"Twitch\"},\r\n      \"twitchconbiblethump\":{\"display_name\":\"twitchconbiblethump\"},\r\n      \"twitchconlive\":{\"display_name\":\"twitchconlive\"},\r\n      \"twitchconfrankerz\":{\"display_name\":\"twitchconfrankerz\"},\r\n      \"twitchconsandstorm\":{\"display_name\":\"twitchconsandstorm\"}\r\n    },\r\n    \"whitelist\":[],\r\n    \"host_limit\":3,\r\n    \"start_date\":{\"year\":2016,\"month\":8,\"day\":30,\"hour\":7,\"minute\":0, \"second\":0},\r\n    \"end_date\":{\"year\":2016,\"month\":9,\"day\":3,\"hour\":7,\"minute\":0, \"second\":0}\r\n  },\r\n  \"native_broadcasts_experiment\":{\r\n    \"close_count\": 5,\r\n    \"start_date\":{\"year\": 2017,\"month\":9,\"day\":12,\"hour\":1,\"minute\":0, \"second\":0},\r\n    \"end_date\":{\"year\": 2017,\"month\":10,\"day\":12,\"hour\":23,\"minute\":59, \"second\":0},\r\n    \"primary_stream\": \"thepetcollective\",\r\n    \"streams\":{\r\n      \"thepetcollective\":{\"name\":\"Check Out The Pet Collective\",\"lang\":\"en\"},\r\n      \"failarmy\":{\"name\":\"Check Out Fail Army\",\"lang\":\"en\"}\r\n    },\r\n    \"lang_mappings\":{\r\n      \"en\":{\"title\":\"The Pet Collective & Fail Army\",\"text\":\"24/7 Animals and Fails... And Animal Fails! Watch FailArmy & The Pet Collective\"}\r\n    }\r\n  },\r\n  \"alt_roles_experiment\":{\r\n    \"title\":\"<Limit> Streams Mythics and Raids!\",\r\n    \"text\":\"Limit, the #1 US guild to wrap up Warlords of Draenor now has multiple roles you can check out! Tanks, heals, DPS, we got you covered.\",\r\n    \"streams\":{\r\n      \"xyronic\":{\"name\":\"Xyronic\",\"description\":\" - Mage / Warlock\"},\r\n      \"soiy\":{\"name\":\"Soiy\",\"description\":\" - Warrior / Melee DPS\"},\r\n      \"malicrin\":{\"name\":\"Malicrin\",\"description\":\" - Priest / Healer\"},\r\n      \"maxisgoatlord\":{\"name\":\"Maxisgoatlord\",\"description\":\" - Tank\"},\r\n      \"preheat\":{\"name\":\"Preheat\",\"description\":\" - Mage\"},\r\n      \"fedor_limit\":{\"name\":\"Fedor\",\"description\":\" - Shaman / Healer\"},\r\n      \"refute\":{\"name\":\"Refute\",\"description\":\" - Druid / Healer\"},\r\n      \"holyzorea\":{\"name\":\"Azorea\",\"description\":\" - Mythic Dungeon Tutorials\"}\r\n    },\r\n    \"start_date\":{\"year\": 2016,\"month\":8,\"day\":19,\"hour\":17,\"minute\":0,\"second\":0},\r\n    \"end_date\":{\"year\": 2016,\"month\":9,\"day\":19,\"hour\":17,\"minute\":0,\"second\":0}\r\n  }\r\n}",
 	"is_fl_enabled": true,
 	"fl_enabled_list": "27697171,116810334,118271634,116903498,87220843,133588991,135264519,135264580,135264649,135264681,135264719,135264770,135264834,135264943,113883999,118463535,112125341,132980646,133560243,134319061,134738051,135267561,121123175,123056178,134751278,118915482,56211880,28213853,108440231,69911318,124106116,103769330,125197858,98539240,105359181,61998487,118218165,35044387,100478300,67853557,116383283,84392688,135264519,135264580,135264649,135264681,135264719,135264770,135264834,135264943,104314137,135476080,135476127,135476345,135476452,135476681,135476864,135476981,104314137,130816794,115256112,128971049,114581506,70516263,114673704,135621881,135622125,135622202,135622090,135622157,135636918,135637456,135637590,139075904,104874624,128971049,112479096,114598718",
 	"fl_details_link_enabled": true,
@@ -810,15 +810,15 @@
 		},
 		"296d3795-062c-49cc-8e1a-2d3e4e8a5b50": {
 			"name": "android_phone_landscape_chat_write_2",
-			"v": 2185,
+			"v": 2234,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -1363,15 +1363,15 @@
 		},
 		"4994d68b-77d3-41f3-bebb-64b96c753b43": {
 			"name": "BROADCAST_SOFTWARE",
-			"v": 2166,
+			"v": 2231,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "active"
 				}
 			]
@@ -1469,12 +1469,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2229,
+			"v": 2236,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-9f9846.sjc01.hls.ttvnw.net/v1/playlist/Cnjsl41f7ev6sJsxIFhqL2SwgpwGvGnLeMQgdvundG9T4hbvat_AUT-vEwpXxbH9o1AVwYsm8xjTpXX6eeWWWV6JQtMH5AlojaYfDvgP3gk-8QypdIU1bASxD3ROEV0JdxCp7NRvU69xN7E0gyRHa9lppM5ORKutwk8vve4P3MIi-hAihK-wkFR6N2kOmD5uWM6xp0HOCOXADZTVDg9Xo0W6Ge-zT9XvkLcgwlBZsTOaRgzW6-9R14w4-5KzYlcYnAEARFcCofrKrV7KJnX5qhwJ_dJX7Qh1vHEawiETMBouQbeLdCjcI-6rs_GzKN19dv-K2t8WapkHp7BqkWBuwXdM8G-i7-AVGNth4J8vzrhCq1JU9JLMi3Mj4JHqSPn8GgbCfawx3jlr1WbH8gk0Juj7Bw8tABCOmes3YBens4Ri_lDSncKV98WDpUopN5.m3u8"
+					"value": "//video-edge-d3e4ea.sjc01.hls.ttvnw.net/v1/playlist/Cvbqy5C21rT9Uajf98tF0-E7bTX1AZZZNI7IO0ayZMIRVCGiw_U6KHapmEMQcW3Xa5vWikxl2CQAgEi_gNTILK7RqM8VXfuRgSgZ7cZwxzvRB5ccvbqtUbPpHVG23ACFCd0PXwj0YRQTA1_uwfEG9RbtFGnabK00ytENH7O1r2_DO9sUFa39u9EmpcOXIQoVIxDgr9hKb7nc-vCF5-LT0F-bxXdqPDJ1_JU3tloubdzWUy8r9mVzRymgCF5kUgb0Gc3nofHdD5yASrHdi-uD3GVemc6W7e9mCJ4JGunWNTmS5sXqPRBrMeNR-Zgpzfj_xYY7GT_Z8VsQkiEMzQruXoKrZrhep91S-SGGmv1paJhjsvV2oah1hfxeaGgcjbB82UOTVFNXHB-q4etfqYM80ueqTeGK-uK1noHf8fevs3zAjpwChaWFpH9ljP619zIRFM.m3u8"
 				}
 			]
 		},
@@ -4249,19 +4249,19 @@
 		},
 		"ec57d33c-2d58-4088-9ff6-617418a6cf1b": {
 			"name": "citadel",
-			"v": 2133,
+			"v": 2230,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "10"
 				},
 				{
-					"weight": 80,
+					"weight": 100,
 					"value": "no"
 				},
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "15"
 				},
 				{
@@ -4314,19 +4314,19 @@
 		},
 		"ef25ca44-13bd-4e89-99d2-f9939c013fec": {
 			"name": "twilight_streamer_trailers",
-			"v": 2228,
+			"v": 2235,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "on"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "off"
 				}
 			]
