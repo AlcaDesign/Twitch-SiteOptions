@@ -3234,6 +3234,21 @@
 				}
 			]
 		},
+		"b0445cae-0e8c-4608-87b0-c57a542d634b": {
+			"name": "ios_broadcast_abs_stats_view",
+			"v": 2238,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "disabled"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
+				}
+			]
+		},
 		"b05f4f84-ca59-40cd-ad05-c4913b1fcc6f": {
 			"name": "ios_feed_theater_cached_vods",
 			"v": 1819,
