@@ -623,6 +623,25 @@
 				}
 			]
 		},
+		"1e899717-a0a8-4922-b0e7-bb6d71e4ed20": {
+			"name": "android_mobile_promotions",
+			"v": 2246,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active_first_tab"
+				},
+				{
+					"weight": 0,
+					"value": "active_last_tab"
+				}
+			]
+		},
 		"1ef32b26-85c3-4e36-bece-4d3aea3a7604": {
 			"name": "clips_no_long_talk",
 			"v": 1518,
@@ -1469,12 +1488,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2244,
+			"v": 2248,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-24c244.sjc01.hls.ttvnw.net/v1/playlist/Cs5rAcVlQYoC6otHXDiwDpJhu_KAGCNhrFsVnjbf7e6bbRw0FV8f6-MaTuNWNuyflxjCjC8LJg5vwGvo-6SDMZNAHibudhyvCYoRjwC-drUp6Lg6D2oiPI-oRW3fVoN2pB6d_-CQ6rIfNKGdpB2Uo25J2J_-ECsJTCOwXW0ZipHDoN38oV3tP4fDzmqSGODRKF-yIODSLF_8BWDp37zgR9YHaYFlR98x5CRTYDikFIUlHRFbTyYdTwUoRmC9iaIzwLZHhBkDP2KMc2c8903hn1VsY1xaL8PAUSKzSZK0hAW8bobCXwZwQjmDE3FdAPYQR2X6dTEm24jXyZwxx-ZRz0_iEUuBJu2qGhSfe9R66oa0f7RVVe_GG7iTYV5pE6BBdhow3tK4bhum2mluH15m-fDPR9vUCTDXEU_2z2zq9eh3OH98xzQjDzA6KV6yRyq8ZVg9HTUiiS.m3u8"
+					"value": "//video-edge-ca4e2b.sjc01.hls.ttvnw.net/v1/playlist/CrHHFV-X3ZR3hC4Rg9YCGrk1HKO4aGwYqtdVj6R2dWpiOZhK9yJwOq-M7QKvpf7aXUa72BLEGMxSIPnuTobTdpjPoDeIy-0ixR3lCbiryzma0LnUTO5bhZyLXDhfBhBr27y8cjCQ_oopwDR0Xc9HZGbfLGGU6ijIHPQZmr8ollvOfgZIBGuqZ5ZdK4ye0iGbh1Cb42RtnWR5MbBHcU4uNdLqAzhiu-YdS_cXvjKsclHrwLVN0BrFlMijbiQuM-gcfnxUauwNjeX_LnXcydyBvnMpBqQ18qt1paB3G-r6uG_gafzULT-dXtYT2EUGN57h6SHlG32Zft4zFfybfQUS2pQi9ytLp54mON5ukGxa0RRxVeOMIeWUqKfHf5KLvH7bTie7YRtZ01AWJLQDMdvqaZlsuck35AVqZPLw1SbntlH1I2Qd0tqv2.m3u8"
 				}
 			]
 		},
@@ -3081,15 +3100,15 @@
 		},
 		"aa886844-3254-4197-b026-518f2fa75c10": {
 			"name": "CVP MediaPlayer backend control Aug 17",
-			"v": 2030,
+			"v": 2247,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 25,
+					"weight": 1,
 					"value": "no"
 				},
 				{
-					"weight": 75,
+					"weight": 99,
 					"value": "yes"
 				}
 			]
