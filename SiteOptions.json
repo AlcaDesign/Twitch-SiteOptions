@@ -126,7 +126,7 @@
 	"bits_evo_enabled_channels": "116076154",
 	"native_broadcasts_experiment": "{\"twitch\":{\"start_date\":{\"year\": 2016,\"month\":7,\"day\":31,\"hour\":22,\"minute\":30, \"second\":0},\"end_date\":{\"year\": 2016,\"month\":8,\"day\":1,\"hour\":0,\"minute\":0, \"second\":0},\"streams\":[{\"url\":\"http://link.twitch.tv/AIVpilotsurvey\",\"name\":\"Stream then review!\",\"lang\":\"en\"}],\"lang_mappings\":{\"en\":{\"title\":\"Make Your Voice Heard\",\"text\":\"You help determine the fate of these new shows.\"}}},\"dota2ti\": {\"start_date\":{\"year\": 2016,\"month\":7,\"day\":8,\"hour\":15,\"minute\":0,\"second\":0},\"end_date\":{\"year\": 2016,\"month\":7,\"day\":14,\"hour\":7,\"minute\":0,\"second\":0},\"streams\":[{\"url\":\"/mineskitv\",\"name\":\"MineskiTV (Tagalog)\",\"lang\":\"tl\"},{\"url\":\"/dota2ti_es\",\"name\":\"dota2ti_es (Español)\",\"lang\":\"es\"},{\"url\":\"/dota2ti_pt\",\"name\":\"dota2ti_pt (Português)\",\"lang\":\"pt\"}],\"lang_mappings\":{\"en\":{\"title\":\"Manood at Mag Chat Sa Paborito Nyong Channel\",\"text\":\"Gusto mo bang mapanood ang The International sa Filipino? Subukan nyong mamili sa mga pang-malawakang pahayag!\"},\"en\":{\"title\":\"Watch and Chat in Your Local Language\",\"text\":\"Want to watch The International in your local language? Try one of these international broadcasts!\"},\"es\":{\"title\":\"Mira y Chatea en tu Idioma Local\",\"text\":\"¿Te gustaría ver The International en tu idioma local? ¡Prueba una de las transmisiones internacionales!\"},\"pt\":{\"title\":\"Assista e Converse no Seu Idioma Local\",\"text\":\"Quer assistir ao The International no seu idioma local? Tente uma dessas transmissões internacionais!\"}}}}",
 	"chat_sticky_experiment": "{\r\n  \"viewing_parties_experiment\":{\r\n    \"title\":\"TwitchCon Viewing Parties\",\r\n    \"text\":\"Watch TwitchCon with Twitch communities: all the Con, less of the spam.\",\r\n    \"streams\":{\r\n      \"twitch\":{\"display_name\": \"Twitch\"},\r\n      \"twitchconbiblethump\":{\"display_name\":\"twitchconbiblethump\"},\r\n      \"twitchconlive\":{\"display_name\":\"twitchconlive\"},\r\n      \"twitchconfrankerz\":{\"display_name\":\"twitchconfrankerz\"},\r\n      \"twitchconsandstorm\":{\"display_name\":\"twitchconsandstorm\"}\r\n    },\r\n    \"whitelist\":[],\r\n    \"host_limit\":3,\r\n    \"start_date\":{\"year\":2016,\"month\":8,\"day\":30,\"hour\":7,\"minute\":0, \"second\":0},\r\n    \"end_date\":{\"year\":2016,\"month\":9,\"day\":3,\"hour\":7,\"minute\":0, \"second\":0}\r\n  },\r\n  \"native_broadcasts_experiment\":{\r\n    \"close_count\": 5,\r\n    \"start_date\":{\"year\": 2017,\"month\":9,\"day\":12,\"hour\":1,\"minute\":0, \"second\":0},\r\n    \"end_date\":{\"year\": 2017,\"month\":10,\"day\":12,\"hour\":23,\"minute\":59, \"second\":0},\r\n    \"primary_stream\": \"thepetcollective\",\r\n    \"streams\":{\r\n      \"thepetcollective\":{\"name\":\"Check Out The Pet Collective\",\"lang\":\"en\"},\r\n      \"failarmy\":{\"name\":\"Check Out Fail Army\",\"lang\":\"en\"}\r\n    },\r\n    \"lang_mappings\":{\r\n      \"en\":{\"title\":\"The Pet Collective & Fail Army\",\"text\":\"24/7 Animals and Fails... And Animal Fails! Watch FailArmy & The Pet Collective\"}\r\n    }\r\n  },\r\n  \"alt_roles_experiment\":{\r\n    \"title\":\"<Limit> Streams Mythics and Raids!\",\r\n    \"text\":\"Limit, the #1 US guild to wrap up Warlords of Draenor now has multiple roles you can check out! Tanks, heals, DPS, we got you covered.\",\r\n    \"streams\":{\r\n      \"xyronic\":{\"name\":\"Xyronic\",\"description\":\" - Mage / Warlock\"},\r\n      \"soiy\":{\"name\":\"Soiy\",\"description\":\" - Warrior / Melee DPS\"},\r\n      \"malicrin\":{\"name\":\"Malicrin\",\"description\":\" - Priest / Healer\"},\r\n      \"maxisgoatlord\":{\"name\":\"Maxisgoatlord\",\"description\":\" - Tank\"},\r\n      \"preheat\":{\"name\":\"Preheat\",\"description\":\" - Mage\"},\r\n      \"fedor_limit\":{\"name\":\"Fedor\",\"description\":\" - Shaman / Healer\"},\r\n      \"refute\":{\"name\":\"Refute\",\"description\":\" - Druid / Healer\"},\r\n      \"holyzorea\":{\"name\":\"Azorea\",\"description\":\" - Mythic Dungeon Tutorials\"}\r\n    },\r\n    \"start_date\":{\"year\": 2016,\"month\":8,\"day\":19,\"hour\":17,\"minute\":0,\"second\":0},\r\n    \"end_date\":{\"year\": 2016,\"month\":9,\"day\":19,\"hour\":17,\"minute\":0,\"second\":0}\r\n  }\r\n}",
-	"is_fl_enabled": true,
+	"is_fl_enabled": false,
 	"fl_enabled_list": "27697171,116810334,118271634,116903498,87220843,133588991,135264519,135264580,135264649,135264681,135264719,135264770,135264834,135264943,113883999,118463535,112125341,132980646,133560243,134319061,134738051,135267561,121123175,123056178,134751278,118915482,56211880,28213853,108440231,69911318,124106116,103769330,125197858,98539240,105359181,61998487,118218165,35044387,100478300,67853557,116383283,84392688,135264519,135264580,135264649,135264681,135264719,135264770,135264834,135264943,104314137,135476080,135476127,135476345,135476452,135476681,135476864,135476981,104314137,130816794,115256112,128971049,114581506,70516263,114673704,135621881,135622125,135622202,135622090,135622157,135636918,135637456,135637590,139075904,104874624,128971049,112479096,114598718",
 	"fl_details_link_enabled": true,
 	"cmrc_kick_kick_boom_released": false,
@@ -1031,6 +1031,21 @@
 				}
 			]
 		},
+		"3406cb97-c43e-4fbb-98a7-104c6a5dfdbb": {
+			"name": "leviathan",
+			"v": 2249,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				}
+			]
+		},
 		"354aaebd-7643-434f-be37-98fe12c01220": {
 			"name": "HTML5_Toggle_Removal",
 			"v": 1604,
@@ -1488,12 +1503,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2248,
+			"v": 2260,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-ca4e2b.sjc01.hls.ttvnw.net/v1/playlist/CrHHFV-X3ZR3hC4Rg9YCGrk1HKO4aGwYqtdVj6R2dWpiOZhK9yJwOq-M7QKvpf7aXUa72BLEGMxSIPnuTobTdpjPoDeIy-0ixR3lCbiryzma0LnUTO5bhZyLXDhfBhBr27y8cjCQ_oopwDR0Xc9HZGbfLGGU6ijIHPQZmr8ollvOfgZIBGuqZ5ZdK4ye0iGbh1Cb42RtnWR5MbBHcU4uNdLqAzhiu-YdS_cXvjKsclHrwLVN0BrFlMijbiQuM-gcfnxUauwNjeX_LnXcydyBvnMpBqQ18qt1paB3G-r6uG_gafzULT-dXtYT2EUGN57h6SHlG32Zft4zFfybfQUS2pQi9ytLp54mON5ukGxa0RRxVeOMIeWUqKfHf5KLvH7bTie7YRtZ01AWJLQDMdvqaZlsuck35AVqZPLw1SbntlH1I2Qd0tqv2.m3u8"
+					"value": "//video-edge-bea41e.sjc01.hls.ttvnw.net/v1/playlist/Cqty035lccQpw5eMrKAtatj7xTC5fOgiYJXGMDaYx092rd4wXy5giA9HRTqJprtXjm6j6LOVxHcci51FG0pIK3j_6mI72otfRuQosK-Febx_wgeD2-fMcGcpUlXhL1CUp1eA1tVhDAztrNDJCyyJRdOsNDr5vlfzwE1CoI0ZsI7dLbp6IRYRgpWlajJzu2Om6LBwomyPCmaWd_Z0rZ2fTpW7t-Earxe8JgVdi-wPFbh0s5nV6O0QgzDV9ek9-gFFcjaHRtZ1utJ9U7OCwLyzCtDTCsi1l6q-8qlO2ZNxQFQ78gN19M9bZfYyp9ztVLZngSyjIXQYx2pOFOMRc2JBheRPhuibzhytMKXbk7KVzp-3NlSXZ1P8cYv09cueGXWqm4zeBSxasDiHEExt7hOTRc01kWiDe9maAc1TlxYZdGT09JFau_6eNO5kx3qVJfegGcE6TocxWaR-lxU.m3u8"
 				}
 			]
 		},
@@ -2269,15 +2284,15 @@
 		},
 		"7d9127aa-c26f-4b80-a04d-e6ed38e18b78": {
 			"name": "GET_BITS_BUTTON",
-			"v": 2029,
+			"v": 2250,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 100,
 					"value": "t1"
 				},
 				{
-					"weight": 90,
+					"weight": 0,
 					"value": "c"
 				}
 			]
@@ -2689,15 +2704,15 @@
 		},
 		"96593822-f5cd-40c1-9288-5d73615362a5": {
 			"name": "android_native_bits_iap",
-			"v": 2192,
+			"v": 2258,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
-					"value": "inactive"
+					"weight": 0,
+					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -4018,7 +4033,7 @@
 		},
 		"d932e71d-23b9-4562-a2d3-2c57761cbfc6": {
 			"name": "clips_love_story",
-			"v": 2170,
+			"v": 2259,
 			"t": 1,
 			"groups": [
 				{
@@ -4028,6 +4043,14 @@
 				{
 					"weight": 0,
 					"value": "variant1"
+				},
+				{
+					"weight": 0,
+					"value": "variant2"
+				},
+				{
+					"weight": 0,
+					"value": "variant3"
 				}
 			]
 		},
@@ -4248,6 +4271,21 @@
 				{
 					"weight": 5,
 					"value": "no"
+				}
+			]
+		},
+		"e79bd3a8-4064-463b-9f0f-1caf4e5336c0": {
+			"name": "android_bits_iap",
+			"v": 2256,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "active"
 				}
 			]
 		},
