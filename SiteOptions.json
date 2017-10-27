@@ -1429,6 +1429,33 @@
 				}
 			]
 		},
+		"48ec769e-fc80-4464-8b89-b95f9654f7ea": {
+			"name": "android_videoplayer_v2",
+			"v": 2315,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 5,
+					"value": "control"
+				},
+				{
+					"weight": 1,
+					"value": "native"
+				},
+				{
+					"weight": 5,
+					"value": "playercore"
+				},
+				{
+					"weight": 88,
+					"value": "exoplayer"
+				},
+				{
+					"weight": 1,
+					"value": "exoplayer_2"
+				}
+			]
+		},
 		"497e1277-7fff-4c16-98f0-6b55c8b59a4f": {
 			"name": "I18N_GAME_NAMES",
 			"v": 1237,
