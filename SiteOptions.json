@@ -1236,15 +1236,15 @@
 		},
 		"414161d0-ddc1-449f-8c22-d42cbeb77a91": {
 			"name": "android_live_tab_v5.6",
-			"v": 2269,
+			"v": 2327,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "active"
 				}
 			]
