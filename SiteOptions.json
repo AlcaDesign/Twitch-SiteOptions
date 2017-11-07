@@ -1609,12 +1609,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2376,
+			"v": 2382,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-12d658.sjc01.hls.ttvnw.net/v1/playlist/CvrrRTQak6pdaP6DnBQrJDgijdLIXVvUYCCDuyE0oVFDVOKkUdJMa_sii7pCbdzQJLSIjTcn_l7J3SVN91jUSykCXR4Z2VbzEmqiIab_xDdKVMFkPYKEmrhkuKOSfTPiDXmkqZ8ZamvXhnvEWJZtJahEZ2raA_jdBOrqBXGYWZI0kKJZitRoMPT3XIGtSBZQyhAhYOKxwePoe9rthPHlbP2ICCiS-kwBR6tc-akshSpTiBLKRKSb1WgAt8wN6FyYDh4KwDLagtZlOiNAzl3pl55ILlm79hpTlWjz6qSFp_yNye_TizMmZCu2ogv9eVNOBcV9ze8usCki1-xwY6ev8DGHHsIfsjC7fcCatY5MqkZHXNzWtjPBoaZ9A1PPsA0DnzrmrLGF1eWgYx1PeX27tezTGwrtYnUYyk43peGyJSlHZ5hz51Be_x.m3u8"
+					"value": "//video-edge-813592.sjc01.hls.ttvnw.net/v1/playlist/CpSyeng-ipyrPtTmPpmQ-mJqOMNK-KzsTBRE2XhEIwcP93StbLa3XdJsq7HmUv4vhxxNmLwlC2iTXYW5RFf9Vyp9jv6_d0D3f3H0hLCrh_axHXFxr8p3fY7qsnYKMumT8FjrAamCUZMcNmMB37WRNJDbiqsb90bVKm6wy7qp4x7FMLuphparjgTlpQjC98UzZm5eLZVbTiG_G-lENGMfn2WRJZyRV0Q3HxADKzF08DQaaiBrOLW-mQKb8gNo4omvLb_AOJV2kacGqcXHoKs57sVET5sZs86wLTpaDN_OHNOXeDfDqo0ytNqx5BXeRqoNsuUUEkrA1v8GmbhRf_645v8DzhkWkY4Y6PBro_RUJsAPJA9uJloghf0RnsHXF69NQYIy46kbhY-ewTpyZJfO3bWzIs4MpzqGTI-KsD92JlqBy39LU82avG9PbsHKqR.m3u8"
 				}
 			]
 		},
@@ -1965,15 +1965,15 @@
 		},
 		"5f94f02e-56fd-4681-bcba-95f37a7d83fa": {
 			"name": "ZUORA_PHASE_1",
-			"v": 2372,
+			"v": 2378,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "no"
 				}
 			]
@@ -2898,6 +2898,37 @@
 				}
 			]
 		},
+		"953e4d90-2463-4caf-8f55-2884b7e34fa4": {
+			"name": "clips_let_it_go",
+			"v": 2381,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				},
+				{
+					"weight": 0,
+					"value": "variant2"
+				},
+				{
+					"weight": 0,
+					"value": "variant3"
+				},
+				{
+					"weight": 0,
+					"value": "variant4"
+				},
+				{
+					"weight": 0,
+					"value": "variant5"
+				}
+			]
+		},
 		"95869c70-08ce-4e58-a82e-bcaaaf1f8dc2": {
 			"name": "DISCOVER_HIDE_RECENTLY_WATCHED_STREAMS",
 			"v": 702,
@@ -3330,7 +3361,7 @@
 		},
 		"a88d97b7-ec93-4724-935e-e93f166df82f": {
 			"name": "clips_feel_good",
-			"v": 2293,
+			"v": 2379,
 			"t": 1,
 			"groups": [
 				{
@@ -4925,15 +4956,15 @@
 		},
 		"fdf6192f-677e-445b-bc0e-c7eaa9f901b9": {
 			"name": "ios_native_bits_iap",
-			"v": 2219,
+			"v": 2377,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "inactive"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "active"
 				}
 			]
