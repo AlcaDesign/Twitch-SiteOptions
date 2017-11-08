@@ -3006,15 +3006,15 @@
 		},
 		"96593822-f5cd-40c1-9288-5d73615362a5": {
 			"name": "android_native_bits_iap",
-			"v": 2371,
+			"v": 2403,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -4429,23 +4429,23 @@
 		},
 		"d932e71d-23b9-4562-a2d3-2c57761cbfc6": {
 			"name": "clips_love_story",
-			"v": 2259,
+			"v": 2401,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 10,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "variant2"
 				},
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "variant3"
 				}
 			]
@@ -4759,15 +4759,15 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2395,
+			"v": 2404,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 75,
 					"value": "2.0.16"
 				},
 				{
-					"weight": 10,
+					"weight": 25,
 					"value": "2.1.0"
 				}
 			]
@@ -5035,15 +5035,15 @@
 		},
 		"fdf6192f-677e-445b-bc0e-c7eaa9f901b9": {
 			"name": "ios_native_bits_iap",
-			"v": 2377,
+			"v": 2402,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "inactive"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
