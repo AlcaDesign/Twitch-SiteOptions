@@ -1219,6 +1219,21 @@
 				}
 			]
 		},
+		"3fc5b1e2-5580-464e-bc32-21d07a4a1df8": {
+			"name": "android_enable_rooms",
+			"v": 2386,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
+				}
+			]
+		},
 		"40322537-01de-41e2-b46e-0ac2e4a98035": {
 			"name": "ios_chromecast_player_core_test",
 			"v": 2333,
@@ -1236,15 +1251,15 @@
 		},
 		"409d6b75-c64e-449c-b6ec-130118312d3f": {
 			"name": "ios_raids",
-			"v": 1999,
+			"v": 2391,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -1609,12 +1624,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2382,
+			"v": 2399,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-813592.sjc01.hls.ttvnw.net/v1/playlist/CpSyeng-ipyrPtTmPpmQ-mJqOMNK-KzsTBRE2XhEIwcP93StbLa3XdJsq7HmUv4vhxxNmLwlC2iTXYW5RFf9Vyp9jv6_d0D3f3H0hLCrh_axHXFxr8p3fY7qsnYKMumT8FjrAamCUZMcNmMB37WRNJDbiqsb90bVKm6wy7qp4x7FMLuphparjgTlpQjC98UzZm5eLZVbTiG_G-lENGMfn2WRJZyRV0Q3HxADKzF08DQaaiBrOLW-mQKb8gNo4omvLb_AOJV2kacGqcXHoKs57sVET5sZs86wLTpaDN_OHNOXeDfDqo0ytNqx5BXeRqoNsuUUEkrA1v8GmbhRf_645v8DzhkWkY4Y6PBro_RUJsAPJA9uJloghf0RnsHXF69NQYIy46kbhY-ewTpyZJfO3bWzIs4MpzqGTI-KsD92JlqBy39LU82avG9PbsHKqR.m3u8"
+					"value": "//video-edge-4e8eb9.sjc01.hls.ttvnw.net/v1/playlist/Ck45l6C9nleLJJb5xHHr-nm2fzsuESuFnO2SJedLU4exZBSPw7ZdakzjU96HE-ZUQ4WWmgnMFwBxBfMnoTUs5bzuJ06-v7zjp5SR7-nUaoNcOBvdob-QF2xeuIEdlfBUSFW_l0hiKkni_DXCCsGMVwU2rY6sdZuE9UWBRWyc9b6kXCQiUYjvY7FXVJqRrInkEaZTMs9srsIHj7ilDhumu8lIQLLTjD_1NwKOCL1L5vrz7fv1mMOe5HGayp8XunC9V4LeTK06vc5swroLGyPQHaD4mwm_vnIrHZmSXfQ2oPMV-9EWYOhzbKs95SUikhHihzI0LUDBgTrsiXSg0SG6huhX7ZUSZrfp4Aly50I77MFCouSS3gB2tyT3aa824jAbyu798uphXsTz68mMujPpEoS1__0UX7zmHX_2AJgiamsM6Sh8mQrfi3yzEZNA8EiDAohwwWj65U.m3u8"
 				}
 			]
 		},
@@ -1911,6 +1926,21 @@
 				{
 					"weight": 0,
 					"value": "no"
+				}
+			]
+		},
+		"5b149fa8-f8e1-4b30-aa30-f8e4bb648464": {
+			"name": "android_first_time_chatter_v5.7",
+			"v": 2398,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "active"
+				},
+				{
+					"weight": 100,
+					"value": "control"
 				}
 			]
 		},
@@ -2250,15 +2280,15 @@
 		},
 		"6e2a89f6-a1e8-45c0-8cc9-77e1fc5590ad": {
 			"name": "ios_raids_ads",
-			"v": 2149,
+			"v": 2393,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 90,
 					"value": "test"
 				},
 				{
-					"weight": 100,
+					"weight": 10,
 					"value": "control"
 				}
 			]
@@ -2392,6 +2422,21 @@
 				{
 					"weight": 0,
 					"value": "control"
+				}
+			]
+		},
+		"7889f422-980d-4df3-8c99-02e6d0367445": {
+			"name": "android_channel_specific_notifications",
+			"v": 2397,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
 				}
 			]
 		},
@@ -2885,15 +2930,15 @@
 		},
 		"9452d9e2-6588-408c-b8aa-1e54ff1e2f4a": {
 			"name": "twilight_expando_featuro",
-			"v": 2362,
+			"v": 2389,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "expanded"
 				}
 			]
@@ -3116,15 +3161,15 @@
 		},
 		"9a6391a8-a115-4875-a0c0-afc34db3d87d": {
 			"name": "BITS_CHECKOUT",
-			"v": 2321,
+			"v": 2400,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "yes"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "no"
 				}
 			]
@@ -3257,6 +3302,21 @@
 				},
 				{
 					"weight": 10,
+					"value": "active"
+				}
+			]
+		},
+		"9daf3cbf-bd22-4101-95b9-b2c1b0461094": {
+			"name": "android_premieres_reruns",
+			"v": 2387,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
 					"value": "active"
 				}
 			]
@@ -3521,6 +3581,21 @@
 				},
 				{
 					"weight": 100,
+					"value": "active"
+				}
+			]
+		},
+		"ae5fe654-f29f-435e-b1c9-4d106d51fd42": {
+			"name": "iOS_premieres_reruns_pastpremieres",
+			"v": 2385,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
 					"value": "active"
 				}
 			]
@@ -4684,12 +4759,16 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2338,
+			"v": 2395,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "2.0.16"
+				},
+				{
+					"weight": 10,
+					"value": "2.1.0"
 				}
 			]
 		},
