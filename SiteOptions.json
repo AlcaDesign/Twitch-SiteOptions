@@ -1052,15 +1052,15 @@
 		},
 		"32099615-3609-4658-9f6b-5c1c1daa3510": {
 			"name": "TWILIGHT_STREAM_SUMMARY",
-			"v": 1992,
+			"v": 2445,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -1563,15 +1563,15 @@
 		},
 		"49f40b88-2044-409d-b306-2eb308489a60": {
 			"name": "Twilight_Upsell",
-			"v": 2021,
+			"v": 2446,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 66,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 34,
+					"weight": 0,
 					"value": "upsell"
 				}
 			]
@@ -1654,12 +1654,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2441,
+			"v": 2456,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-a08928.sjc01.hls.ttvnw.net/v1/playlist/CtmJKKrLXDAckg12JRHtJaYd0F72_OM8e-TX_fer7QMLGml_J_VFotedbnMcdTOJTYRij9AfqevEsBFetZ8-lk8_pAGQSpDBpcH8qQWIJ4kTwWJJQzTh8ceLQLsa6RE2rt9jAa2sqXfKRpQjz6zx96NaaSaVKsu1sDEn-fnzFshSDZutQoZtpFIJDy5Pz7S_LVHTXms8yZWjd2kMQKlZ3Qid88pmLepvisRDM_f7SvL7r_bom1dwsW8q3cIH33yfHd9em9QftkzzWFbkTaT8ifdDl2moQmJ8kELomuaBC6ZVmdlyh1ZXhHELRuDAQLQMn4NldTOjgYjRGQCwClbzRlzVvpWP2DRqZ9jegOEJtC3n_eCZx4ehQ-4ZB5DiBUCu1Y8Au3a77TWVYNd5yRn9mYaNY_ZoavFZg3rfMWKLXihATTHx06tuLwCD0NauKCE.m3u8"
+					"value": "//video-edge-405a30.sjc01.hls.ttvnw.net/v1/playlist/CrdYP8Hr7rFa3vjTNK1fGueWX4FQP0hcXL8jVQSHkTikoDYAESeE9wAvcKxCW9O7Iql2Wgg-XWPu4u2wn3kdASPZcrSRWmEWVoyonAvJXASwsgHIypGwjRFjDP9BQR2wlfLhdQp3_PxkWKBSVYQmo58yNoiMLJ2U8JGbTFnLw3TnQq-oDudYGB7zB0zRqh2tHEanh1NARU7q76Avy_-edcr6MaV_SJCoxiXN_yJZVWYrRj3UXxYszEsFxCpkLbr_P8EvZXsKU1OX3DyqsYoKV1J7_giAectqpeu7CURvW8w7Fh_q59RImpMfdZ4XyrAx1K_JZMOtWKhl97JxG7Wo8BKoYiQDnTrB1sJ0LaQYr4-TUrbCW2CHTp0aGRRoe2LpKRrsN31clBWu8mb7w2GQmIxXj0M4eH_MqTj_diZIz393tukZj-7ExJAZcdihCy_ep6fIg0qcY8mbeaat.m3u8"
 				}
 			]
 		},
@@ -2975,31 +2975,31 @@
 		},
 		"953e4d90-2463-4caf-8f55-2884b7e34fa4": {
 			"name": "clips_let_it_go",
-			"v": 2381,
+			"v": 2455,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 16,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 16,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 16,
 					"value": "variant2"
 				},
 				{
-					"weight": 0,
+					"weight": 16,
 					"value": "variant3"
 				},
 				{
-					"weight": 0,
+					"weight": 16,
 					"value": "variant4"
 				},
 				{
-					"weight": 0,
+					"weight": 16,
 					"value": "variant5"
 				}
 			]
@@ -4153,7 +4153,7 @@
 		},
 		"cc164e1e-1361-4730-8d9b-0091a0f9cb8f": {
 			"name": "DETERMINATION",
-			"v": 778,
+			"v": 2448,
 			"t": 1,
 			"groups": [
 				{
@@ -4823,15 +4823,15 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2440,
+			"v": 2443,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 85,
+					"weight": 50,
 					"value": "2.1.0"
 				},
 				{
-					"weight": 15,
+					"weight": 50,
 					"value": "2.1.1"
 				}
 			]
@@ -5024,15 +5024,15 @@
 		},
 		"f7249378-b153-4612-bd09-972fbb0b0b7e": {
 			"name": "TWILIGHT_ACHIEVE",
-			"v": 2167,
+			"v": 2444,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				}
 			]
