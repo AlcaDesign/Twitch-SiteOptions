@@ -172,15 +172,15 @@
 		},
 		"011d1499-61b3-49b2-92b2-b2ffd353ef00": {
 			"name": "twilight_sub_gifting",
-			"v": 2442,
+			"v": 2462,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -2570,15 +2570,15 @@
 		},
 		"7e23544d-0541-4c5f-8560-975ffe2f9026": {
 			"name": "SUB_GIFT_CHECKOUT",
-			"v": 2375,
+			"v": 2460,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -4842,15 +4842,11 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2443,
+			"v": 2461,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
-					"value": "2.1.0"
-				},
-				{
-					"weight": 50,
+					"weight": 100,
 					"value": "2.1.1"
 				}
 			]
