@@ -1371,20 +1371,16 @@
 		},
 		"43213506-2eba-49c9-950a-db09cc8335a4": {
 			"name": "valkyrie_multi_region_upload",
-			"v": 1938,
+			"v": 2470,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "regional_routing"
 				},
 				{
-					"weight": 10,
+					"weight": 100,
 					"value": "control"
-				},
-				{
-					"weight": 85,
-					"value": "error"
 				}
 			]
 		},
@@ -1654,12 +1650,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2456,
+			"v": 2464,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-405a30.sjc01.hls.ttvnw.net/v1/playlist/CrdYP8Hr7rFa3vjTNK1fGueWX4FQP0hcXL8jVQSHkTikoDYAESeE9wAvcKxCW9O7Iql2Wgg-XWPu4u2wn3kdASPZcrSRWmEWVoyonAvJXASwsgHIypGwjRFjDP9BQR2wlfLhdQp3_PxkWKBSVYQmo58yNoiMLJ2U8JGbTFnLw3TnQq-oDudYGB7zB0zRqh2tHEanh1NARU7q76Avy_-edcr6MaV_SJCoxiXN_yJZVWYrRj3UXxYszEsFxCpkLbr_P8EvZXsKU1OX3DyqsYoKV1J7_giAectqpeu7CURvW8w7Fh_q59RImpMfdZ4XyrAx1K_JZMOtWKhl97JxG7Wo8BKoYiQDnTrB1sJ0LaQYr4-TUrbCW2CHTp0aGRRoe2LpKRrsN31clBWu8mb7w2GQmIxXj0M4eH_MqTj_diZIz393tukZj-7ExJAZcdihCy_ep6fIg0qcY8mbeaat.m3u8"
+					"value": "//video-edge-e5c92d.sjc01.hls.ttvnw.net/v1/playlist/CsGZOrpl4P0brTr5VC8HAf2573yGU5KbkmIvimrkZSoxEcnA6fAGzkqGnuIzi2a68IcXHEJsJhjmxQqoJADAi0XO_xSnKWJcvkVFsUUxKNvxYZJsTXRlhH9_bB5luDBQazd-t1XtoNeseklOhrrfc-u-QQ93MsjXO1T6yuLFlBc9hj98eRucIUnmD4VJIK8Ad1-s8laRRIuh0EDfejlsclSeOxvUChYU-vcNRREvM7vdiQ2fpN_XdMv6PO-DjlEMwvITrFgWVnrg8CpumUwsB3obqxmXTobWsAI1uyA8BmErJ_gY8m0XRMVfCYiEUlrU422RPG14Fewu08aZ23XJC23gMi-CWiNWFKmFx9R3dKDQCSZkE0CqQCv-Jh9eswrQdICbbWApcR_25BIFVTWdoXh3maHV3XjC78nAaKObe14pz6ZJMHxidNJn8uudW9IcGsKuos6I67E.m3u8"
 				}
 			]
 		},
@@ -3191,15 +3187,15 @@
 		},
 		"9a6391a8-a115-4875-a0c0-afc34db3d87d": {
 			"name": "BITS_CHECKOUT",
-			"v": 2400,
+			"v": 2466,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 25,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 75,
 					"value": "no"
 				}
 			]
@@ -3606,15 +3602,15 @@
 		},
 		"adac3887-6bd4-4fea-bfda-8e019f894dbe": {
 			"name": "CUSTOM_LIVE_UP",
-			"v": 2427,
+			"v": 2468,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 25,
 					"value": "yes"
 				},
 				{
-					"weight": 90,
+					"weight": 75,
 					"value": "no"
 				}
 			]
