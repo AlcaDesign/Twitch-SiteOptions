@@ -4481,8 +4481,8 @@
 			]
 		},
 		"d6bb4aa4-efae-4031-96be-f08950d6c8f4": {
-			"name": "twilight_event_game_directory",
-			"v": 2480,
+			"name": "TWILIGHT_EVENT_GAME_DIRECTORY",
+			"v": 2483,
 			"t": 1,
 			"groups": [
 				{
