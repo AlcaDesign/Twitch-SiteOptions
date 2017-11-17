@@ -215,6 +215,21 @@
 				}
 			]
 		},
+		"04adab74-98c1-4adb-88ea-c896504692d3": {
+			"name": "ios_native_bits_iap_onboarding",
+			"v": 2485,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "inactive"
+				},
+				{
+					"weight": 100,
+					"value": "active"
+				}
+			]
+		},
 		"04b8f9e1-4849-48fa-8d33-c56ec9f040a0": {
 			"name": "android_video_paint",
 			"v": 1061,
@@ -4891,12 +4906,16 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2461,
+			"v": 2484,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 99,
 					"value": "2.1.1"
+				},
+				{
+					"weight": 1,
+					"value": "2.1.2"
 				}
 			]
 		},
