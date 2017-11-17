@@ -1650,12 +1650,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2464,
+			"v": 2479,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-e5c92d.sjc01.hls.ttvnw.net/v1/playlist/CsGZOrpl4P0brTr5VC8HAf2573yGU5KbkmIvimrkZSoxEcnA6fAGzkqGnuIzi2a68IcXHEJsJhjmxQqoJADAi0XO_xSnKWJcvkVFsUUxKNvxYZJsTXRlhH9_bB5luDBQazd-t1XtoNeseklOhrrfc-u-QQ93MsjXO1T6yuLFlBc9hj98eRucIUnmD4VJIK8Ad1-s8laRRIuh0EDfejlsclSeOxvUChYU-vcNRREvM7vdiQ2fpN_XdMv6PO-DjlEMwvITrFgWVnrg8CpumUwsB3obqxmXTobWsAI1uyA8BmErJ_gY8m0XRMVfCYiEUlrU422RPG14Fewu08aZ23XJC23gMi-CWiNWFKmFx9R3dKDQCSZkE0CqQCv-Jh9eswrQdICbbWApcR_25BIFVTWdoXh3maHV3XjC78nAaKObe14pz6ZJMHxidNJn8uudW9IcGsKuos6I67E.m3u8"
+					"value": "//video-edge-3587c0.sjc01.hls.ttvnw.net/v1/playlist/Cky0hDCyHPDqcKymlolrvAPwd1DcgaSSzf6ad-MXlspoacQjcpgJD2frh25x257CL0bYmKamBhJ1witB8BVU3C8wug_-bz5G89hHuf38aRYWHPhU4wCgeG8yuEla7Jg2W1p2Nw_HoXZvboK-sX9RLdBIZOWWsvHgBNP9AoUaYVU5JEbbs3cQ_vxz47GdTVKCtJZINBj2EHtNfdEkipOphGYk2Njm9QgITKiBQB1uSNIXRQWiAABK-7siBlf-Cft9FKJJoWTJAXkjGluWFUEqAhqHxASDcU-xGsj5x5YcwepQdO0aWqnCjgSxh7XQiXNo0EFIhOX25WaTripQL8HeTZ7pjlMV-t3tqiRF2HW4hlr2R1EnqiUKzgMNndpqDQwxKCpMTz44FFSteQ-sGPW7mgN1AeqxPw4TPVBwdXgKFCWPU_WkRj0eGopY_C9jG5tZqiLKJAD_1O48gCjPSrA.m3u8"
 				}
 			]
 		},
@@ -4477,6 +4477,21 @@
 				{
 					"weight": 1,
 					"value": "active"
+				}
+			]
+		},
+		"d6bb4aa4-efae-4031-96be-f08950d6c8f4": {
+			"name": "twilight_event_game_directory",
+			"v": 2480,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 90,
+					"value": "shown"
+				},
+				{
+					"weight": 10,
+					"value": "hidden"
 				}
 			]
 		},
