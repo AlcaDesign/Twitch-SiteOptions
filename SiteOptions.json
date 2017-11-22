@@ -2510,11 +2510,11 @@
 		},
 		"74156eb2-ed95-482c-b006-60c1428e8846": {
 			"name": "twilight_web_onboarding_channel_ranking",
-			"v": 2498,
+			"v": 2508,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 1000,
+					"weight": 100,
 					"value": "control"
 				},
 				{
