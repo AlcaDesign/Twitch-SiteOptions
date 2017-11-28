@@ -1695,12 +1695,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2517,
+			"v": 2521,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-58cd0a.sjc01.hls.ttvnw.net/v1/playlist/Cveq1-x_hsX_Qjl5RTnVeq40A4We8pa5BRKh4kVaQ536mC6CpH41GvO3ckrbX5TlLzguUv3SuTIipH34prrdTU7deqpQDEDG_zo6IS-Iz6DgA5nouFIV4rr_GGwoVzaCzL5bRcG9DlfXCM5qTyKD8qYWeG03Q5RqTRptVOsRNPhm3ZOLlnyc4vzcNvNKa105DBVeP5tNaawCg96koPX17fCIkSJitrHedkreGam6HxNwWT7oEQ5PMHeC6-MOSdzIkPPz2emskEszkmELlkipvlgHzcyylmrZmoC0D6bxSWocnYrqArCUHsj9Hf7XgOoGgevqoksKFGbZrBEf5-TgYgpjNAyIyUz8WjAthzmADK-SXgOKvHn9dJbxMi0gmOumyurXlzhHOf7Ltgd_nUJgkgXT2lw3d_TX4LuUvCNcfoK54TdWIPLiHO7aPfKh.m3u8"
+					"value": "//video-edge-169f08.sjc01.hls.ttvnw.net/v1/playlist/CiY_zJhvCG3REkB-Kcy7i2CJI-JhPdiOJoILouDqKtnvMAh88daLptrIab1sotOuURJ8rXZfkJOlaVqknF2y2vUCMyf48hJo5d2UcGDBkyFx8Zvruyj5dF2A8hKMvNB9v8D7w242q7cvCD5Qc0uAyeK8sISl5pzQI1EHMD2rfxVB-onP3AMYhPKJTMj3FCsN7CRVIlq6h4xj_TtNJtllvm3LOp-RfToxF_ouVO8oQ4dDLkxKoTHv3VtmCWX5QmNIVRQSPgeXiuBt0rNWW_szs8vWQd4gOsqI2f73V7wSS8Tn0XwEhxcvspJAu8Q-Rw2dZREJ9R8vfY3CF7B94pgHqlUsQa-JMH2jcJ-Q8tXgJ7MWi_r3x99qDJggygZbpxDV4EUKnK4m_SVrvXbVgI6vx51H7J4ydgPWVVwy1WeGr3fwnTDaaqdj95xFk26-r6jE-ukxPwBWYUmo6Ea3G8.m3u8"
 				}
 			]
 		},
@@ -4714,6 +4714,21 @@
 				}
 			]
 		},
+		"db2180db-bc89-4f97-8bef-208b1782e18f": {
+			"name": "TWILIGHT_LEADERBOARDS",
+			"v": 2520,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "on"
+				},
+				{
+					"weight": 100,
+					"value": "off"
+				}
+			]
+		},
 		"dc251546-6da4-4db9-abae-2c1325e7dee6": {
 			"name": "android_pipboy_browse_ccus",
 			"v": 1543,
@@ -5214,6 +5229,21 @@
 				},
 				{
 					"weight": 0,
+					"value": "no"
+				}
+			]
+		},
+		"f866f89d-85de-4a5b-9b00-d97c791bc16d": {
+			"name": "TWILIGHT_RAID_AUTO_JOIN",
+			"v": 2519,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
 					"value": "no"
 				}
 			]
