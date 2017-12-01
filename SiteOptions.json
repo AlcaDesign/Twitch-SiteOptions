@@ -202,22 +202,22 @@
 		},
 		"0238d763-05ee-4d27-ba3f-0b7d45346102": {
 			"name": "android_spade_batching_v2",
-			"v": 2000,
+			"v": 2543,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 99,
+					"weight": 80,
 					"value": "control"
 				},
 				{
-					"weight": 1,
+					"weight": 20,
 					"value": "active"
 				}
 			]
 		},
 		"04adab74-98c1-4adb-88ea-c896504692d3": {
 			"name": "ios_native_bits_iap_onboarding_feature",
-			"v": 2497,
+			"v": 2553,
 			"t": 1,
 			"groups": [
 				{
@@ -2073,6 +2073,37 @@
 				{
 					"weight": 0,
 					"value": "no"
+				}
+			]
+		},
+		"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
+			"name": "aml_ranking_follows",
+			"v": 2546,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "two_then_one"
+				},
+				{
+					"weight": 0,
+					"value": "every_other"
+				},
+				{
+					"weight": 0,
+					"value": "just_two"
+				},
+				{
+					"weight": 0,
+					"value": "just_one"
+				},
+				{
+					"weight": 0,
+					"value": "complete"
 				}
 			]
 		},
@@ -4300,7 +4331,7 @@
 		},
 		"c5b39c2e-17e2-4226-b59e-ba48d940a855": {
 			"name": "ios_native_bits_iap_onboarding",
-			"v": 2496,
+			"v": 2552,
 			"t": 1,
 			"groups": [
 				{
@@ -4406,15 +4437,15 @@
 		},
 		"ce62423f-4298-4448-bd1c-5421d96f65d6": {
 			"name": "ios_dashboard",
-			"v": 2276,
+			"v": 2544,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "active"
 				}
 			]
