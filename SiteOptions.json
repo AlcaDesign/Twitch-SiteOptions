@@ -217,15 +217,15 @@
 		},
 		"04adab74-98c1-4adb-88ea-c896504692d3": {
 			"name": "ios_native_bits_iap_onboarding_feature",
-			"v": 2553,
+			"v": 2558,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 95,
 					"value": "inactive"
 				},
 				{
-					"weight": 100,
+					"weight": 5,
 					"value": "active"
 				}
 			]
@@ -3720,15 +3720,11 @@
 		},
 		"aa886844-3254-4197-b026-518f2fa75c10": {
 			"name": "CVP MediaPlayer backend control Aug 17",
-			"v": 2311,
+			"v": 2564,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 2,
-					"value": "no"
-				},
-				{
-					"weight": 98,
+					"weight": 100,
 					"value": "yes"
 				}
 			]
@@ -4331,15 +4327,15 @@
 		},
 		"c5b39c2e-17e2-4226-b59e-ba48d940a855": {
 			"name": "ios_native_bits_iap_onboarding",
-			"v": 2552,
+			"v": 2557,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "inactive"
 				},
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "active"
 				}
 			]
@@ -4732,15 +4728,15 @@
 		},
 		"d8c536f8-31a0-46d0-8e25-1bd5773aee2f": {
 			"name": "android_clip_editing",
-			"v": 2077,
+			"v": 2560,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "active"
 				},
 				{
-					"weight": 100,
+					"weight": 60,
 					"value": "control"
 				}
 			]
@@ -5398,7 +5394,7 @@
 		},
 		"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
 			"name": "pad_thai",
-			"v": 2525,
+			"v": 2563,
 			"t": 1,
 			"groups": [
 				{
