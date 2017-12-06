@@ -1564,6 +1564,21 @@
 				}
 			]
 		},
+		"47597570-dd4e-4996-85eb-86db164cae9c": {
+			"name": "TWILIGHT_AML_RANKING_FOLLOWS",
+			"v": 2572,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "treatment"
+				}
+			]
+		},
 		"479d9473-bf6e-4d74-8f9b-dd85d6f98921": {
 			"name": "LOL_METADATA_EXPERIMENT",
 			"v": 1419,
@@ -1729,12 +1744,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2567,
+			"v": 2576,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-6ac9ed.sjc01.hls.ttvnw.net/v1/playlist/CquPM8Wo3r3kZVpqdDZmZqnVsYNb55DZMhyIQOjHw354TERJSeLxjpgI2mfbs3qOzxXbKLhEOBYbq_tK7GhB45DqcAC_cX1JrUx-IbSBdqfcm7GHS079m1Wc0YHGvYhA0CtzL-vaBxaPguTdlaJoJvR7dgBTmwAXdKkqwnl65EivTK2l2Ob5B1jOEzlNHwVbSxLx_ByVQFBkOZ-V0XI0NtN2FknkBjey53gZ_SiO0_vUIV4PK3bCF6pNu-NqYGEtQlxQDHTyDF6bw12Cr3nvd1z0Ygv76gadMaklKkbpuV872fz8ss5S94efSaT89hPFclgHo_U7Jkyynp0Y3q7oHtm710bbD3SmxYDLASNAsM23I_q3GEcP6_rACo5BN5tT-Dbs8csYz3YiczVwzqqLuCu0MVe3CYzhFlwsPeFd_F4LUhvmp-8RH5WWWV70ePMoWi_Rf7zwOe5NRCpXqTq.m3u8"
+					"value": "//video-edge-8ac5ec.sjc01.hls.ttvnw.net/v1/playlist/Cv5Tc2QQfuYbJiT3tmtc1MpM1JOCgs050GUs-L-LF8HDt4MoTx4Yh-kQVzeJEVtKy1JreA-SgzmhHVaa6LOH5Jhx96yBtopU_waFnH1ZXlo9VhyiMuJVntQ_ICm0cHV4DvW9Q4f8YfA6F09IssE0pYe-duDKG81jaPg9j-AXGbqdJ3CDp-_WwAbTF7-uHiRn0dKmzELjkWBKD7fZ-XwlGunvLW4dMUc53LxKlvCa1WNCxUYMSjGFN-0RdKDS2S1qaCl8K3TlIPZS_BoB1FL3yBup4gIzSWirtvQ9YOaAeqUw8VYtku7FgLZ23DGLkYzliKK3Uja-d0KltJKKbNxiWOwCQyp3_SCEwyUy71F0rFYYGdIp-K_KJvKZ50VukpNhsJSghnuim6LMythwBkRlra0S9ZWKQngCY2x13uHwVHsW7n0.m3u8"
 				}
 			]
 		},
@@ -2618,15 +2633,15 @@
 		},
 		"74156eb2-ed95-482c-b006-60c1428e8846": {
 			"name": "twilight_web_onboarding_channel_ranking",
-			"v": 2508,
+			"v": 2571,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "yes"
 				}
 			]
@@ -3892,6 +3907,21 @@
 				}
 			]
 		},
+		"aec6897c-9a43-4d5a-a09e-3a9ebf05e4d5": {
+			"name": "twilight_onboarding_randomized_games",
+			"v": 2570,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 1,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
+				}
+			]
+		},
 		"af8f152a-f618-416e-8b79-d6ac30479018": {
 			"name": "PERPETUA",
 			"v": 999,
@@ -4269,6 +4299,21 @@
 				{
 					"weight": 0,
 					"value": "off"
+				}
+			]
+		},
+		"c2d3d8cb-713f-41eb-965e-07e88a94ccb4": {
+			"name": "android_player_refactor",
+			"v": 2575,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 1,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
 				}
 			]
 		},
@@ -5149,15 +5194,15 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2568,
+			"v": 2569,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 100,
 					"value": "2.1.4"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "2.2.0"
 				}
 			]
@@ -5365,15 +5410,15 @@
 		},
 		"f866f89d-85de-4a5b-9b00-d97c791bc16d": {
 			"name": "TWILIGHT_RAID_AUTO_JOIN",
-			"v": 2519,
+			"v": 2574,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "no"
 				}
 			]
