@@ -2103,6 +2103,21 @@
 				}
 			]
 		},
+		"560f30f8-b4fc-4a9d-96ac-9143dc1f4110": {
+			"name": "recommended_clips_live_recs",
+			"v": 2578,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "liverecs"
+				}
+			]
+		},
 		"59c5198b-ea6d-423d-b337-ea93d0dc8d66": {
 			"name": "TWILIGHT_LEEROY_JENKINS",
 			"v": 2282,
@@ -5410,15 +5425,15 @@
 		},
 		"f866f89d-85de-4a5b-9b00-d97c791bc16d": {
 			"name": "TWILIGHT_RAID_AUTO_JOIN",
-			"v": 2574,
+			"v": 2580,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 30,
 					"value": "yes"
 				},
 				{
-					"weight": 90,
+					"weight": 70,
 					"value": "no"
 				}
 			]
