@@ -5212,6 +5212,21 @@
 				}
 			]
 		},
+		"e9fe3136-84bc-4a61-9079-0c7df78abeb3": {
+			"name": "twilight_web_onboarding_categories",
+			"v": 2615,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "yes"
+				}
+			]
+		},
 		"ec27e6fe-dabc-4fd3-ab62-a2cffc8fe316": {
 			"name": "coview_with_regression",
 			"v": 1420,
