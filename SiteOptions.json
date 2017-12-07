@@ -372,19 +372,19 @@
 		},
 		"1318509a-bf97-475d-acdc-df6a24ef6e3e": {
 			"name": "twilight_videos_in_sidenav",
-			"v": 2310,
+			"v": 2612,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 92,
 					"value": "none"
 				},
 				{
-					"weight": 0,
+					"weight": 4,
 					"value": "all_content"
 				},
 				{
-					"weight": 0,
+					"weight": 4,
 					"value": "no_archives"
 				}
 			]
@@ -421,7 +421,7 @@
 		},
 		"17133457-67a2-41f8-8961-235020959018": {
 			"name": "baking_bread_b",
-			"v": 1002,
+			"v": 2588,
 			"t": 1,
 			"groups": [
 				{
@@ -445,8 +445,12 @@
 					"value": "yes_95"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "yes_100"
 				}
 			]
 		},
@@ -774,6 +778,21 @@
 				}
 			]
 		},
+		"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
+			"name": "android_chromecast_player_core",
+			"v": 2610,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 5,
+					"value": "control"
+				},
+				{
+					"weight": 95,
+					"value": "player_core"
+				}
+			]
+		},
 		"21eae6bf-b120-4cd0-a513-5612ea0fb51c": {
 			"name": "ps4_playercore",
 			"v": 1121,
@@ -870,11 +889,11 @@
 		},
 		"274f6835-a41d-417c-ad58-f1321e2aac39": {
 			"name": "android_skippable_ads",
-			"v": 1959,
+			"v": 2582,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "skipcontrol"
 				},
 				{
@@ -882,11 +901,11 @@
 					"value": "skip15"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "skip5"
 				},
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "holdout"
 				}
 			]
@@ -1566,15 +1585,15 @@
 		},
 		"47597570-dd4e-4996-85eb-86db164cae9c": {
 			"name": "TWILIGHT_AML_RANKING_FOLLOWS",
-			"v": 2572,
+			"v": 2606,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 99,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "treatment"
 				}
 			]
@@ -1744,12 +1763,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2576,
+			"v": 2614,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-8ac5ec.sjc01.hls.ttvnw.net/v1/playlist/Cv5Tc2QQfuYbJiT3tmtc1MpM1JOCgs050GUs-L-LF8HDt4MoTx4Yh-kQVzeJEVtKy1JreA-SgzmhHVaa6LOH5Jhx96yBtopU_waFnH1ZXlo9VhyiMuJVntQ_ICm0cHV4DvW9Q4f8YfA6F09IssE0pYe-duDKG81jaPg9j-AXGbqdJ3CDp-_WwAbTF7-uHiRn0dKmzELjkWBKD7fZ-XwlGunvLW4dMUc53LxKlvCa1WNCxUYMSjGFN-0RdKDS2S1qaCl8K3TlIPZS_BoB1FL3yBup4gIzSWirtvQ9YOaAeqUw8VYtku7FgLZ23DGLkYzliKK3Uja-d0KltJKKbNxiWOwCQyp3_SCEwyUy71F0rFYYGdIp-K_KJvKZ50VukpNhsJSghnuim6LMythwBkRlra0S9ZWKQngCY2x13uHwVHsW7n0.m3u8"
+					"value": "//video-edge-840aab.sjc01.hls.ttvnw.net/v1/playlist/CnJGCkvHYzTuiL1gbQByjt633Pc7I8iJxIU_Sk9YV-uZ7OMFYRIGWIwRBrJgoeASx9QzVqzQmtv1eMv_ktvqzYym25QcZRXWkCGivkNl5fFheQgnzqA7mMvH10wRUuXYZmf-NqtrXjxqxXdBVm6l0wRf9D7NMkZu7UKCFbbe8a9h9H1Z3DdJ9HQhiQynFWv4c-cj6ksoLKXEvrm_SbSaiLtmUWNLE-gNBmsNZwz5yz6aTD6BOSO9NtMKQwJGIYudj-ql3D0qDwnGaAsi4xxWD_h1FgkD2ZPnsx2S5DOPqutLKpwa5SGC2gJagTQkSWkP5ffuj2qi36VZI1V4U207th6d5AYHjwJEKfzX1hNPXpDZNNxesMC_l0wASSQH-p_8z14idxXICUouMMwstTudPgykelX-qLo8RPq2A8K_JbeESH0GcwwhlbWmR0DHwG1bfvkV-3pOV.m3u8"
 				}
 			]
 		},
@@ -1816,7 +1835,7 @@
 		},
 		"4d081a33-0d0f-4b44-bfde-cf07c358915f": {
 			"name": "baking_bread_d",
-			"v": 1004,
+			"v": 2591,
 			"t": 1,
 			"groups": [
 				{
@@ -1840,8 +1859,12 @@
 					"value": "yes_95"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "yes_100"
 				}
 			]
 		},
@@ -1964,7 +1987,7 @@
 		},
 		"51e3d33c-157b-422d-9a15-b0f9e9c055b2": {
 			"name": "baking_bread_h",
-			"v": 1007,
+			"v": 2600,
 			"t": 1,
 			"groups": [
 				{
@@ -1988,8 +2011,12 @@
 					"value": "yes_95"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "yes_100"
 				}
 			]
 		},
@@ -2135,11 +2162,11 @@
 		},
 		"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 			"name": "aml_ranking_follows",
-			"v": 2566,
+			"v": 2609,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "control"
 				},
 				{
@@ -2159,7 +2186,7 @@
 					"value": "just_one"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "complete"
 				}
 			]
@@ -2320,15 +2347,15 @@
 		},
 		"647ac2c7-7650-4e06-87c0-2e3098c7f70a": {
 			"name": "android_bits_iap_onboarding",
-			"v": 2500,
+			"v": 2604,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 95,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 5,
 					"value": "active"
 				}
 			]
@@ -2395,15 +2422,15 @@
 		},
 		"68ca29e7-fdd0-43f3-b3f4-9b97cf1341c0": {
 			"name": "ios_ipad_optimized_screens",
-			"v": 2163,
+			"v": 2611,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 5,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 95,
 					"value": "enabled"
 				}
 			]
@@ -2723,11 +2750,11 @@
 		},
 		"79accd86-e77e-4eae-8979-d19ab2bc4521": {
 			"name": "ios_skippable_ads",
-			"v": 1960,
+			"v": 2583,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "skipcontrol"
 				},
 				{
@@ -2735,11 +2762,11 @@
 					"value": "skip15"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "skip5"
 				},
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "holdout"
 				}
 			]
@@ -3803,7 +3830,7 @@
 		},
 		"ac2acc22-f0ef-4162-b9a3-7357249165ca": {
 			"name": "baking_bread_i",
-			"v": 1005,
+			"v": 2602,
 			"t": 1,
 			"groups": [
 				{
@@ -3827,8 +3854,12 @@
 					"value": "yes_95"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "yes_100"
 				}
 			]
 		},
@@ -4383,7 +4414,7 @@
 		},
 		"c51b6c01-3155-4314-bd33-a63870349c1f": {
 			"name": "baking_bread_c",
-			"v": 1003,
+			"v": 2590,
 			"t": 1,
 			"groups": [
 				{
@@ -4407,8 +4438,12 @@
 					"value": "yes_95"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "yes_100"
 				}
 			]
 		},
@@ -4429,7 +4464,7 @@
 		},
 		"c65ae62f-82dc-4394-ad75-df5f641e22d4": {
 			"name": "baking_bread_g",
-			"v": 1006,
+			"v": 2596,
 			"t": 1,
 			"groups": [
 				{
@@ -4453,8 +4488,12 @@
 					"value": "yes_95"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "yes_100"
 				}
 			]
 		},
@@ -4569,7 +4608,7 @@
 		},
 		"cf2033c8-5313-4abe-8142-61b9072c9d26": {
 			"name": "baking_bread_e",
-			"v": 947,
+			"v": 2592,
 			"t": 1,
 			"groups": [
 				{
@@ -4593,8 +4632,12 @@
 					"value": "yes_95"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "yes_100"
 				}
 			]
 		},
@@ -5121,7 +5164,7 @@
 		},
 		"e6a95194-9540-46e0-858f-f47e5d5e3a5d": {
 			"name": "baking_bread_f",
-			"v": 946,
+			"v": 2595,
 			"t": 1,
 			"groups": [
 				{
@@ -5145,8 +5188,12 @@
 					"value": "yes_95"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "yes_100"
 				}
 			]
 		},
@@ -5209,26 +5256,26 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2569,
+			"v": 2613,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 95,
 					"value": "2.1.4"
 				},
 				{
-					"weight": 0,
-					"value": "2.2.0"
+					"weight": 5,
+					"value": "2.2.1"
 				}
 			]
 		},
 		"ed516213-9b6f-49a0-96f7-1706aafc8e2d": {
 			"name": "baking_brownies",
-			"v": 2099,
+			"v": 2603,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 20,
+					"weight": 0,
 					"value": "control"
 				},
 				{
@@ -5244,7 +5291,7 @@
 					"value": "yes_play_600"
 				},
 				{
-					"weight": 80,
+					"weight": 100,
 					"value": "yes_play_1050"
 				}
 			]
@@ -5364,7 +5411,7 @@
 		},
 		"f51271fc-b922-43c5-a801-d5b44219b31f": {
 			"name": "baking_bread_a",
-			"v": 1001,
+			"v": 2587,
 			"t": 1,
 			"groups": [
 				{
@@ -5388,8 +5435,12 @@
 					"value": "yes_95"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "no"
+				},
+				{
+					"weight": 5,
+					"value": "yes_100"
 				}
 			]
 		},
