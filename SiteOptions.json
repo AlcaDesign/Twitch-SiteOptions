@@ -1225,15 +1225,15 @@
 		},
 		"3763f4e7-c786-4000-a6c3-b91b9c774302": {
 			"name": "twilight_fenix_down",
-			"v": 2505,
+			"v": 2623,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "recs"
 				}
 			]
@@ -1585,15 +1585,15 @@
 		},
 		"47597570-dd4e-4996-85eb-86db164cae9c": {
 			"name": "TWILIGHT_AML_RANKING_FOLLOWS",
-			"v": 2606,
+			"v": 2625,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 99,
+					"weight": 90,
 					"value": "control"
 				},
 				{
-					"weight": 1,
+					"weight": 10,
 					"value": "treatment"
 				}
 			]
@@ -2162,11 +2162,11 @@
 		},
 		"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 			"name": "aml_ranking_follows",
-			"v": 2609,
+			"v": 2626,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 98,
 					"value": "control"
 				},
 				{
@@ -2186,7 +2186,7 @@
 					"value": "just_one"
 				},
 				{
-					"weight": 0,
+					"weight": 2,
 					"value": "complete"
 				}
 			]
@@ -5653,7 +5653,7 @@
 		}
 	},
 	"prime_new_enabled": true,
-	"prime_new_blocked_regions": "JP,JPA,IN,IND,CU,CUB,SD,SUD,IR,IRN,CHN,CN,SY,SYR,PRK,KP",
+	"prime_new_blocked_regions": "IN,IND,CU,CUB,SD,SUD,IR,IRN,CHN,CN,SY,SYR,PRK,KP",
 	"prime_new_whitelist": "samquality01,samquality02,samquality03,samquality04",
 	"bits_hgc_enabled": true,
 	"bits_hgc_whitelist": "70516263,139075904,22540592,58294775,12219504,40840733",
