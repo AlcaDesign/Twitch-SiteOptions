@@ -217,15 +217,15 @@
 		},
 		"04adab74-98c1-4adb-88ea-c896504692d3": {
 			"name": "ios_native_bits_iap_onboarding_feature",
-			"v": 2558,
+			"v": 2652,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 90,
 					"value": "inactive"
 				},
 				{
-					"weight": 5,
+					"weight": 10,
 					"value": "active"
 				}
 			]
@@ -1508,6 +1508,21 @@
 				}
 			]
 		},
+		"44a503af-d77f-4f1d-9fa4-c99c5f783f9c": {
+			"name": "twilight_video_manager_release",
+			"v": 2650,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "no"
+				},
+				{
+					"weight": 0,
+					"value": "yes"
+				}
+			]
+		},
 		"44c4bb4e-5580-4f0b-8fc9-a8cd426e4e99": {
 			"name": "CHANNEL_FOLLOW_BUTTON",
 			"v": 1252,
@@ -2381,15 +2396,15 @@
 		},
 		"647ac2c7-7650-4e06-87c0-2e3098c7f70a": {
 			"name": "android_bits_iap_onboarding",
-			"v": 2604,
+			"v": 2651,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 90,
 					"value": "control"
 				},
 				{
-					"weight": 5,
+					"weight": 10,
 					"value": "active"
 				}
 			]
@@ -3969,6 +3984,21 @@
 				{
 					"weight": 0,
 					"value": "no"
+				}
+			]
+		},
+		"adff30ad-0ef3-4b61-9892-1c6b10500bd4": {
+			"name": "ios_extensions",
+			"v": 2649,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "disabled"
+				},
+				{
+					"weight": 0,
+					"value": "enabled_v5.8"
 				}
 			]
 		},
