@@ -1793,12 +1793,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2667,
+			"v": 2674,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-97c3eb.sjc01.hls.ttvnw.net/v1/playlist/CtCrX3OJUu4RXjW6yLDQ0ntxyZAlmfVoiTVyQvPyQM5s2ZqA5v498BusUytPnVu5Seb5s0mY0RhytqynvD2zNNwSO1iAqiGNgdFAsoVGiALgxW_sqbsZo3IqP6S7268IUaTa4RxojKK6RQuS9bPliJII3b6bvfM2EkFNwY-SQOzrSUUfG2JZZVQiaX70k0koy3Sq6N3rp6_NQwKzY-xAhmRZU-e5kxPw_QG3pYz-5g4W3z_gSMfbKiltzpUwGt1JZWVRgNf5waaM9Ggu2pUcTIQ5k885eaw48TlcK4oH9LVLrr41ozeY2YG3LCi-4VL5S72ms5uVw-V70ocF2gHf0-CYxh_6zr8mCxg7uw_W2L77aH_JQlrVBWFxI9Usdpu-Pjp_QXn9VH_25nvUosNwwaYuk54qxvQ4-EudQNBrjS0y-u0CaaFEtc.m3u8"
+					"value": "//video-edge-6b85d4.sjc01.hls.ttvnw.net/v1/playlist/CnQkQ3tNB1W06774aJ6s97aEa-M51eJxPK60U0kWJIiH179bBVR7heq6JdzUIf_PZPqqKiG0tUnhh5kWCL8Kjpxh1vG7n2IN9hXhURoUHB5A5ZFu12FJlczW-US1CwShdvR53iIHRwFAsZkl4YoG6NTCC4b5or70_cMdlrkHI72hGhTqLBwYp5tgs1JfGYt685rpJvh4gQYXDMA1UN2hT6O0TZhOgLVBtNeokAPlntd-1MQV6oom1BVw_aNlgCjCogIY91kIu01dC4u3ZXBA-nhXh7O0Y39qMi13tPDgqEMx27Ms4uR2GDVVBFeIVQuQ8CWzcJ3qIwPuiAQ7q36MGZxrdCd9Uw6cYB2uYlqWOc4uDa7lzcgge9uoBaf2qxofDm-0x-Wv0ty48VWGCLK5Dgd6HkRE0mFhQRloVQCLJ7nw-lM0v8pc.m3u8"
 				}
 			]
 		},
@@ -2539,19 +2539,19 @@
 		},
 		"699265c3-830c-4215-859b-647b01f4425b": {
 			"name": "clips_closer_2",
-			"v": 2668,
+			"v": 2673,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 1,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "variant2"
 				}
 			]
@@ -5204,25 +5204,6 @@
 				}
 			]
 		},
-		"e2969271-bad4-4088-a56d-9582b5e35a8f": {
-			"name": "twilight_web_onboarding_for_you_user",
-			"v": 2507,
-			"t": 2,
-			"groups": [
-				{
-					"weight": 34,
-					"value": "control"
-				},
-				{
-					"weight": 33,
-					"value": "last"
-				},
-				{
-					"weight": 33,
-					"value": "first"
-				}
-			]
-		},
 		"e35023b2-1cfc-4e73-b5ab-30f36d2afc4d": {
 			"name": "ios_host_transition",
 			"v": 2351,
@@ -5668,15 +5649,15 @@
 		},
 		"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
 			"name": "pad_thai",
-			"v": 2563,
+			"v": 2675,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 9999,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "treatment"
 				}
 			]
