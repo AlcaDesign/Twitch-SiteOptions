@@ -85,39 +85,6 @@
 	"is_bits_enabled": true,
 	"is_bits_staffonly_beta": false,
 	"ads_for_bits": true,
-	"purchase_bits_url": "https://twitch.amazon.com",
-	"bits_products": [
-		{
-			"amount": 100,
-			"asin": "B017L2UX4C",
-			"discount": 0
-		},
-		{
-			"amount": 500,
-			"asin": "B018WMZKR0",
-			"discount": 0
-		},
-		{
-			"amount": 1500,
-			"asin": "B018WMZN5E",
-			"discount": 5
-		},
-		{
-			"amount": 5000,
-			"asin": "B018WMZSPY",
-			"discount": 8
-		},
-		{
-			"amount": 10000,
-			"asin": "B018WMZYPI",
-			"discount": 10
-		},
-		{
-			"amount": 25000,
-			"asin": "B01G4BISOS",
-			"discount": 12
-		}
-	],
 	"truex_partner_hash": "af4f4f3a5b1e302e3e17383b8dd300cb6867ec84",
 	"truex_js_url": "https://static.truex.com/js/client.js",
 	"truex_api_url": "https://get.truex.com/v2",
