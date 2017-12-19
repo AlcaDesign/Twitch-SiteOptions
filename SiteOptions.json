@@ -322,6 +322,21 @@
 				}
 			]
 		},
+		"0d73f2a4-46a0-4f6a-a985-134046be5e7e": {
+			"name": "android_track_network_request_latency",
+			"v": 2696,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
+				}
+			]
+		},
 		"0ff4ccc4-fb0f-41c0-b195-db9ccdb712d5": {
 			"name": "Bismol",
 			"v": 1414,
@@ -353,6 +368,21 @@
 				{
 					"weight": 0,
 					"value": "no_archives"
+				}
+			]
+		},
+		"143a0729-4294-48b3-bc05-e611afa52eb1": {
+			"name": "android_track_network_request_latency",
+			"v": 2698,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
 				}
 			]
 		},
@@ -1340,6 +1370,21 @@
 				}
 			]
 		},
+		"409b22a0-4f72-49ca-881a-a08cb28d4f11": {
+			"name": "android_track_network_request_latency",
+			"v": 2697,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
+				}
+			]
+		},
 		"409d6b75-c64e-449c-b6ec-130118312d3f": {
 			"name": "ios_raids",
 			"v": 2391,
@@ -1760,12 +1805,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2692,
+			"v": 2695,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-d75451.sjc01.hls.ttvnw.net/v1/playlist/Cnoui7RhYU3qObsFvGYq2AKAg8-v2MX17TRB6YYACITHvpEpWiJPajMg4DWMY6nmTqfqxCYZVidoUIcusIaxxcD4oaoVGePJ1e5Hk2cnWkAZoQzQlzlCjj_4JL9sL63vnt_7CZPOeiXgdngr1ciWmsxex3WLshlkbn8VmGzOq5jsotq75dPJn44MVhf_jfXy59e4sz0NdJ6nl_N1MU6yZ6uk1qJVoNvx6TuLBmBjzInNFtu-jDhcUg93FOqU1G8jcFyxzA0yIEGyIB5M9HfHnchD79mcSQdoaPA7Pj0EI16sbd5UYsqk09nsO1VesuNcyfQ2OHHi5amNLCmF-9AkOeQoloZQas0ud3tk-E26gEq8JtThIfsBme_jEIZYWVI3vYDhU-2Bx79fEkajQYpCnT6ceqOx6QQMyUFks3zq30pchRcu4_AyHyOjM-u.m3u8"
+					"value": "//video-edge-59c2dc.sjc01.hls.ttvnw.net/v1/playlist/Cp9B6b0eFlqNk7GI4xDWQ1HGamWNe3LXq_qBfdLe0mKmvs4QUMTzm5aicegDmz7scWOH4HU732VaugXAolHIe5BxDcKmMK7ElexCWkBINNz8zxXP8p6kyd3W5B4xvZzS9eKi6xd_KnJ9WobbGojcKml40r3KAVwQ89OmX8welfOgQfzvn75AcoqwouYv9hdWwdF7dETAlDNCj3MhFF5jEhCiN81GRY3AUwNL4tGH-973E-s8irG0w8UIQhMv_7muVYsnBuUw5TS2iYgGXeoVYqnjPCBjofLIn3emapnn6VKAm0t6CwKDI2x0RoU8ZQFKCGwwZrK7wl9nd021hAtnrrK-Lpf4RyxxBZLrqYy3xEIqCzcnzC56ChkwEqhcDXIgrPLSU_xejoIsAfQg7TWUPmihA8dRxqelYJQ2IipasucS4yYBPMCJ8QK8LlLuE.m3u8"
 				}
 			]
 		},
@@ -2197,27 +2242,27 @@
 		},
 		"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 			"name": "aml_ranking_follows",
-			"v": 2626,
+			"v": 2694,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 98,
+					"weight": 90,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 2,
 					"value": "two_then_one"
 				},
 				{
-					"weight": 0,
+					"weight": 2,
 					"value": "every_other"
 				},
 				{
-					"weight": 0,
+					"weight": 2,
 					"value": "just_two"
 				},
 				{
-					"weight": 0,
+					"weight": 2,
 					"value": "just_one"
 				},
 				{
