@@ -1041,15 +1041,15 @@
 		},
 		"2e735d16-3892-462e-8ce7-833fa5ff8309": {
 			"name": "clips_gooey",
-			"v": 2486,
+			"v": 2708,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "variant1"
 				}
 			]
@@ -5788,6 +5788,21 @@
 				{
 					"weight": 0,
 					"value": "active"
+				}
+			]
+		},
+		"feb4fffb-c997-47f7-a2e4-25d463f125ba": {
+			"name": "Mobile Web Muted Autoplay",
+			"v": 2702,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 50,
+					"value": "AutoPlay "
+				},
+				{
+					"weight": 50,
+					"value": "No AutoPlay"
 				}
 			]
 		},
