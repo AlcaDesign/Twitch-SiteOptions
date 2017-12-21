@@ -337,6 +337,21 @@
 				}
 			]
 		},
+		"0dc9a9c9-fee5-4b5f-a462-f07675713e5e": {
+			"name": "TWILIGHT_FOLLOWING_INDEX_LATEST_VIDEOS_V2",
+			"v": 2719,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
+				}
+			]
+		},
 		"0ff4ccc4-fb0f-41c0-b195-db9ccdb712d5": {
 			"name": "Bismol",
 			"v": 1414,
@@ -1805,12 +1820,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2710,
+			"v": 2713,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-579545.sjc01.hls.ttvnw.net/v1/playlist/Cu4FIz37DQAAcULZqu6k87n2t6WB98PuG2vdxdahUpUdYfjHqVufmVSRcE6CYLwscQotPb6OcGc3rGLGlef6YfIxbLFhJC3hrGUa-8RlqGkENPAmMVEf9HpndluCQ1Z-pkAqWha0-em-KxeIW12yYUT600rjj7O4OXPtg6767DBMJwfBOsLMlcCdwHJkYXcKSQf545AfaR0VxoRusHuceDGIYk6keVn8k6qvFn_qetIszIut9Aq12IQE8Eik9GoFtqAN50DjMc4zMOagWRby7b2wK1i9zXGU_sQzBC2DTF-lEX3IAzvlj2m88nGVoLMukSMnXbPZiQSYbDajZ4L6hE4PmdwVltU2iOU-12YFcb0SjqPYhFqVHEUmD3v9xcWUpE93xaP1GtSf2JCV58VKFXBZNGUuCTy6VJaQAlB_l6MnbKtpWjSbccWp9-FjF3GZFHMPXNP7S9xVYQ.m3u8"
+					"value": "//video-edge-5cb678.sjc01.hls.ttvnw.net/v1/playlist/CovE0TwB9gFhYQGyTMu21AM1Tus8_MOAwkIo6YIwpjA1Jiak6slc3Hl9nyVLDg6pEypFomVDKdBzuLfIRM5_WeS-hzvZYyZ_kfdxri5gpZEaUPWjeI7CU_-AS8Tu-Y_zolc964EToUG-QrHGwA5hLkzhi16QxdVhW_aJH3Tq7O7HGNwtEwr6z0GzvLHqj_ug5R7eErfEeeHIv7B4YHFPTVKU98KJjzPQEdP-608mhCMHOrYSC_4drkSahMBiQCV1paOp4owF2WyzI3ctpVIRh4fVv0iJUzoCdtcWR2deZsYaaqHPUlDbHHhAloqub5DcrGm3GNPlsC8glKPzKZm-hssBF3BPtyHyF4OSgjoIWu8gUkwYrMBzQ1pWdVVeZX_6BfDA36-A2x1mIczE7oJfycfS3AWFks6dL4EjEfkLOS7z7A_iWBl0KF--tGwAtzmLc7fnKUdPH7AU.m3u8"
 				}
 			]
 		},
@@ -3386,31 +3401,31 @@
 		},
 		"953e4d90-2463-4caf-8f55-2884b7e34fa4": {
 			"name": "clips_let_it_go",
-			"v": 2455,
+			"v": 2712,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 16,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 16,
+					"weight": 0,
 					"value": "variant1"
 				},
 				{
-					"weight": 16,
+					"weight": 100,
 					"value": "variant2"
 				},
 				{
-					"weight": 16,
+					"weight": 0,
 					"value": "variant3"
 				},
 				{
-					"weight": 16,
+					"weight": 0,
 					"value": "variant4"
 				},
 				{
-					"weight": 16,
+					"weight": 0,
 					"value": "variant5"
 				}
 			]
@@ -5373,15 +5388,15 @@
 		},
 		"e9fe3136-84bc-4a61-9079-0c7df78abeb3": {
 			"name": "twilight_web_onboarding_categories",
-			"v": 2615,
+			"v": 2711,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "yes"
 				}
 			]
