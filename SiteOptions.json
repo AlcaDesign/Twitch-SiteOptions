@@ -339,15 +339,15 @@
 		},
 		"0dc9a9c9-fee5-4b5f-a462-f07675713e5e": {
 			"name": "TWILIGHT_FOLLOWING_INDEX_LATEST_VIDEOS_V2",
-			"v": 2719,
+			"v": 2738,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "enabled"
 				}
 			]
@@ -585,7 +585,7 @@
 		},
 		"19cc1327-9436-4019-b71c-e2a1e41d3cb3": {
 			"name": "test",
-			"v": 1653,
+			"v": 2752,
 			"t": 1,
 			"groups": [
 				{
@@ -593,7 +593,7 @@
 					"value": "a"
 				},
 				{
-					"weight": 1,
+					"weight": 2,
 					"value": "b"
 				}
 			]
@@ -994,6 +994,41 @@
 				{
 					"weight": 2,
 					"value": "enabled"
+				}
+			]
+		},
+		"2b5c426e-3b29-4bad-a4be-5f8bea3ad8af": {
+			"name": "baking_bread_j",
+			"v": 2748,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes_10"
+				},
+				{
+					"weight": 0,
+					"value": "yes_30"
+				},
+				{
+					"weight": 0,
+					"value": "yes_50"
+				},
+				{
+					"weight": 0,
+					"value": "yes_80"
+				},
+				{
+					"weight": 0,
+					"value": "yes_95"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				},
+				{
+					"weight": 0,
+					"value": "yes_100"
 				}
 			]
 		},
@@ -1670,6 +1705,25 @@
 				}
 			]
 		},
+		"47c76558-9d79-4181-9e43-d7c440a1a148": {
+			"name": "twilight_web_onboarding_categories_anon_front_page",
+			"v": 2747,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "games"
+				},
+				{
+					"weight": 0,
+					"value": "streams"
+				}
+			]
+		},
 		"48ec769e-fc80-4464-8b89-b95f9654f7ea": {
 			"name": "android_videoplayer_v2",
 			"v": 2315,
@@ -1818,20 +1872,35 @@
 				}
 			]
 		},
+		"4b79ad96-2307-48fe-9bc5-f903a29dc55d": {
+			"name": "android_enable_rooms_release",
+			"v": 2740,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "active"
+				},
+				{
+					"weight": 100,
+					"value": "control"
+				}
+			]
+		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2737,
+			"v": 2760,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-e07a2c.sjc01.hls.ttvnw.net/v1/playlist/ChQY3yQJVV9t1Q7ATLgSx_d1Efmc-v_Ni5ruqLZVGboyHa6m8kZVsucARpKS5ZhcJ1wZK2WUZUV4Oh1Ke4PmBE88a2u7UnOKZg9cPljDwdPGuzcAoo4hSE2ja6pnDJt2RxzXia3Q_b4PyhfzsLfippLDx3mf4O9ULzYASyGQvrJJoShG-NQpB-4g6aWsKvDMj2YimIZbHT9HyKS7B33thLuCqAMW5sGqKLDhy48148lggud02IVIb2DflyI3ubdERW3DjVthpcm09GniUn-7mtRSRSMW_z-J9RxiV61dQ4RjgDjDmWjIVeW2UxlmeeaI4IvA0o7NAsInabwiRMiox-NwF5F6kaZFOkOhlRGb_SnUKWv3Y0b2F_fk5Iq7X5upgKLP0W3mzcXlab4mccqOmDHGbupm7ESvqU8QKHR8YzwjDqT2oCbVhr0CKyA7IvMbP.m3u8"
+					"value": "//video-edge-104c66.sjc01.hls.ttvnw.net/v1/playlist/Cp7X-kPO0QIaxSquj9WL_NBf-UFmNdkRmRdnKB0bBDCpeTNDjHMPeRd_Jn3s5ZjF5YLNx8hAudf6iYcfiMoWBW5k1Jjp0fb43nP_wgUldS-zoHkK0dHdrKGDPG9QolPBWQRQ4R4hPIRadYIP6umor39mj1qVMvUE-qbW8x2szujL761WIriRwgwwuucxq5u37Npfmu6SN2pBRedvcc1FIarhtDEb8ncxR1WE2EknZesTl8nem2a9FvKPpAZhlPcOXMqknJPx4qkrhjCFJ2qmEwY0cEJoa_saJP3MJXI_QqTUo3Y5knARIJs5l8n0vpCXzvDio46ri4MFq97OsAkVvI7ycWo5GUpQ0Sz7pyKcRdtHvsKZOq3COgXKgLIxLXwfu7aUVx3NVXAnoYTtGhyWckPavonLfrpPLIIEoHnyxKWKH_DBqHUCuWZ3RySTBO3i988T1JJBPp7u4T3s6ol.m3u8"
 				}
 			]
 		},
 		"4bc4a7c7-21b7-44f5-a0fb-79f430ee8ac4": {
 			"name": "android_videoplayer_v3",
-			"v": 2503,
+			"v": 2742,
 			"t": 1,
 			"groups": [
 				{
@@ -1843,11 +1912,11 @@
 					"value": "native"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "playercore"
 				},
 				{
-					"weight": 88,
+					"weight": 93,
 					"value": "exoplayer"
 				},
 				{
@@ -2257,31 +2326,32 @@
 		},
 		"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 			"name": "aml_ranking_follows",
-			"v": 2694,
+			"v": 2756,
 			"t": 2,
+			"s": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 80,
 					"value": "control"
 				},
 				{
-					"weight": 2,
+					"weight": 0,
 					"value": "two_then_one"
 				},
 				{
-					"weight": 2,
+					"weight": 0,
 					"value": "every_other"
 				},
 				{
-					"weight": 2,
+					"weight": 0,
 					"value": "just_two"
 				},
 				{
-					"weight": 2,
+					"weight": 0,
 					"value": "just_one"
 				},
 				{
-					"weight": 2,
+					"weight": 20,
 					"value": "complete"
 				}
 			]
@@ -2760,6 +2830,21 @@
 				},
 				{
 					"weight": 80,
+					"value": "no"
+				}
+			]
+		},
+		"72c14aa9-d78d-4095-8f27-d97b9aac4233": {
+			"name": "TWILIGHT_SUB_CHECKOUT_POPUP",
+			"v": 2759,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 50,
+					"value": "yes"
+				},
+				{
+					"weight": 50,
 					"value": "no"
 				}
 			]
@@ -3414,37 +3499,6 @@
 				}
 			]
 		},
-		"953e4d90-2463-4caf-8f55-2884b7e34fa4": {
-			"name": "clips_let_it_go",
-			"v": 2712,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 0,
-					"value": "control"
-				},
-				{
-					"weight": 0,
-					"value": "variant1"
-				},
-				{
-					"weight": 100,
-					"value": "variant2"
-				},
-				{
-					"weight": 0,
-					"value": "variant3"
-				},
-				{
-					"weight": 0,
-					"value": "variant4"
-				},
-				{
-					"weight": 0,
-					"value": "variant5"
-				}
-			]
-		},
 		"95869c70-08ce-4e58-a82e-bcaaaf1f8dc2": {
 			"name": "DISCOVER_HIDE_RECENTLY_WATCHED_STREAMS",
 			"v": 702,
@@ -3457,6 +3511,21 @@
 				{
 					"weight": 0,
 					"value": "show"
+				}
+			]
+		},
+		"9619b63b-2e9a-4e20-af4b-cce72346691d": {
+			"name": "twilight_web_onboarding_follow_categories",
+			"v": 2753,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 1,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
 				}
 			]
 		},
@@ -5676,15 +5745,15 @@
 		},
 		"f866f89d-85de-4a5b-9b00-d97c791bc16d": {
 			"name": "TWILIGHT_RAID_AUTO_JOIN",
-			"v": 2665,
+			"v": 2745,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 75,
+					"weight": 95,
 					"value": "yes"
 				},
 				{
-					"weight": 25,
+					"weight": 5,
 					"value": "no"
 				}
 			]
@@ -5736,11 +5805,11 @@
 		},
 		"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
 			"name": "pad_thai",
-			"v": 2675,
+			"v": 2758,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 9999,
+					"weight": 999,
 					"value": "control"
 				},
 				{
@@ -5822,17 +5891,17 @@
 			]
 		},
 		"feb4fffb-c997-47f7-a2e4-25d463f125ba": {
-			"name": "Mobile Web Muted Autoplay",
-			"v": 2702,
+			"name": "mobile_web_muted_autoplay",
+			"v": 2741,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 50,
-					"value": "AutoPlay "
+					"value": "treatment"
 				},
 				{
 					"weight": 50,
-					"value": "No AutoPlay"
+					"value": "control"
 				}
 			]
 		},
