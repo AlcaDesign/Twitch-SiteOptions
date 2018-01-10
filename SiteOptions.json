@@ -184,15 +184,15 @@
 		},
 		"04adab74-98c1-4adb-88ea-c896504692d3": {
 			"name": "ios_native_bits_iap_onboarding_feature",
-			"v": 2652,
+			"v": 2787,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 80,
 					"value": "inactive"
 				},
 				{
-					"weight": 10,
+					"weight": 20,
 					"value": "active"
 				}
 			]
@@ -585,11 +585,11 @@
 		},
 		"19cc1327-9436-4019-b71c-e2a1e41d3cb3": {
 			"name": "test",
-			"v": 2752,
+			"v": 2790,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 2,
+					"weight": 12,
 					"value": "a"
 				},
 				{
@@ -999,7 +999,7 @@
 		},
 		"2b5c426e-3b29-4bad-a4be-5f8bea3ad8af": {
 			"name": "baking_bread_j",
-			"v": 2767,
+			"v": 2771,
 			"t": 1,
 			"groups": [
 				{
@@ -1019,11 +1019,11 @@
 					"value": "yes_80"
 				},
 				{
-					"weight": 100,
+					"weight": 95,
 					"value": "yes_95"
 				},
 				{
-					"weight": 0,
+					"weight": 5,
 					"value": "no"
 				},
 				{
@@ -1889,12 +1889,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2770,
+			"v": 2775,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-3c228e.sjc01.hls.ttvnw.net/v1/playlist/Cr8E-acaE-dox9I7kUtDIFKddrY38fYgLw1G72p2kozsAK_5h4MMdXNjZ8qHM5WBckOgMOPO46uTgvgWTInMcNSAZO5gpP1fA83T6wMRw3kQt9AvEYgWD-z8qFVDeMjji8KLo4Vnv9VmULiTZRQzXTveQ1cU-RbnryeDyhSoAkhzWAau_rkPeXpTCSLOLcJs0oh2Cpdvw17WDb3iUf9qRgb8aNSru5XxB-9e5xHtEQ-GVNi73Xzrx76I08sY4L4nG3KrY2iaKCv81Dymj38XKchAoz5QIR9MeYc2gouXS1IDm7bXB_YA667-52pMmbt15RQkJp5ekKdWpUcvVeZHjcujBI4aRbxCBPHYB1BCf3icWp1GOncRLnrKBhI6PptcRdltjfoHJckkvVbCq1AR7QEvhrGrdJ4I7_XR2baE2y3ixBaVDRelxPuuvcXcap80yJf.m3u8"
+					"value": "//video-edge-d2b043.sjc01.hls.ttvnw.net/v1/playlist/Cp7yOWkJucy-Q4EFwWnIHkiLyt0Au_kieDstMGqTH1nMjaxNwxzyNp7C5AmZsBx3rQw5a1KjLVSL-eF7wFGwhH58SZujcvEKEQN8N2Eq17E2ylLS1pi586fx156MkCqB3Q9TRGTBZhTZHE_xrEdB-pjM8TO-fdyC30fVJjuatpSgcmIrcUKSFb0GcPJRNylQNHBJKtECKpHTRKPeMxWb5CnzP6YvXFYg0KxYY6Wp_TUBTS3q7nKgzlsVoym8Ah57uiBiAjQNsBXVPUl9-3GEKh-J_0jKMBCQguX61ka2LbLrjWmwtkp7z3d1NSlcmdzDE-XumeuWZ9k_1KXNvRDhEd3KmfsPXBdH1f_Njh3Sr2oLzbO-YL5N9zdNA7j8mCZuZBf6kQJJopiB1RccFqieADJWc5bqM98E3wRy8e1JtZ8f0vpQe.m3u8"
 				}
 			]
 		},
@@ -2512,15 +2512,15 @@
 		},
 		"647ac2c7-7650-4e06-87c0-2e3098c7f70a": {
 			"name": "android_bits_iap_onboarding",
-			"v": 2651,
+			"v": 2786,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 80,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 20,
 					"value": "active"
 				}
 			]
@@ -2761,15 +2761,15 @@
 		},
 		"6e2a89f6-a1e8-45c0-8cc9-77e1fc5590ad": {
 			"name": "ios_raids_ads",
-			"v": 2393,
+			"v": 2773,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "test"
 				},
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "control"
 				}
 			]
@@ -3226,6 +3226,33 @@
 				{
 					"weight": 100,
 					"value": "yes"
+				}
+			]
+		},
+		"8751df7a-c44b-460b-b291-6ae249202626": {
+			"name": "android_videoplayer_v4",
+			"v": 2785,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 5,
+					"value": "control"
+				},
+				{
+					"weight": 1,
+					"value": "native"
+				},
+				{
+					"weight": 5,
+					"value": "playercore"
+				},
+				{
+					"weight": 88,
+					"value": "exoplayer"
+				},
+				{
+					"weight": 1,
+					"value": "exoplayer_2"
 				}
 			]
 		},
@@ -5041,15 +5068,15 @@
 		},
 		"d5ceeac2-4734-46f3-a1a6-8edba1c6839c": {
 			"name": "android_raids_ads",
-			"v": 2341,
+			"v": 2774,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "active"
 				},
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "control"
 				}
 			]
@@ -5421,6 +5448,21 @@
 				{
 					"weight": 25,
 					"value": "opt_in"
+				}
+			]
+		},
+		"e51aab46-7708-49cb-a7a3-57e2c95c7570": {
+			"name": "EXTENSIONS_MAINTENANCE",
+			"v": 2793,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "no"
+				},
+				{
+					"weight": 0,
+					"value": "yes"
 				}
 			]
 		},
@@ -5906,6 +5948,25 @@
 				{
 					"weight": 50,
 					"value": "control"
+				}
+			]
+		},
+		"ff8e8dba-1168-459f-b131-7be5b5e7ba4d": {
+			"name": "clips_champagne_supernova",
+			"v": 2788,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				},
+				{
+					"weight": 0,
+					"value": "variant2"
 				}
 			]
 		},
