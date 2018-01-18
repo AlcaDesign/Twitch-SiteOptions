@@ -369,15 +369,15 @@
 		},
 		"1318509a-bf97-475d-acdc-df6a24ef6e3e": {
 			"name": "twilight_videos_in_sidenav",
-			"v": 2689,
+			"v": 2842,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "none"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "all_content"
 				},
 				{
@@ -1287,15 +1287,15 @@
 		},
 		"3763f4e7-c786-4000-a6c3-b91b9c774302": {
 			"name": "twilight_fenix_down",
-			"v": 2623,
+			"v": 2839,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "recs"
 				}
 			]
@@ -1889,12 +1889,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2831,
+			"v": 2840,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-06bada.sjc01.hls.ttvnw.net/v1/playlist/Crds2hsvWYLdna-qaQ7W-uGDTSmHbmCSiXTPO7cTU-DnKidsoBC6U3aS_wPD-0R0wAQDFQ8hsZ5Ir0LL9Se-U9Itpe0Y1TsY4SKVPiXnh410q3Aim3q7EA_D9_ynpyy4Ck1OnVJkaj5AUVNyGpae99dKrMbDenLPLNMKOdl2VZ8L8EaHqqKFNDHlTsGVV_-Pwd_6nSr8i3gc4azsuyRPWBRI3xRDKRhXJMn1NVDL4WY14spujENrzZteaNm4Q4WJB_HNYgpFOxdlmmf0Zvdzmn1IasNqpRMx-44NlDZ7QwH5rR1SoxUNV_oTYrmymzw5OXpQlnAcFBasBNXaMaPAGDK7ffODQ0FwtzingMmQb0YDrc-dNmmPLiHfhTI7oyQ2j1Cw-j3VvQ7L8gPJuUS_gkDOc59MGlkRcVU_FMydkqSig8jAUFNqqRkM9rz6iH1WdrYUVaHjMP.m3u8"
+					"value": "//video-edge-c8d468.sjc01.hls.ttvnw.net/v1/playlist/CnGk0FxbEmVNO4iWbWLvSYyndtQ46nHUBipGG1xYxuZByzv7ZpoIim6wF25RssazDjsWVKMLfU23p39h7C1sKJH1HzycvoqjO9y3L-lK0B4cjHTkQKVNrw5XBufGJATCu1sqNc-6avXIh9OrP8hyfELdKZyL-6fySs4lEX7FHelXgAm-H1nsIRUCpk-FUyAnPlT95tYNEQzjPOkQ4jly34stOi_tjom-eEWhCa76OeWe9EB669kwV5FS2j5wi7slAgu31xLAbfjd2l33phD5kCgrtt5xS5qEU6EegZdacDDLQpfjaEqAP2mg5iBvfwujevuKtmsJ_Ky2ojIZORqb9ITqN72R7HsfrJKjTPIy--3ofsWvylNoeK2us6LbHp23kgfoOAprfYmnTYKfMBLEeEqKyx2sRMjXmpopaLiobH7eLkEQN_vHQl6aazA03M6.m3u8"
 				}
 			]
 		},
@@ -2084,6 +2084,21 @@
 				},
 				{
 					"weight": 50,
+					"value": "no"
+				}
+			]
+		},
+		"4f952587-515d-44ac-b0cc-86769f543c72": {
+			"name": "TWILIGHT_ALL_THE_STATS",
+			"v": 2841,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
 					"value": "no"
 				}
 			]
@@ -2542,15 +2557,15 @@
 		},
 		"64c787d2-7a36-447b-bba3-8bbab6846da6": {
 			"name": "android_browse_for_tablet",
-			"v": 2043,
+			"v": 2836,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 10,
 					"value": "holdout"
 				},
 				{
-					"weight": 0,
+					"weight": 90,
 					"value": "active"
 				}
 			]
@@ -3231,7 +3246,7 @@
 		},
 		"8751df7a-c44b-460b-b291-6ae249202626": {
 			"name": "android_videoplayer_v4",
-			"v": 2785,
+			"v": 2837,
 			"t": 1,
 			"groups": [
 				{
@@ -3243,11 +3258,11 @@
 					"value": "native"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "playercore"
 				},
 				{
-					"weight": 88,
+					"weight": 93,
 					"value": "exoplayer"
 				},
 				{
