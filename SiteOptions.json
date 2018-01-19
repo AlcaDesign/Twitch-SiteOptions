@@ -585,11 +585,11 @@
 		},
 		"19cc1327-9436-4019-b71c-e2a1e41d3cb3": {
 			"name": "test",
-			"v": 2813,
+			"v": 2854,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 18,
+					"weight": 10,
 					"value": "a"
 				},
 				{
@@ -1315,6 +1315,21 @@
 				}
 			]
 		},
+		"395edcd7-3a9e-4693-8162-eec4252e731f": {
+			"name": "almanac_vod_rtqos",
+			"v": 2857,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 9,
+					"value": "control"
+				},
+				{
+					"weight": 1,
+					"value": "almanac_realtime"
+				}
+			]
+		},
 		"3a823fae-acbe-40c4-9ed8-6b1e685eb4b2": {
 			"name": "ios_notification_center",
 			"v": 1456,
@@ -1572,15 +1587,15 @@
 		},
 		"44a503af-d77f-4f1d-9fa4-c99c5f783f9c": {
 			"name": "twilight_video_manager_release",
-			"v": 2650,
+			"v": 2850,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				}
 			]
@@ -1889,12 +1904,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2840,
+			"v": 2856,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-c8d468.sjc01.hls.ttvnw.net/v1/playlist/CnGk0FxbEmVNO4iWbWLvSYyndtQ46nHUBipGG1xYxuZByzv7ZpoIim6wF25RssazDjsWVKMLfU23p39h7C1sKJH1HzycvoqjO9y3L-lK0B4cjHTkQKVNrw5XBufGJATCu1sqNc-6avXIh9OrP8hyfELdKZyL-6fySs4lEX7FHelXgAm-H1nsIRUCpk-FUyAnPlT95tYNEQzjPOkQ4jly34stOi_tjom-eEWhCa76OeWe9EB669kwV5FS2j5wi7slAgu31xLAbfjd2l33phD5kCgrtt5xS5qEU6EegZdacDDLQpfjaEqAP2mg5iBvfwujevuKtmsJ_Ky2ojIZORqb9ITqN72R7HsfrJKjTPIy--3ofsWvylNoeK2us6LbHp23kgfoOAprfYmnTYKfMBLEeEqKyx2sRMjXmpopaLiobH7eLkEQN_vHQl6aazA03M6.m3u8"
+					"value": "//video-edge-9db0cc.sjc01.hls.ttvnw.net/v1/playlist/CskdRcH68ZLHF0OF1pneNhIKh242FskJtpq8uQIsA9dffL2d9DUhzj5QTpxVVbjpVQ5viNVm6s6AJxRuUo6ow5ZoOZxhK17y-malM9RzlvsiP9V8qsWgkJTNVJ-abdNkZuF1oq5-KK_6zRCZF6AFxUpM4Oz11NLlPFqQiTjy_S-_C2nh-b0HbSM5t3y_aRaM4-JGbEfsgg5Psqqu8ZogYfq0M-wagRQecX45FzVsqHcFU5R2B1mdkjylWDkh2kDsgFE8XkdDX1lyH-9iDGm9BXzkbv5gfb_2gzvIv-u0nTv-4yPu8MQc1Wt7ryCtKL8yDM5-SWzjQvDnf9G_D5LQ2DZ1JdSEUN61_uFjOn7XOtWbtQVdDfhOuw6LF2b7jG5W7yAf2GNaQybjWsL8-rk9c4a3OpsCAzyly8GcimunxoqzHwuEUTGOSfPb64D5wAyUp.m3u8"
 				}
 			]
 		},
@@ -2015,15 +2030,15 @@
 		},
 		"4d3d19a7-38c5-4328-9730-7d99565d5edd": {
 			"name": "twilight_premiere_upload_flow",
-			"v": 2144,
+			"v": 2851,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				}
 			]
@@ -2254,19 +2269,19 @@
 		},
 		"54b18ea6-2b6a-4ed7-9128-2497572d31e2": {
 			"name": "twilight_web_onboarding_following_for_you",
-			"v": 2644,
+			"v": 2845,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "first"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "last"
 				}
 			]
@@ -2527,15 +2542,15 @@
 		},
 		"647ac2c7-7650-4e06-87c0-2e3098c7f70a": {
 			"name": "android_bits_iap_onboarding",
-			"v": 2832,
+			"v": 2843,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 30,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 70,
 					"value": "active"
 				}
 			]
@@ -2785,21 +2800,6 @@
 				},
 				{
 					"weight": 0,
-					"value": "control"
-				}
-			]
-		},
-		"6e2f439b-916a-40b7-b1be-e82b284fd0bb": {
-			"name": "offline_experience",
-			"v": 1521,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 95,
-					"value": "show"
-				},
-				{
-					"weight": 5,
 					"value": "control"
 				}
 			]
@@ -3920,15 +3920,15 @@
 		},
 		"9daf3cbf-bd22-4101-95b9-b2c1b0461094": {
 			"name": "android_premieres_reruns",
-			"v": 2387,
+			"v": 2852,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -3949,17 +3949,6 @@
 				{
 					"weight": 100,
 					"value": "none"
-				}
-			]
-		},
-		"9fb3c040-d7d1-40b1-ab32-f6843c8baa46": {
-			"name": "twilight_web_onboarding",
-			"v": 2524,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "control"
 				}
 			]
 		},
@@ -4005,25 +3994,6 @@
 				{
 					"weight": 1,
 					"value": "variant1"
-				}
-			]
-		},
-		"a540dfb1-7502-4a8c-affa-5175a3e671d9": {
-			"name": "twilight_web_onboarding_for_you",
-			"v": 2439,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "control"
-				},
-				{
-					"weight": 0,
-					"value": "last"
-				},
-				{
-					"weight": 0,
-					"value": "first"
 				}
 			]
 		},
@@ -4263,15 +4233,15 @@
 		},
 		"ae5fe654-f29f-435e-b1c9-4d106d51fd42": {
 			"name": "iOS_premieres_reruns_pastpremieres",
-			"v": 2385,
+			"v": 2853,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -4757,15 +4727,15 @@
 		},
 		"c5b39c2e-17e2-4226-b59e-ba48d940a855": {
 			"name": "ios_native_bits_iap_onboarding",
-			"v": 2557,
+			"v": 2844,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 30,
 					"value": "inactive"
 				},
 				{
-					"weight": 50,
+					"weight": 70,
 					"value": "active"
 				}
 			]
@@ -5590,16 +5560,12 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2825,
+			"v": 2848,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 100,
 					"value": "2.2.4"
-				},
-				{
-					"weight": 5,
-					"value": "2.2.5"
 				}
 			]
 		},
