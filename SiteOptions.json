@@ -107,6 +107,21 @@
 	"tsubs_enabled": true,
 	"release_subs_tsubs": "staff",
 	"experiments": {
+		"00266295-54c5-46e6-a8ca-84165b807c8f": {
+			"name": "mobile_web_aa",
+			"v": 2943,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 50,
+					"value": "treatment"
+				},
+				{
+					"weight": 50,
+					"value": "control"
+				}
+			]
+		},
 		"00683bde-a79d-4b9d-a7cc-b0549f854d36": {
 			"name": "offline_recs",
 			"v": 1520,
@@ -1919,12 +1934,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2928,
+			"v": 2945,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-2c5424.sjc01.hls.ttvnw.net/v1/playlist/CrMy8kww2y99kuyawY0f-V3fJ_hfiqnPwgCZadU93YEgUzec20d8gboGjG1J34i32YwWX_8332rUQIdoprC8OXN97XvISjShJMTAZhdg8sW2OfUTUa48NPyZjAKunDdg-4aHCRap2MDASB_WYOmczZxZfo65kriHzwYxQRJjncEEfaOwoWrdd61QhbjWCnL5HfTVEG_VuPON4jZ-KpXfKX7ItDmamt8oU3Pw1Lz7N1qsNnGagneZaLHjlOIVulhrM-5tANw--hbD2Q6zhmhWRcJ3Vl_ESN12wnNRxQhanU1Rg6L6P3EzYHpGmLGjGEre26zY9TinwOFqirqRwpxAhkO0oN_tdSGPndImyRODRAFUH6NAeul00nJVxmRqTLFNG9gvvhwlvm2C_gM4cgRh5KG7Nx16H8izv8RLhPdOuWeLxCTaZkbOc_VuXez5.m3u8"
+					"value": "//video-edge-c3050a.sjc01.hls.ttvnw.net/v1/playlist/Crd3rUs38OZ_QcfgZWASQR4r5eYfOabWTFJ1YddIjq2ixaddGEjcRXCpCTiyPKoBNw3G0Ey1VCXA6dzfw0CYPleDuQHsUucKKGZsj-CiGj1RMM-ehPwcHJlppmuJogAh6ygiqtIhfFahuLOaAsCNAU913twlYo7nxR4_iITjt84lvU1RyHPRvez5a2tjuuRXk5Q2N7XwNVTorblyu-i8ERMOzMc-sFlFK8vTnl3sJMXHpY30kB2qpMfA3ZOVE6GF4RR3wCl8vCQx0gjiLzJv5K-Oh3w56IEpTyiN-9P3epnPWmKK2qrKGuuf2Rtw54IdP_mSmHm3MPReDxacbcIS1jLZo_Uf3tVlBKKDlBXR7i_uHR6ELkwhw81kFG41U9f7eX3sThoPk1cBXgg4w0bM_cB3F-CQGiI3WGICfO0jCct_6xdmkLnhDYcK1cnW3xxvj.m3u8"
 				}
 			]
 		},
@@ -2412,6 +2427,25 @@
 				},
 				{
 					"weight": 0,
+					"value": "control"
+				}
+			]
+		},
+		"5cfa2a90-54f0-4dcc-b28c-45f33935718e": {
+			"name": "TWILIGHT_VOD_REDITUS",
+			"v": 2940,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 33,
+					"value": "following_basic"
+				},
+				{
+					"weight": 33,
+					"value": "following_advanced"
+				},
+				{
+					"weight": 33,
 					"value": "control"
 				}
 			]
@@ -4210,7 +4244,7 @@
 		},
 		"adff30ad-0ef3-4b61-9892-1c6b10500bd4": {
 			"name": "ios_extensions",
-			"v": 2769,
+			"v": 2930,
 			"t": 1,
 			"groups": [
 				{
@@ -4224,6 +4258,10 @@
 				{
 					"weight": 0,
 					"value": "enabled_v5.9"
+				},
+				{
+					"weight": 0,
+					"value": "enabled_v5.10"
 				}
 			]
 		},
@@ -4888,6 +4926,25 @@
 				{
 					"weight": 0,
 					"value": "no_prerolls"
+				}
+			]
+		},
+		"ce512072-ab2b-4f44-892a-e203055d45da": {
+			"name": "clips_blessings",
+			"v": 2944,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				},
+				{
+					"weight": 0,
+					"value": "variant2"
 				}
 			]
 		},
@@ -5646,7 +5703,7 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2878,
+			"v": 2934,
 			"t": 1,
 			"groups": [
 				{
@@ -5655,7 +5712,7 @@
 				},
 				{
 					"weight": 5,
-					"value": "2.2.6"
+					"value": "2.2.400"
 				}
 			]
 		},
@@ -5926,15 +5983,15 @@
 		},
 		"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
 			"name": "pad_thai",
-			"v": 2885,
+			"v": 2933,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "treatment"
 				}
 			]
@@ -6013,7 +6070,7 @@
 		},
 		"feb4fffb-c997-47f7-a2e4-25d463f125ba": {
 			"name": "mobile_web_muted_autoplay",
-			"v": 2741,
+			"v": 2942,
 			"t": 1,
 			"groups": [
 				{
