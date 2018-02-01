@@ -1934,12 +1934,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 2945,
+			"v": 2951,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-c3050a.sjc01.hls.ttvnw.net/v1/playlist/Crd3rUs38OZ_QcfgZWASQR4r5eYfOabWTFJ1YddIjq2ixaddGEjcRXCpCTiyPKoBNw3G0Ey1VCXA6dzfw0CYPleDuQHsUucKKGZsj-CiGj1RMM-ehPwcHJlppmuJogAh6ygiqtIhfFahuLOaAsCNAU913twlYo7nxR4_iITjt84lvU1RyHPRvez5a2tjuuRXk5Q2N7XwNVTorblyu-i8ERMOzMc-sFlFK8vTnl3sJMXHpY30kB2qpMfA3ZOVE6GF4RR3wCl8vCQx0gjiLzJv5K-Oh3w56IEpTyiN-9P3epnPWmKK2qrKGuuf2Rtw54IdP_mSmHm3MPReDxacbcIS1jLZo_Uf3tVlBKKDlBXR7i_uHR6ELkwhw81kFG41U9f7eX3sThoPk1cBXgg4w0bM_cB3F-CQGiI3WGICfO0jCct_6xdmkLnhDYcK1cnW3xxvj.m3u8"
+					"value": "//video-edge-64a347.sjc01.hls.ttvnw.net/v1/playlist/Cotzq3PAgIY2_gg81sgm_gDxtdW9ZkVfYuV2ggz5LsqpMpThuLiVLxQUXLoWFmKwmN4OODQFyki1XdcXn4AXVMa8o8PRZpalwroUhc7bT89p6y_z1QGhpKi5WRYPPy_v6dXdoAwX3cf-uvmTe_tgdRfnUbPsXI3uGlZP-poEfvWsd5C73YrSoapEHOPBbPW1h9vWRNHRyiHWWYwLCdS-KG1ybMdXGenOb5bb1MBG_s3iy2zbQI-pOrF1EwwovmKwWWThMkoOO3knnxJEDbPBKPql3adooGNLMzM4g-7HrM-rEK2ULQWmD9DuhcyYygMncIfS5vJ_UhHV1CnvIcIfYywDqd4yl1v7o_gno_gdpmSp3cdz4NLbcXbCRm7GJ307UpPcdzuVK2QIWgU0lospageLtCO-VtsawBUQLOQ8jG0xv8Pvd.m3u8"
 				}
 			]
 		},
@@ -2386,16 +2386,16 @@
 		},
 		"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 			"name": "aml_ranking_follows",
-			"v": 2756,
+			"v": 2948,
 			"t": 2,
-			"s": 1,
+			"s": 2,
 			"groups": [
 				{
-					"weight": 80,
+					"weight": 90,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 5,
 					"value": "two_then_one"
 				},
 				{
@@ -2411,7 +2411,7 @@
 					"value": "just_one"
 				},
 				{
-					"weight": 20,
+					"weight": 5,
 					"value": "complete"
 				}
 			]
@@ -2715,16 +2715,16 @@
 		},
 		"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
 			"name": "rtqos",
-			"v": 2541,
+			"v": 2950,
 			"t": 1,
 			"s": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 80,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 20,
 					"value": "realtime"
 				}
 			]
@@ -5703,15 +5703,15 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 2934,
+			"v": 2946,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 50,
 					"value": "2.2.4"
 				},
 				{
-					"weight": 5,
+					"weight": 50,
 					"value": "2.2.400"
 				}
 			]
@@ -5833,6 +5833,21 @@
 				},
 				{
 					"weight": 100,
+					"value": "control"
+				}
+			]
+		},
+		"f3373266-ba22-4e0b-b56a-9e79fb53f62e": {
+			"name": "mobile_web_atlas",
+			"v": 2952,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 5,
+					"value": "treatment"
+				},
+				{
+					"weight": 95,
 					"value": "control"
 				}
 			]
