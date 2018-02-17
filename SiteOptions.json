@@ -20,7 +20,7 @@
 	"community_theatres": ".",
 	"creative_promoted_communities": "animation",
 	"creative_banned_tags": "n3devtest,doonest,cosmos,doonbot,bobross,misterrogers,jwahbatest1,twitchpresents,shoutfactorytv,food",
-	"creative_fpage_darklaunch": 0.5,
+	"creative_fpage_darklaunch": 1,
 	"channel_feed_overrides": "food",
 	"authentic_biscuit": false,
 	"enable_rollbar_js": false,
@@ -1349,7 +1349,7 @@
 		},
 		"31935f88-873a-484d-83be-c238a2a5693e": {
 			"name": "ios_app_badge_5.10",
-			"v": 3008,
+			"v": 3087,
 			"t": 2,
 			"groups": [
 				{
@@ -1916,15 +1916,15 @@
 		},
 		"47e578cf-6e7a-47ea-ba0d-5fb6a51a3b1d": {
 			"name": "android_extensions_dev_release",
-			"v": 3039,
+			"v": 3079,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -2094,12 +2094,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3071,
+			"v": 3088,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-ffe8f9.sjc01.hls.ttvnw.net/v1/playlist/Cn6ef_ALonPvxjZNo7Taz9xjPaopN2VpuK6hy4JKEhiezN5oGmTHVob5CclXP81nXt-ox5kZHU7fB-sgE6xekpt7KeUCXg7hyXgHTCZVgVMu11AoqBpP2SfUuhO1_-C5IolYSR8o_ld-XnXi51ipkhW1xY39W3jMLA5y3Lm3TnseKxb3fsJRH8wM-bzkoVzA1CRWErknc6Cts_w2VbOwh1FoeSOK9GaSQpZ2g-S8z0pKuOik5JUiOPjH5jZHDoKtzwo62oKh-ELXjVAajhhvI10WkwJZwGxXvuKLjE1xj8OILxITDE-mjCMI9dQ76gHgPwhTNsbukLUMFrseZ85zvuLDnLotJ7WaETke2tx6RppWbqCmSgN5arLo-7GVm_1t7TPY3NSDO0JmXxqDYNKUMtSnqvRWnrjYMQszaBjlZVJsPHhVzp1xq-j5YWrGlrgeSVUD3pmvHMnafQir9budg.m3u8"
+					"value": "//video-edge-ebc00c.sjc01.hls.ttvnw.net/v1/playlist/CvezZDdEBFxRzCkuUpAnsgTMGmfb2EwaLnfdUQuisxMHR3o3T4fJgXrC54OJoZr4Xqh40jSWblyVb2W2EKvG1avWUZusdTbrAx7_OO5Hod15aY8bMNjxgppKdnS_zDNoXgnFCmUCJnu8L20CqTpipyv7PQ0DhNyUNu0P_sgQ-2EZ8tzZZcyPAlIBoRinFISqVfRFhvTsRiJvFg1FrOqcYd9sC3ArcW4__yM6hIk8ReyoBy95hFlX5Ag5ZlWTPBpDPdZniBI5IKqes_im-F3kKEnR_Nb0m6SR2YnGnb_3CD1b2CFJT6LuguT-ZU3oRkKa9z_x9C-k9j1W3RAM6LLetLTVocS0S-LrT0FUUNvO9mtBhvqVYPQTLDLrtqlFdrY9lAf8dliP_9U8oCYFqYeItHGUDlVYwd03LDExTL-6agjLUlrxedfU-CLD.m3u8"
 				}
 			]
 		},
@@ -2890,12 +2890,12 @@
 		},
 		"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
 			"name": "rtqos",
-			"v": 3012,
+			"v": 3082,
 			"t": 1,
 			"s": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 45,
 					"value": "control"
 				},
 				{
@@ -2909,6 +2909,10 @@
 				{
 					"weight": 20,
 					"value": "control20"
+				},
+				{
+					"weight": 5,
+					"value": "updating_v1"
 				}
 			]
 		},
@@ -3399,15 +3403,15 @@
 		},
 		"81134434-865b-4c9b-8349-239eae6596a1": {
 			"name": "android_player_refactor_release",
-			"v": 3016,
+			"v": 3085,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "active"
 				}
 			]
@@ -3891,15 +3895,15 @@
 		},
 		"97f8559c-1077-4480-ad07-b64f1c9b8529": {
 			"name": "android_auto_video_quality",
-			"v": 2201,
+			"v": 3078,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "active"
 				}
 			]
@@ -4890,7 +4894,7 @@
 		},
 		"be1eb677-a362-4f12-ae40-cce0ef58e545": {
 			"name": "android_wateb",
-			"v": 2957,
+			"v": 3077,
 			"t": 1,
 			"groups": [
 				{
@@ -6021,20 +6025,12 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3070,
+			"v": 3083,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 96,
-					"value": "2.2.401"
-				},
-				{
-					"weight": 2,
-					"value": "2.2.6"
-				},
-				{
-					"weight": 2,
-					"value": "2.2.8"
+					"weight": 100,
+					"value": "2.2.402"
 				}
 			]
 		},
@@ -6350,7 +6346,7 @@
 		},
 		"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
 			"name": "pad_thai",
-			"v": 3032,
+			"v": 3084,
 			"t": 1,
 			"groups": [
 				{
@@ -6371,7 +6367,7 @@
 				},
 				{
 					"weight": 1,
-					"value": "maxbuf"
+					"value": "speed"
 				},
 				{
 					"weight": 1,
