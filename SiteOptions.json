@@ -862,6 +862,21 @@
 				}
 			]
 		},
+		"1f57c754-ceb2-40e4-8d49-c51cfc007f14": {
+			"name": "TWILIGHT_SUB_CHECKOUT",
+			"v": 3092,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				}
+			]
+		},
 		"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
 			"name": "android_chromecast_player_core",
 			"v": 2981,
@@ -977,19 +992,19 @@
 		},
 		"26f888ed-2688-44f8-a38a-10ee61e7857c": {
 			"name": "clips_strobe",
-			"v": 3048,
+			"v": 3100,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 33,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 33,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 33,
 					"value": "variant2"
 				}
 			]
@@ -1094,15 +1109,15 @@
 		},
 		"29a37cfd-6a34-4624-970f-6b155b40636b": {
 			"name": "twilight_web_onboarding_randomized_games",
-			"v": 2709,
+			"v": 3101,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 98,
+					"weight": 1,
 					"value": "control"
 				},
 				{
-					"weight": 2,
+					"weight": 0,
 					"value": "enabled"
 				}
 			]
@@ -2094,12 +2109,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3089,
+			"v": 3106,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-2bb94a.sjc01.hls.ttvnw.net/v1/playlist/CtGa1gwiJMgShewU2Va36_OiN1pdXfD8iC2cjGaYDzdwfrLZzCBKsPMgOoAoZ0AJoxi4sxhm1A4Mvg-x4ygIMMjzVFZh7-BfVyyxoOen9-QQxytO2qCOe521woYV8bqlstt9Tzb3fjIU9nc-rgq-lSlLuHTmpLx7sIw9n5bv3F1wf-q5cqT41-GsjT0KkYLBjzbNYI6AMzuLJARI2fpQpE9eNrdWrRiOWqTRjxS86xpWqqcIPdKwiAAqaZz7AM37EhmKZVZcWaAcBToW_TKehnthzCkhJ6TzImDVrSrbuAIsEIPd2lt38W2WWY_8N9LAMd6xHKvfPiTEmoNt1Qhfgs7sXjqgV6AgZUWQn49OIF2yycfijTLV4iwDw1xHKHJcmgr13mdf1MSjgyY8Suh8IWF6hr6vcCMVqm6PX5VXCnY3HXEg7QnFb_cfk2ttArUQFV6.m3u8"
+					"value": "//video-edge-2e76b2.sjc01.hls.ttvnw.net/v1/playlist/ClcKsEUrG3VzKIjJ8_eyklPhII6KNtkf1VvZN2xzFC6kzDLFmVoQu2lIYoG-YJiem87e7m2Aaswvo_MoIxkGvtJKWuyq3EwDNOyRQH5DxJp7a_YyLMSlr-AIllXf9VRhIpijagoXoqqiQYwPyDesLtUGg7p_LfjyZuhWAHBxueL09ipJ2kKlct5cOs3wlByKj-5SVPuBE6fBJ-Q-mYGgU200BYXx7Forxo24snOn_Pevpreq8eTsrCkuUgFZF188oBQWoFB0RyoXvcEh8LzCSxRzh46YVD2vFViiSENHHRXLm2W_JKv0XieL5DlVRDRPKENBzyZoliH-_LnbBhjws3ijFFTZZs5IQFKMJY9INrtshgTaEC4vJf8TNMlXNoDmXwMJ9VQCPbZcp8sktzssB9FZEuST3Ol2eY2hpMqesD3-iO_BbdQ-rB8KCPwtQrzGJLiC6yChfZDtQp04OHMe.m3u8"
 				}
 			]
 		},
@@ -2347,6 +2362,25 @@
 				{
 					"weight": 10,
 					"value": "variant4"
+				}
+			]
+		},
+		"5192d294-a807-4eb6-aeef-141023684b88": {
+			"name": "android_reward_exp",
+			"v": 3097,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 30,
+					"value": "a"
+				},
+				{
+					"weight": 40,
+					"value": "b"
+				},
+				{
+					"weight": 30,
+					"value": "c"
 				}
 			]
 		},
@@ -2641,6 +2675,25 @@
 				{
 					"weight": 34,
 					"value": "localized"
+				}
+			]
+		},
+		"5e532f0e-a835-44bf-9349-bd5cd2b6a416": {
+			"name": "ios_reward_exp",
+			"v": 3095,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 30,
+					"value": "a"
+				},
+				{
+					"weight": 40,
+					"value": "b"
+				},
+				{
+					"weight": 30,
+					"value": "c"
 				}
 			]
 		},
@@ -5208,19 +5261,19 @@
 		},
 		"ce512072-ab2b-4f44-892a-e203055d45da": {
 			"name": "clips_blessings",
-			"v": 2944,
+			"v": 3105,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 20,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "variant2"
 				}
 			]
@@ -5375,15 +5428,15 @@
 		},
 		"d22b1724-f9ba-4470-99ab-f3f193034394": {
 			"name": "ios_autoplay_feed_v5.9",
-			"v": 2998,
+			"v": 3107,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 99,
+					"weight": 95,
 					"value": "control"
 				},
 				{
-					"weight": 1,
+					"weight": 5,
 					"value": "active"
 				}
 			]
@@ -5903,7 +5956,7 @@
 		},
 		"e51aab46-7708-49cb-a7a3-57e2c95c7570": {
 			"name": "EXTENSIONS_MAINTENANCE",
-			"v": 3066,
+			"v": 3096,
 			"t": 1,
 			"groups": [
 				{
@@ -6025,11 +6078,15 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3083,
+			"v": 3104,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 5,
+					"value": "2.2.9"
+				},
+				{
+					"weight": 95,
 					"value": "2.2.402"
 				}
 			]
