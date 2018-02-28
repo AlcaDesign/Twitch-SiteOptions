@@ -439,6 +439,21 @@
 				}
 			]
 		},
+		"0f2d4069-61a8-415a-9cf4-abe1cda6d43d": {
+			"name": "ios_app_badge_5.10.1",
+			"v": 3154,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
+				}
+			]
+		},
 		"0ff4ccc4-fb0f-41c0-b195-db9ccdb712d5": {
 			"name": "Bismol",
 			"v": 1414,
@@ -2143,12 +2158,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3142,
+			"v": 3157,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-72bb91.sjc01.hls.ttvnw.net/v1/playlist/CrUztkP5EPGr7jL4Z2oGNDpUU7h_2Nxmz7qNyjxObd8NrinGxxt1iCTYpLdFHhwY9lijZnddCOcS3UdqARIe7G4CtH9oFs65amg8sOT_zstfk7RkC04ymO2GvRaYx3GjH2JQu1fYH9WjiPuJDflS3uHJ8l4gqthz_NG4NUIZj00ZXZ6Mayps8gcyh5Qvc7gh9PQTE4Nc6c2X3c1d5BVOnHRu5c1oII9A-UWEIBYp7DvGRkiTdNkyan2-LVcgfzGDRGFf-GSuyEa1y1AUcZ4HO8MFPsHmDyllqE1ME0TZ0Ci8GvPH3fXxc2VsDmeea-j5owDT4XdFDxGOqeZ-YG0VHlBMundB84q1T6dxHUB-SkEhNTcMTHgSejtseA5xXPjq-vfwoawMqp717f5IuzwrCYQIylub1IxE3m5C_cumV8x6FF2O-agZN0kwMmFfbs10GIL3XN.m3u8"
+					"value": "//video-edge-f8cb0c.sjc01.hls.ttvnw.net/v1/playlist/Cn48MMRXQ-PihG3x8yrlLtdmaA2LIxg_K3mslrgYqIdbfE6Wl4txzvk7t3qinZ6aAbaf-m7klnOb0pSD4OCrHb0Ssex4rPrajame6FCp_9s8dsmmtr5H7OCwF8wtpRkqdF22ZAFEqHRIqRcgT2dGdAMt-jVg_oA9G5M6IFSOuuA8CfROlwJ4R9Qu803PsBPZpv5hybpToXsKwcQfE55RNuyDbeaW0_iDbA-EDkpkh0i4DN4T8kvLq22rZoxtg4fLujUkBRfSflL_k5JaR4MHQJ_1Y-en-nGCjxnD27ZehfJHCYdXKP9ZNyovU3r-ddcKDtZ16bJaM_revze4oJqm1uRY1aE8bDOB1sae3f438QnORqZonsmnWNRHcrKh-H2KpGzhljxmFb12iILqfDieL73KoHYJGcoXsU2kEup2OrnqogoHwO-pcNxEArlaRQJ3BQq7wMrWmBIk_XKK2QJQL.m3u8"
 				}
 			]
 		},
@@ -3520,15 +3535,15 @@
 		},
 		"81134434-865b-4c9b-8349-239eae6596a1": {
 			"name": "android_player_refactor_release",
-			"v": 3138,
+			"v": 3162,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 99,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 1,
 					"value": "active"
 				}
 			]
@@ -3574,6 +3589,21 @@
 				},
 				{
 					"weight": 0,
+					"value": "active"
+				}
+			]
+		},
+		"82fa1d06-a80c-4646-ae58-0dd2ad883d0b": {
+			"name": "android_extensions_public_release",
+			"v": 3156,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -5311,15 +5341,15 @@
 		},
 		"c96f651c-0d69-43cf-9127-7eab817e5ebd": {
 			"name": "android_dead_channel_to_profile",
-			"v": 2961,
+			"v": 3159,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "active"
 				}
 			]
@@ -5806,15 +5836,15 @@
 		},
 		"db2180db-bc89-4f97-8bef-208b1782e18f": {
 			"name": "TWILIGHT_LEADERBOARDS",
-			"v": 3134,
+			"v": 3152,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "on"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "off"
 				}
 			]
@@ -5974,18 +6004,48 @@
 				}
 			]
 		},
-		"e2f109ce-23ba-432b-b328-9e3d0e44d8c2": {
-			"name": "android_profile_tab_order",
-			"v": 2958,
+		"e2a164da-899d-4cfd-b4c2-8862a5fce8bf": {
+			"name": "ios_extensions_onboarding",
+			"v": 3153,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 5,
+					"value": "disabled"
+				},
+				{
+					"weight": 95,
+					"value": "enabled"
+				}
+			]
+		},
+		"e2f109ce-23ba-432b-b328-9e3d0e44d8c2": {
+			"name": "android_profile_tab_order",
+			"v": 3160,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "active"
+				}
+			]
+		},
+		"e33a85a2-43ab-425b-bc2e-555a650b7f2a": {
+			"name": "BROADCASTER_AD_REVENUE_ESTIMATE",
+			"v": 3148,
+			"t": 3,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 10,
+					"value": "no"
 				}
 			]
 		},
