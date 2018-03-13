@@ -2174,12 +2174,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3246,
+			"v": 3255,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-5b9379.sjc01.hls.ttvnw.net/v1/playlist/ChIw2ZqKXr2diP5RfbiPoxFSITInEhZEq95espafWy4fjGG_2p7CuJJWGSrhRKgO-DZ9OLsAEyhMCNsHlO7pfpmv3NHfNdKb99qUQI0arxp346kt6NpmasevNCRSEefEGb39ZeQ88Ctdhi5i2uzpkBIF3itJlUEhsWiMPJo8ughFPcu4SjFvsVB_-8w4I3Axy_FLlzAq_MXdKECfbvE6Hi49RmX8m69xQrL204iI_tMwNxxtPMyQ1pQSXLs77kwksf4UZBso3L8pq9kf-5gKEX-FrfPmKAfBXA7SgkrLhAFnBv2T9ipFrPoEtxS__d1MiDsiydlQRfMQUXHdmPzYQ5zlksee5edE_yIkyCf0s6vu2O8py_I67e4VauV7jqZp8yuu58Fi1w5hbBwesy4ypgq4WQvm86RgZ2U309IHZSdAe-1hkr3QNRPgXnMHtbqinYu3GR_lcY8gYBZObhQqrj.m3u8"
+					"value": "//video-edge-eeeaf6.sjc01.hls.ttvnw.net/v1/playlist/Ciomib7zP_rZxuVPABjr5jPwxvt-OS_6wMKtE-0pwr8rto5yDxg0U35rG51NepEQjKx2E21pvsSTYGEVwWHy0nvOg3EtTY9lQN7KgSKXKrUJ_PZRIkvtq_n-zLZGmHMdLouBMN27JavH0WCQcrgpDE6b6HR9AdhbXug_TCEA_DoJbIQclPpHJBQyPRu0lst_ZdBnfisWfSve9IkzQZ6GzzBB-eGQimxYir-dyOHAgfPiw0IXsgCBHO1VWg1M3mqkBy2fuRwchTO1Geg8Dq3vl1BIEQLVME56InPjSND6V0OyuqR2x2rC7p7oZ-l5bjj35OZkW8ahTMrcBH1xg3TaPHLSICGo3LRjlF4JP3wyIT8wKtcpQ9xeYZ67Sw4Q_7jwrsVPkza0tPftaaHbpUP-zAPRiePT-tAxOLZ8Y8O2aW_HXVwQDWHpJq2CY8M.m3u8"
 				}
 			]
 		},
@@ -2963,15 +2963,15 @@
 		},
 		"66018bed-5b79-4d2c-9773-29295e4f89f6": {
 			"name": "ios_wateb",
-			"v": 3127,
+			"v": 3251,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -3632,6 +3632,21 @@
 				{
 					"weight": 5,
 					"value": "no"
+				}
+			]
+		},
+		"85ef02f8-911c-45f4-9042-8e0c9d9face3": {
+			"name": "android_onboarding_surf",
+			"v": 3253,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "active"
+				},
+				{
+					"weight": 100,
+					"value": "control"
 				}
 			]
 		},
@@ -5691,29 +5706,6 @@
 				}
 			]
 		},
-		"d6386417-a815-4c24-a21b-20e78d5a9e07": {
-			"name": "android_onboarding_1_2",
-			"v": 2490,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 0,
-					"value": "control"
-				},
-				{
-					"weight": 0,
-					"value": "variant_a"
-				},
-				{
-					"weight": 100,
-					"value": "variant_b"
-				},
-				{
-					"weight": 0,
-					"value": "variant_c"
-				}
-			]
-		},
 		"d6ba259c-3f82-48ac-b158-bf4760fc864b": {
 			"name": "android_playercore_6",
 			"v": 1596,
@@ -6261,16 +6253,16 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3230,
+			"v": 3254,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 95,
 					"value": "2.2.404"
 				},
 				{
-					"weight": 10,
-					"value": "2.3.1"
+					"weight": 5,
+					"value": "2.3.2"
 				}
 			]
 		},
