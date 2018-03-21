@@ -721,11 +721,11 @@
 		},
 		"19cc1327-9436-4019-b71c-e2a1e41d3cb3": {
 			"name": "test",
-			"v": 3271,
+			"v": 3304,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 8,
+					"weight": 9,
 					"value": "a"
 				},
 				{
@@ -1698,6 +1698,21 @@
 				}
 			]
 		},
+		"3fa31c3d-1477-40a5-9433-0b64b398c86a": {
+			"name": "TWILIGHT_SUB_CHECKOUT_VARIANT",
+			"v": 3312,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 50,
+					"value": "recurly"
+				},
+				{
+					"weight": 50,
+					"value": "zuora"
+				}
+			]
+		},
 		"3fc50829-31d6-449a-a757-7a3f44d77ab3": {
 			"name": "twilight_new_reporting_wizard",
 			"v": 3170,
@@ -2201,12 +2216,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3285,
+			"v": 3311,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-6e7de1.sjc01.hls.ttvnw.net/v1/segment/CrIfxRgSoeCDKNfHTqowNVuMmHvowwh3Q5HVQcsDq6dCOApWCC6yqsoS_y838rC9z6jJlF5ryYD4g_w3JUqsH2CEcPVIX1VlR_J8FnEdgme8qNqgrJKyJxAorH2BAUuXRtVrCerWMDsmV06hBnAtbUGQyBqHqXwq6A_b7krADJZEW9vkG78DretAitcms5_S3VVk_lmlI_ow00KFPWCspgBT5j9s74fZGnHpdCXU3tHYKvZKVxRx-HUalVlYe4mC2Gx69SEgaA8jFNuuYKPt6CeG8j41Q6Ju4OCihHOI4ddQme5q8k12tD4_pIY9rbbXm1gcNhjGRnTLYpw2rH4R-Di7FrviFHZ3NS37OP1R2gjY1g4D40bljRlVqLqVJNpNog-WlGB64CgWFmwIf03fqrF9N3Uy6G71o6OGwyZpUEVSlF0OQLC0W5pqVgSSzlp7_Ii2-MHAryfRNkmP6HyGkbUfrhoeUYWqoPo6uAES0ya3aBO-_F462-gCK8Dy4NinQiRC5BVRHuhmNhxhnzEQNzZ1b0LLG87xLx.ts"
+					"value": "//video-edge-b9ff17.sjc01.hls.ttvnw.net/v1/segment/Cpqnifi7fadVnEOkQKXT2vgt_1T3UgB1qp8gkk3C1uMzT175TTek3B87N_igi5JCN_ZBF-ZD1kCheLN3hHryhoAcdP924qEVkrdBxBY2E5wMBztbmdPuvn_pfYgLr_maFFOR03AbrmrUTIlT8iZrnAqplyAM1BY6DY7QixTlCvSp9XEyKwSwwhupPdo4RJ53mt8AuX1d1IIwLlIvKCEqEVcclKocqQbuaWI9CkR06cFLo3A-ob9-OJVaszdXgZxkUCNax_clmXY1W6-ISP9JQ6z8t3BiEJ2PH4s36JR7QLt62oeJGDvWLVwmGZRhxXNL1U-7FKoqCQxEp4SVcA0xVMMP4lPluzb_LONebxdeWHSthdKuNgh5H6rvMvfg1DHpXSDUyxpTXvOq4DMWjiXyOb7pmjCz7tLF2AphJFlzf9YbIYqpQCNQjUEKaSTWZl3IemCtJtDIgGAvEFlNa-5OhT6s7mH66ZnfZXaFBqaJPDBotdqKwohUtpPQsTHyIhT9dbYNAL9u-2Vue_L2EKbj0ZeUUkKjSK.ts"
 				}
 			]
 		},
@@ -2998,15 +3013,15 @@
 		},
 		"66018bed-5b79-4d2c-9773-29295e4f89f6": {
 			"name": "ios_wateb",
-			"v": 3251,
+			"v": 3308,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 80,
 					"value": "control"
 				},
 				{
-					"weight": 100,
+					"weight": 20,
 					"value": "active"
 				}
 			]
@@ -3090,18 +3105,33 @@
 				}
 			]
 		},
+		"697896b3-a4b9-4c00-a1a2-7fa35ec9a8e4": {
+			"name": "notifications_disable",
+			"v": 3303,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "treatment"
+				}
+			]
+		},
 		"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
 			"name": "rtqos",
-			"v": 3286,
+			"v": 3293,
 			"t": 1,
 			"s": 2,
 			"groups": [
 				{
-					"weight": 60,
+					"weight": 30,
 					"value": "direct"
 				},
 				{
-					"weight": 10,
+					"weight": 20,
 					"value": "updating_v1"
 				},
 				{
@@ -3115,6 +3145,10 @@
 				{
 					"weight": 10,
 					"value": "metro_bonus_10"
+				},
+				{
+					"weight": 20,
+					"value": "control20"
 				}
 			]
 		},
@@ -3387,7 +3421,7 @@
 		},
 		"76a67969-399d-44c3-ad37-f726a10bf54d": {
 			"name": "android_end_of_clips",
-			"v": 3288,
+			"v": 3306,
 			"t": 1,
 			"groups": [
 				{
@@ -5206,15 +5240,15 @@
 		},
 		"bf7566f3-241b-4ade-95d4-381a7e7dd390": {
 			"name": "android_wateb_6.0_release",
-			"v": 3274,
+			"v": 3309,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 80,
 					"value": "control"
 				},
 				{
-					"weight": 100,
+					"weight": 20,
 					"value": "active"
 				}
 			]
@@ -5345,15 +5379,15 @@
 		},
 		"c4e51121-af38-46de-a93d-a7e10590a1ee": {
 			"name": "ios_clip_editing",
-			"v": 2411,
+			"v": 3307,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 80,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 20,
 					"value": "active"
 				}
 			]
@@ -5687,15 +5721,15 @@
 		},
 		"d22b1724-f9ba-4470-99ab-f3f193034394": {
 			"name": "ios_autoplay_feed_v5.9",
-			"v": 3190,
+			"v": 3310,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 75,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 25,
+					"weight": 50,
 					"value": "active"
 				}
 			]
@@ -6256,6 +6290,21 @@
 				}
 			]
 		},
+		"e875da19-becb-450a-84f9-6267b4e529bd": {
+			"name": "tst",
+			"v": 3301,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 1,
+					"value": "a"
+				},
+				{
+					"weight": 2,
+					"value": "b"
+				}
+			]
+		},
 		"e8c5cf6c-5259-446b-aef1-4e33747b3b93": {
 			"name": "Game Changes",
 			"v": 842,
@@ -6330,15 +6379,15 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3289,
+			"v": 3300,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 5,
 					"value": "2.2.404"
 				},
 				{
-					"weight": 50,
+					"weight": 95,
 					"value": "2.3.3"
 				}
 			]
