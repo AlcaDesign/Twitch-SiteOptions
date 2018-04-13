@@ -107,21 +107,6 @@
 	"tsubs_enabled": true,
 	"release_subs_tsubs": "staff",
 	"experiments": {
-		"00266295-54c5-46e6-a8ca-84165b807c8f": {
-			"name": "mobile_web_aa",
-			"v": 3112,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 5,
-					"value": "treatment"
-				},
-				{
-					"weight": 95,
-					"value": "control"
-				}
-			]
-		},
 		"00683bde-a79d-4b9d-a7cc-b0549f854d36": {
 			"name": "offline_recs",
 			"v": 1520,
@@ -197,6 +182,21 @@
 				}
 			]
 		},
+		"03f25f55-ded6-417a-b241-d656571c4a1f": {
+			"name": "twilight_watch_symmetra",
+			"v": 3510,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "off"
+				},
+				{
+					"weight": 0,
+					"value": "on"
+				}
+			]
+		},
 		"04adab74-98c1-4adb-88ea-c896504692d3": {
 			"name": "ios_native_bits_iap_onboarding_feature",
 			"v": 2833,
@@ -240,21 +240,6 @@
 				{
 					"weight": 3,
 					"value": "b"
-				}
-			]
-		},
-		"06379cc6-3e00-4359-b1fa-e79850909226": {
-			"name": "mobile_web_aa90",
-			"v": 3140,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 90,
-					"value": "control"
-				},
-				{
-					"weight": 10,
-					"value": "treatment"
 				}
 			]
 		},
@@ -481,6 +466,21 @@
 				{
 					"weight": 50,
 					"value": "yes"
+				}
+			]
+		},
+		"101df9b4-31a0-462b-b76a-287297c79bfd": {
+			"name": "twilight_left_nav_order",
+			"v": 3482,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 90,
+					"value": "control"
+				},
+				{
+					"weight": 10,
+					"value": "variant"
 				}
 			]
 		},
@@ -932,15 +932,15 @@
 		},
 		"1f57c754-ceb2-40e4-8d49-c51cfc007f14": {
 			"name": "TWILIGHT_SUB_CHECKOUT",
-			"v": 3415,
+			"v": 3479,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 50,
 					"value": "yes"
 				},
 				{
-					"weight": 90,
+					"weight": 50,
 					"value": "no"
 				}
 			]
@@ -1015,15 +1015,15 @@
 		},
 		"2402b465-5769-4591-a8d2-365d11ba67d8": {
 			"name": "pushy_notifications_disable_actual",
-			"v": 3446,
+			"v": 3505,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 94,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 6,
+					"weight": 0,
 					"value": "treatment"
 				}
 			]
@@ -1075,19 +1075,19 @@
 		},
 		"26f888ed-2688-44f8-a38a-10ee61e7857c": {
 			"name": "clips_strobe",
-			"v": 3100,
+			"v": 3488,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 33,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 33,
+					"weight": 0,
 					"value": "variant1"
 				},
 				{
-					"weight": 33,
+					"weight": 100,
 					"value": "variant2"
 				}
 			]
@@ -1698,6 +1698,21 @@
 				}
 			]
 		},
+		"3f03eebb-3cbb-4f7c-b64b-e1ed0115a773": {
+			"name": "twilight_watch_winston",
+			"v": 3511,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "off"
+				},
+				{
+					"weight": 0,
+					"value": "on"
+				}
+			]
+		},
 		"3f821134-e203-49f0-92a7-4440c22f0f26": {
 			"name": "Console A/B Tracing",
 			"v": 1062,
@@ -2208,12 +2223,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3469,
+			"v": 3507,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-da55af.sjc01.hls.ttvnw.net/v1/segment/Cihwl0zpknqtW3UG6bGA86eaQcDgfPkdiL_zjsCc2kV1iEhUz8jXWA-naYktBdOXEaqh50gGxbqDz-rtf19TzV74T1Ctf_IZ_3gXOP81Dj3Nmwf8U_Sksu5-_X6rHKiTKXadBjuHgHSoIk0lq3pz5fBQoYmMu1pyMD7hDXeAoKY8V-fqp7Xae710powjIwdNyrgZni8sVB0aOoR21w-nhh5mUyDnX7FdYz67Jj0bYvHWtQPlkcr2NWNwvYniW3REd3FCJlHlZVKi85YEcc6mzrgji2z8WIuRW8pVVv_LmMF9NmSoEfCq0u16M1gSVRPw0xISzbEBr2kwJrNZFOV8Bt_G0Qc2rdIFzG9h5VpcCRmFFToijfnjOISAH257E8pluMNfW7nrlnlInKFSVmq5KE5X66tqhVIcI-z5YXzQvUNw_9M6Ze7Ua4sNi8G2EXr8iPD7wOaLtyPKS1hQrH1PnMOId069Y8J7bfhdfCbVSeVIDYm0owXCCCCnppV0OV5D5uuOz8_WswJ_nd5MFtpeS--JOeQellxcAQ37F48o2P.ts"
+					"value": "//video-edge-d3c1f3.sjc01.hls.ttvnw.net/v1/segment/CnDKUh8n0JkLEnGZsbm_MHOdf9psh9MVprZXaNYvGOLbqdyk2pWzsdUIyBum25hGcnmGggIL9uee4AdeSQ_uP24xSTD8H_0OH2UMngAVCdYqN0ZQ8TCGzPOYH0ZS-HjSStMAgdhONNRK2FcL0svEbLgikGCU6PdaNS3K7qIr0NVAzOlgAasUK8YOv1e8t-cn9wPAwNUa9E-rXamGQveFtD_SlBJr8N0krYFfrFdieDOZp-lAgIaQ1xBX4DJwTw7nqTZABnKAQTAWhYF5uE7lQFuwFGxt_84GLPUETmWDwr60NEncsWM-WKdN06tszAm1VBLTJF7h59kBovLUeSExA9eHpXQqhPQ4WX4vvMoBQPvsk0iL1gLlaNqEszkYLFwX25IbOzJpAH9L2ourMgt4wgsYb6nFfjXNrpNh7x4twDTrKXhQE8I9tyeQ4qcyIuMt5CU7cJPnPZddDirj-gQD0UtXUKliPf7q8z8Zgyp0qMSVlU1NjvwHMvf-pcpsYEsJwrZRkdJqG_K7U3AqASAZ6mC6qkr31qLUglklvHL.ts"
 				}
 			]
 		},
@@ -2466,16 +2481,20 @@
 		},
 		"50e947d4-24b7-4000-a046-f48f4072b7cf": {
 			"name": "TWILIGHT_SUBSCRIBED_CHANNELS_SIDENAV",
-			"v": 3243,
+			"v": 3504,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "control"
 				},
 				{
 					"weight": 0,
 					"value": "variant_a"
+				},
+				{
+					"weight": 10,
+					"value": "left_nav_order_exp"
 				}
 			]
 		},
@@ -2913,21 +2932,6 @@
 				}
 			]
 		},
-		"5fbc7acf-f2ad-4024-9f23-987e9a74093c": {
-			"name": "mobile_web_survey",
-			"v": 3348,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "control"
-				},
-				{
-					"weight": 0,
-					"value": "treatment"
-				}
-			]
-		},
 		"5fd568be-2073-4f99-84d5-565e8b2a3343": {
 			"name": "TWILIGHT_AAX_DISPLAY",
 			"v": 3416,
@@ -3050,15 +3054,15 @@
 		},
 		"66018bed-5b79-4d2c-9773-29295e4f89f6": {
 			"name": "ios_wateb",
-			"v": 3458,
+			"v": 3498,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -3105,6 +3109,21 @@
 				{
 					"weight": 0,
 					"value": "show"
+				}
+			]
+		},
+		"67e5d32b-fe51-4b13-9cee-6d3e1cc1ceb3": {
+			"name": "twilight_watch_bastion",
+			"v": 3509,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "off"
+				},
+				{
+					"weight": 0,
+					"value": "on"
 				}
 			]
 		},
@@ -3174,7 +3193,7 @@
 		},
 		"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
 			"name": "rtqos",
-			"v": 3475,
+			"v": 3501,
 			"t": 1,
 			"s": 2,
 			"groups": [
@@ -3187,10 +3206,6 @@
 					"value": "control10"
 				},
 				{
-					"weight": 20,
-					"value": "control20"
-				},
-				{
 					"weight": 10,
 					"value": "business_logic_reverse"
 				},
@@ -3201,6 +3216,14 @@
 				{
 					"weight": 10,
 					"value": "cf_or_metro"
+				},
+				{
+					"weight": 10,
+					"value": "model_v2"
+				},
+				{
+					"weight": 10,
+					"value": "lantern_model"
 				}
 			]
 		},
@@ -4521,21 +4544,6 @@
 				}
 			]
 		},
-		"9b2a81df-0d37-4d12-98f6-d7026e92282b": {
-			"name": "ios_onboarding_channel_surfing_v6.1",
-			"v": 3338,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "control"
-				},
-				{
-					"weight": 0,
-					"value": "channel_surfing"
-				}
-			]
-		},
 		"9c843e59-0208-4c83-ae5a-620fb05508ef": {
 			"name": "ios_making_the_doughnuts",
 			"v": 1035,
@@ -4904,15 +4912,15 @@
 		},
 		"adaef0a3-ffca-4124-b3b8-0ae13c9dd562": {
 			"name": "ios_swifty_chromecast",
-			"v": 3358,
+			"v": 3512,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 80,
 					"value": "disabled"
 				},
 				{
-					"weight": 5,
+					"weight": 20,
 					"value": "enabled"
 				}
 			]
@@ -5309,6 +5317,21 @@
 				}
 			]
 		},
+		"ba473bec-1ad3-4b55-9b3e-fdc002ba695c": {
+			"name": "twilight_prime_sub_credit_api_wexit",
+			"v": 3497,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "treatment"
+				}
+			]
+		},
 		"baddf9d7-496a-4507-a0b4-6357b95d3ca8": {
 			"name": "CLIPS_STARBOY",
 			"v": 921,
@@ -5371,15 +5394,15 @@
 		},
 		"bf7566f3-241b-4ade-95d4-381a7e7dd390": {
 			"name": "android_wateb_6.0_release",
-			"v": 3459,
+			"v": 3499,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -5555,6 +5578,21 @@
 				{
 					"weight": 5,
 					"value": "yes_100"
+				}
+			]
+		},
+		"c54a638b-0db6-49ca-b513-345df41ca971": {
+			"name": "ios_avplayer_proxy",
+			"v": 3513,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "disabled"
+				},
+				{
+					"weight": 100,
+					"value": "enabled"
 				}
 			]
 		},
@@ -5850,6 +5888,21 @@
 				}
 			]
 		},
+		"d1fe9a0a-e9f2-4450-ac57-4ff2eefa0dcf": {
+			"name": "twilight_get_bits_top_nav",
+			"v": 3506,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 5,
+					"value": "treatment"
+				},
+				{
+					"weight": 95,
+					"value": "control"
+				}
+			]
+		},
 		"d22b1724-f9ba-4470-99ab-f3f193034394": {
 			"name": "ios_autoplay_feed_v5.9",
 			"v": 3310,
@@ -6073,21 +6126,6 @@
 				{
 					"weight": 0,
 					"value": "variant3"
-				}
-			]
-		},
-		"d9bc21e1-9cf9-4594-9b66-066eecfe0f7b": {
-			"name": "mobile_web_aa80",
-			"v": 3131,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 80,
-					"value": "control"
-				},
-				{
-					"weight": 20,
-					"value": "treatment"
 				}
 			]
 		},
@@ -6510,20 +6548,12 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3465,
+			"v": 3503,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 98,
-					"value": "2.4.2"
-				},
-				{
-					"weight": 1,
-					"value": "2.4.201"
-				},
-				{
-					"weight": 1,
-					"value": "2.4.202"
+					"weight": 100,
+					"value": "2.4.3"
 				}
 			]
 		},
@@ -6907,21 +6937,6 @@
 				{
 					"weight": 0,
 					"value": "active"
-				}
-			]
-		},
-		"feb4fffb-c997-47f7-a2e4-25d463f125ba": {
-			"name": "mobile_web_muted_autoplay",
-			"v": 2942,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 50,
-					"value": "treatment"
-				},
-				{
-					"weight": 50,
-					"value": "control"
 				}
 			]
 		},
