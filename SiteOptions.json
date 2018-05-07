@@ -273,6 +273,21 @@
 				}
 			]
 		},
+		"080c0331-3073-4539-992f-93274236a97d": {
+			"name": "TWILIGHT_PAY__SAVED_PAYMENT_METHODS",
+			"v": 3649,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				}
+			]
+		},
 		"0a4d513f-0274-4b33-b04f-287521abd51b": {
 			"name": "ZACH_MODE",
 			"v": 2287,
@@ -534,6 +549,21 @@
 				{
 					"weight": 5,
 					"value": "variant"
+				}
+			]
+		},
+		"158b4a89-454f-496c-aa2d-646886c43ec4": {
+			"name": "ios_discover",
+			"v": 3680,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
 				}
 			]
 		},
@@ -932,16 +962,31 @@
 		},
 		"1f57c754-ceb2-40e4-8d49-c51cfc007f14": {
 			"name": "TWILIGHT_SUB_CHECKOUT",
-			"v": 3535,
+			"v": 3621,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "no"
+				}
+			]
+		},
+		"2005226d-07fe-46cf-a229-d91dd03d8d3a": {
+			"name": "delete_XP",
+			"v": 3634,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "off"
+				},
+				{
+					"weight": 0,
+					"value": "on"
 				}
 			]
 		},
@@ -1474,15 +1519,15 @@
 		},
 		"326523fd-48bf-4043-9635-7bef334069e0": {
 			"name": "TWILIGHT_AUTOMOD_LAUNCH",
-			"v": 3572,
+			"v": 3631,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -1514,6 +1559,25 @@
 				{
 					"weight": 0,
 					"value": "no"
+				}
+			]
+		},
+		"3468778b-76fe-4cdf-add6-1be0dceea214": {
+			"name": "TWILIGHT_DASHBOARD_LIVE",
+			"v": 3672,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "disabled"
+				},
+				{
+					"weight": 0,
+					"value": "twilight"
+				},
+				{
+					"weight": 0,
+					"value": "ember"
 				}
 			]
 		},
@@ -1698,6 +1762,17 @@
 				}
 			]
 		},
+		"3c3a5d48-117f-43ac-8b35-091f13b2d479": {
+			"name": "MediaPlayer Staff Version",
+			"v": 3667,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "2.5.1"
+				}
+			]
+		},
 		"3e011e23-ef29-46a5-af4b-a86e15d8c9e6": {
 			"name": "DISCOVER_SHOW_COVIEWS",
 			"v": 669,
@@ -1760,15 +1835,15 @@
 		},
 		"3fc50829-31d6-449a-a757-7a3f44d77ab3": {
 			"name": "twilight_new_reporting_wizard",
-			"v": 3362,
+			"v": 3641,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "no"
 				}
 			]
@@ -2100,6 +2175,21 @@
 				}
 			]
 		},
+		"49083595-80d4-4c13-93a2-20a605b3318e": {
+			"name": "Player Core WASM experiment",
+			"v": 3658,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 5,
+					"value": "wasm"
+				},
+				{
+					"weight": 95,
+					"value": "asmjs"
+				}
+			]
+		},
 		"497e1277-7fff-4c16-98f0-6b55c8b59a4f": {
 			"name": "I18N_GAME_NAMES",
 			"v": 1237,
@@ -2238,12 +2328,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3593,
+			"v": 3687,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-ed3c0f.sjc02.hls.ttvnw.net/v1/segment/ChJ87xxU5zioh1DmBgNVXqyJNALbVXINjtF3oR3CTv72sx2XH-gNuZyrpC4P7HqCjr7NUgBri0gbx2BDtEDqfxmbLjsWhYjfD9BNT7CUjfP20FKMcTo58yCVz7UsN6ghvRxAHe3s6gZymNDCukLJ0MDDgvfPYCPO9GGx6OumgkGPXaRkRJFssPsIzyXRvqTfwMx9QDQNPWV2JvQ0BDKL9qBSDrv1rpFx3ethFkw3e0jZYr9LfYHLxgQdsDPB6vRhBxS8gJi1nxHrRDDhOm1mAuL1vkaXdUwQvmtKsmA8tD1XXKb_0g_Xzke8DEdTvOOwa-ODAAhhOJVXUykZ-TImnoPFjb1JxhHrt-bHCJVr8l5jjO5K6snRcAK0PjmH73ozC1Ex46DD_eo7TODlPXPaahF0L8Rk20Q-Vv80_440BKYCrUJ25s1bFODRlGqwJk7tqfmOXV0axwgvXSIsJWZwo5Im-7U90bNxIGZIILoGsITx9UtTTWRmslkG4AiCc-Cb0P-AEIseDENGXmQehdEwumR.ts"
+					"value": "//video-edge-b84487.sjc02.hls.ttvnw.net/v1/segment/Csnx45O-aSwpvR95ktp0hRpoRUPhbTe5-rGhnHUPJkIiB4KA-xjsKc1DaVhKF1w-mWj7ZZeetxOJzRAazZc_ig0Wwbp9yfpZjZcpbn3VMHpfpNJn9LN0dfW25gJxHrIS5kpCZEBUIKJP6ILMFuqJs45YyFuvET2bzHCTYjMQ7DIXkqZTVFFpl48S_1zE4m7V6yraIHons5W4I6B83YEZnf2kbjcl3rIF31zWVbiHDk_uK64yOfZcZZyCvRG04OLS7t-qTSDNUHIxTDB1uvxyDtcLgO5dgggacgBhDw7xg6bMMI4wdti7xhd3TslyZhQb-71gQIYka4zHMpVHbxckMsq9nACQ9-QNSeuZ0N-f4kBalh4YCMm91MkzKIqH8dOIcGLPKwSPQ2G_x7xruQUrZTH1QCXA2bWDf4V7KTpiR1Pv1YLyXXEZdOCFAFYzoAwgbG0E74ceEVSvXq5hdFC0-pBlnfQwGZkq2LbAUqpPmmNn6EqK6iH2QJLVvZT19vrK_bqTpOU3iC9o0JLx2zn2iO7H7kYavfxr58fGUOlw.ts"
 				}
 			]
 		},
@@ -2419,6 +2509,21 @@
 				{
 					"weight": 5,
 					"value": "active"
+				}
+			]
+		},
+		"4f2ebce8-68ed-40a4-afb2-9db8fb09711d": {
+			"name": "vod_qos_model",
+			"v": 3653,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 80,
+					"value": "control"
+				},
+				{
+					"weight": 20,
+					"value": "control20"
 				}
 			]
 		},
@@ -2949,16 +3054,16 @@
 		},
 		"5fd568be-2073-4f99-84d5-565e8b2a3343": {
 			"name": "TWILIGHT_AAX_DISPLAY",
-			"v": 3552,
+			"v": 3615,
 			"t": 1,
-			"s": 1,
+			"s": 4,
 			"groups": [
 				{
-					"weight": 1,
+					"weight": 95,
 					"value": "yes"
 				},
 				{
-					"weight": 9,
+					"weight": 5,
 					"value": "no"
 				}
 			]
@@ -3163,8 +3268,8 @@
 			]
 		},
 		"680b5624-5ada-4e0f-9f33-0264eb318777": {
-			"name": "pushy_ios_streamup_stream_title",
-			"v": 3523,
+			"name": "pushy_ios_streamup_stream_title_unused",
+			"v": 3598,
 			"t": 1,
 			"groups": [
 				{
@@ -3224,12 +3329,12 @@
 		},
 		"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
 			"name": "rtqos",
-			"v": 3551,
+			"v": 3652,
 			"t": 1,
 			"s": 2,
 			"groups": [
 				{
-					"weight": 30,
+					"weight": 60,
 					"value": "control"
 				},
 				{
@@ -3243,22 +3348,6 @@
 				{
 					"weight": 10,
 					"value": "open_asia"
-				},
-				{
-					"weight": 10,
-					"value": "cf_or_metro"
-				},
-				{
-					"weight": 10,
-					"value": "model_v2"
-				},
-				{
-					"weight": 10,
-					"value": "lantern_model"
-				},
-				{
-					"weight": 10,
-					"value": "model_v3"
 				}
 			]
 		},
@@ -3399,23 +3488,23 @@
 		},
 		"728b6ff4-10f7-414e-abd7-acae0384ba20": {
 			"name": "android_videoplayer_r6_1_2",
-			"v": 3576,
+			"v": 3602,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 10,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 10,
 					"value": "playercore"
 				},
 				{
-					"weight": 0,
+					"weight": 79,
 					"value": "exoplayer"
 				},
 				{
-					"weight": 0,
+					"weight": 1,
 					"value": "exoplayer_2"
 				},
 				{
@@ -3436,6 +3525,21 @@
 				{
 					"weight": 100,
 					"value": "no"
+				}
+			]
+		},
+		"72f2dac1-1fa4-48f1-adb2-081bc76cf953": {
+			"name": "ios_disable_manifest_expiration",
+			"v": 3606,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 80,
+					"value": "control"
+				},
+				{
+					"weight": 20,
+					"value": "active"
 				}
 			]
 		},
@@ -3733,21 +3837,6 @@
 				}
 			]
 		},
-		"7ea85693-a4db-423d-ace9-65c9787a0eea": {
-			"name": "ios_stream_titles_in_notifications_v6.2",
-			"v": 3474,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "control"
-				},
-				{
-					"weight": 0,
-					"value": "channel_surfing"
-				}
-			]
-		},
 		"7ecd2720-5df0-4111-8060-58335f050866": {
 			"name": "ios_native_subs_iap",
 			"v": 2888,
@@ -3765,15 +3854,15 @@
 		},
 		"7f165f9d-e0ef-4749-af62-98109b2ea888": {
 			"name": "ios_onboarding_channel_surfing_v6.2",
-			"v": 3472,
+			"v": 3618,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "channel_surfing"
 				}
 			]
@@ -3810,15 +3899,15 @@
 		},
 		"80f6e8da-d7c3-4b75-8e49-3a7abd33b032": {
 			"name": "android_track_network_request_latency",
-			"v": 3263,
+			"v": 3669,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 99,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 1,
+					"weight": 0,
 					"value": "active"
 				}
 			]
@@ -4603,6 +4692,21 @@
 				}
 			]
 		},
+		"9a93c54d-a771-4dd6-ab25-02216c2d6c2a": {
+			"name": "twilight_pubg_filters",
+			"v": 3661,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant"
+				}
+			]
+		},
 		"9acd1217-f98c-419a-b39a-0e7fb9e5f325": {
 			"name": "ios_pipboy_browse_ccus",
 			"v": 1544,
@@ -5096,15 +5200,15 @@
 		},
 		"afcda2ba-dd12-4d9a-9428-df6a71104db8": {
 			"name": "twilight_new_homepage",
-			"v": 3563,
+			"v": 3656,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "experiment"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				}
 			]
@@ -5151,6 +5255,21 @@
 				{
 					"weight": 0,
 					"value": "active"
+				}
+			]
+		},
+		"b156afda-e215-413a-b9f9-efebda54ce96": {
+			"name": "ios_aa_2018",
+			"v": 3681,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
 				}
 			]
 		},
@@ -5423,15 +5542,15 @@
 		},
 		"ba473bec-1ad3-4b55-9b3e-fdc002ba695c": {
 			"name": "twilight_prime_sub_credit_api_wexit",
-			"v": 3580,
+			"v": 3644,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "treatment"
 				}
 			]
@@ -6122,15 +6241,15 @@
 		},
 		"d5d96231-332d-4538-92c5-bdadbf938201": {
 			"name": "mobile_web_branch",
-			"v": 3436,
+			"v": 3665,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 10,
+					"weight": 50,
 					"value": "treatment"
 				},
 				{
-					"weight": 90,
+					"weight": 50,
 					"value": "control"
 				}
 			]
@@ -6360,15 +6479,15 @@
 		},
 		"e0fdfc17-389d-4ba5-8596-065352ddc01e": {
 			"name": "twilight_browser_notifications_upsell",
-			"v": 3590,
+			"v": 3659,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 0,
 					"value": "yes"
 				}
 			]
@@ -6608,6 +6727,33 @@
 				}
 			]
 		},
+		"eb66ec49-f377-4ad0-8d3e-7c3ecfafd8fa": {
+			"name": "android_videoplayer_r6_2_0",
+			"v": 3603,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "native"
+				},
+				{
+					"weight": 10,
+					"value": "control"
+				},
+				{
+					"weight": 10,
+					"value": "playercore"
+				},
+				{
+					"weight": 10,
+					"value": "exoplayer_2"
+				},
+				{
+					"weight": 70,
+					"value": "exoplayer"
+				}
+			]
+		},
 		"ec27e6fe-dabc-4fd3-ab62-a2cffc8fe316": {
 			"name": "coview_with_regression",
 			"v": 1420,
@@ -6652,12 +6798,16 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3569,
+			"v": 3674,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
-					"value": "2.4.3"
+					"weight": 95,
+					"value": "2.5.1"
+				},
+				{
+					"weight": 5,
+					"value": "2.5.2"
 				}
 			]
 		},
@@ -6794,6 +6944,21 @@
 				{
 					"weight": 100,
 					"value": "control"
+				}
+			]
+		},
+		"f3920cff-ef57-46c9-8dd9-b4f145acf6e5": {
+			"name": "twilight_discovery_frontpage_mvp",
+			"v": 3626,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant"
 				}
 			]
 		},
