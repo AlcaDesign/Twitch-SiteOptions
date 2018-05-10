@@ -275,15 +275,15 @@
 		},
 		"080c0331-3073-4539-992f-93274236a97d": {
 			"name": "TWILIGHT_PAY__SAVED_PAYMENT_METHODS",
-			"v": 3649,
+			"v": 3733,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "no"
 				}
 			]
@@ -1562,6 +1562,21 @@
 				}
 			]
 		},
+		"3454d73f-f381-4453-93ad-3ea9d7209993": {
+			"name": "ios_gdpr_track_personal_data",
+			"v": 3714,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "control"
+				},
+				{
+					"weight": 100,
+					"value": "active"
+				}
+			]
+		},
 		"3468778b-76fe-4cdf-add6-1be0dceea214": {
 			"name": "TWILIGHT_DASHBOARD_LIVE",
 			"v": 3695,
@@ -1820,15 +1835,15 @@
 		},
 		"3fa31c3d-1477-40a5-9433-0b64b398c86a": {
 			"name": "TWILIGHT_SUB_CHECKOUT_VARIANT",
-			"v": 3357,
+			"v": 3706,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "recurly"
 				},
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "zuora"
 				}
 			]
@@ -2328,12 +2343,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3702,
+			"v": 3750,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-0f2df4.sjc02.hls.ttvnw.net/v1/segment/CrdCJK6ru6zT9yJpN6TsfCIs8p98WKPNIs7JYnbOhGFcBTliWIqdreZPvh5yCTlE1OBRnMwj6K4rZ7gtBPM13EUwfV8JyNdHgzSWdmD6jzbGEzvNKtk56F1lfI8ZNH14hFs6kRrPh7yD-nYLp6iouaNnlMcN28PfbefIRRDcv78gArXk-izm0N0AaM3_UdbwP5y2JlMXKJSq9nw7qKAtzGP4J1FVaUjJfrLkmNDXGHk4oA6ou21j04odlCF9MJp_o6pcy7PKDnDFi5OXNfOeGmEi837GZCxD-wka3qVz28JGuPClQmXDS5FLwbtPLBpvC-pqzpllKxEPPWI0f35VL4-EC3gPpVZCA_NdYKDPJK2YGe-wwcBdlBsSxIga15RR2xA_m9NmmEqjoxHKcoNB3IoBORw1XeCoburAkg0qUb5zjqBTOQ1TjfipJg0xhGLIhzxMyP-zfTgbbi0kJ_8cPhec3T3pZViqtLgTlRh8kIuwWEfwCex9MpGx57gC8Os_1ushgKY2n-QP_Gq6Y5SV318uOlsYH2aVFQfXWx.ts"
+					"value": "//video-edge-57bdef.sjc02.hls.ttvnw.net/v1/segment/ChMmsQEeCxBl2LBYQhdvlvCAh4s9PWlrtxp4-y9tEPlEOvl6KKMeNlq7wUEEnJbFf2ydOJxOkBG8a_CvgEUE22u5wf8zyOBLZJFOz5Tl5OJWQLMq8VkcHV7iK1Bss2qGXrH5xsXyag-Bq9yTwm3F-I3BWX6W80XB-fD8t9PjfncFZfEdsvMKDTkbA54ks9rIcWWcdpPhuvlJ8cjubznh2BrxiUDNXJwdaJ9NjkGY5ullyTAM3-UeRV_gjVGdN6E4eI_l8yYD6lzg9wFcjgME_9j4FE0CtBXzPssP4uEobC8RkOsbUA6c4kR0iGUrBNK7k_sUUeZO1S6QQiaNOJ3qstP0S0tuo4fDIjuMuapOazCTOnh5jppMU6ChWx1_p1OaAubhPI-i-eqMrfInFl1L0I8nFHoK_We4T_4tLFBHdf5B1H9602IO4gQDNtnrXMsiJQxaC1oXy43NT8P05Em4-N1T8ztjpAOAZg6RSCNy_WvRE6MFkX3nSUmEMsNkujoF9EJMbUzSsv9XGjZtbodrK0wt0jvxDP-x.ts"
 				}
 			]
 		},
@@ -2676,6 +2691,17 @@
 				}
 			]
 		},
+		"51efc82d-cfe8-42bd-ae4b-9304112ed9df": {
+			"name": "twilight_vod_provocateur",
+			"v": 3712,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				}
+			]
+		},
 		"52cb0929-0af1-45ba-81ef-79d9ae80b342": {
 			"name": "GROWTH_SKIP_SEEN_FRIENDS_IN_NOTIFICATIONS",
 			"v": 1191,
@@ -2894,6 +2920,21 @@
 				{
 					"weight": 0,
 					"value": "control"
+				}
+			]
+		},
+		"5bdcd7ae-c35c-4c5a-80b4-72716c3f5612": {
+			"name": "android_disable_core_player_mp4_playback",
+			"v": 3738,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 1,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "active"
 				}
 			]
 		},
@@ -4753,16 +4794,16 @@
 			]
 		},
 		"9c1c65b0-607c-497c-b89f-cd14e84f08d0": {
-			"name": "android_gdpr",
-			"v": 3703,
+			"name": "android_gdpr_track_personal_data",
+			"v": 3710,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				}
 			]
@@ -5260,7 +5301,7 @@
 		},
 		"afcda2ba-dd12-4d9a-9428-df6a71104db8": {
 			"name": "twilight_new_homepage",
-			"v": 3656,
+			"v": 3731,
 			"t": 1,
 			"groups": [
 				{
@@ -6873,16 +6914,16 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3674,
+			"v": 3737,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 95,
+					"weight": 50,
 					"value": "2.5.1"
 				},
 				{
-					"weight": 5,
-					"value": "2.5.2"
+					"weight": 50,
+					"value": "2.5.0"
 				}
 			]
 		},
@@ -7133,6 +7174,21 @@
 				{
 					"weight": 0,
 					"value": "no"
+				}
+			]
+		},
+		"f75ab09d-daf7-46db-bdd5-bb5a2f413cf7": {
+			"name": "clips_on_the_brain",
+			"v": 3704,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
 				}
 			]
 		},
