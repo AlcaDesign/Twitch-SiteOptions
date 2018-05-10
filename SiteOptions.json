@@ -1579,11 +1579,11 @@
 		},
 		"3468778b-76fe-4cdf-add6-1be0dceea214": {
 			"name": "TWILIGHT_DASHBOARD_LIVE",
-			"v": 3695,
+			"v": 3752,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "disabled"
 				},
 				{
@@ -1591,7 +1591,7 @@
 					"value": "twilight"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "ember"
 				}
 			]
@@ -5920,6 +5920,25 @@
 				}
 			]
 		},
+		"c5aad1ae-5be5-4a6c-8279-ecb3a0de10e9": {
+			"name": "twilight_vod_shoryuken",
+			"v": 3753,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				},
+				{
+					"weight": 0,
+					"value": "variant2"
+				}
+			]
+		},
 		"c5b39c2e-17e2-4226-b59e-ba48d940a855": {
 			"name": "ios_native_bits_iap_onboarding",
 			"v": 2908,
@@ -6845,7 +6864,7 @@
 		},
 		"eb66ec49-f377-4ad0-8d3e-7c3ecfafd8fa": {
 			"name": "android_videoplayer_r6_2_0",
-			"v": 3603,
+			"v": 3755,
 			"t": 1,
 			"groups": [
 				{
@@ -6853,11 +6872,11 @@
 					"value": "native"
 				},
 				{
-					"weight": 10,
+					"weight": 30,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 30,
 					"value": "playercore"
 				},
 				{
@@ -6865,7 +6884,7 @@
 					"value": "exoplayer_2"
 				},
 				{
-					"weight": 70,
+					"weight": 30,
 					"value": "exoplayer"
 				}
 			]
