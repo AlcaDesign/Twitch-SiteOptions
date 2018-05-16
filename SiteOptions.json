@@ -2794,6 +2794,21 @@
 				}
 			]
 		},
+		"544a8d95-3e54-4579-be17-83fd7d479ca0": {
+			"name": "live_qos_model",
+			"v": 3809,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 90,
+					"value": "control"
+				},
+				{
+					"weight": 10,
+					"value": "control10"
+				}
+			]
+		},
 		"54b18ea6-2b6a-4ed7-9128-2497572d31e2": {
 			"name": "twilight_web_onboarding_following_for_you",
 			"v": 2919,
@@ -3519,15 +3534,15 @@
 		},
 		"6f35b29f-bedf-4023-8002-652a308ee963": {
 			"name": "TWILIGHT_REMOVE_DASHBOARD_STATS_AND_REVENUE",
-			"v": 3759,
+			"v": 3810,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -6983,7 +6998,7 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3789,
+			"v": 3808,
 			"t": 1,
 			"groups": [
 				{
@@ -6991,12 +7006,8 @@
 					"value": "2.5.1"
 				},
 				{
-					"weight": 10,
-					"value": "2.5.4+spd"
-				},
-				{
-					"weight": 10,
-					"value": "2.5.4"
+					"weight": 20,
+					"value": "2.5.6"
 				},
 				{
 					"weight": 2,
