@@ -992,19 +992,15 @@
 		},
 		"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
 			"name": "android_chromecast_player_core",
-			"v": 2981,
+			"v": 3815,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 5,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 90,
-					"value": "player_core"
-				},
-				{
-					"weight": 5,
+					"weight": 100,
 					"value": "player_core"
 				}
 			]
@@ -1502,21 +1498,6 @@
 				}
 			]
 		},
-		"32099615-3609-4658-9f6b-5c1c1daa3510": {
-			"name": "TWILIGHT_STREAM_SUMMARY",
-			"v": 2445,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "yes"
-				},
-				{
-					"weight": 0,
-					"value": "no"
-				}
-			]
-		},
 		"326523fd-48bf-4043-9635-7bef334069e0": {
 			"name": "TWILIGHT_AUTOMOD_LAUNCH",
 			"v": 3631,
@@ -1579,7 +1560,7 @@
 		},
 		"3468778b-76fe-4cdf-add6-1be0dceea214": {
 			"name": "TWILIGHT_DASHBOARD_LIVE",
-			"v": 3752,
+			"v": 3814,
 			"t": 2,
 			"groups": [
 				{
@@ -1998,21 +1979,6 @@
 				}
 			]
 		},
-		"441c3783-aa74-4a33-aa67-80034afe7e89": {
-			"name": "ios_vodcast",
-			"v": 1598,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 0,
-					"value": "control"
-				},
-				{
-					"weight": 100,
-					"value": "active"
-				}
-			]
-		},
 		"44a503af-d77f-4f1d-9fa4-c99c5f783f9c": {
 			"name": "twilight_video_manager_release",
 			"v": 2850,
@@ -2328,12 +2294,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3799,
+			"v": 3811,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-62a934.sjc02.hls.ttvnw.net/v1/segment/CkkO4t8LwQLaTWrCtxDt54tZI_R7x6Hd57yv-UE2pn3V14_7b4lG9bYK1gt3C-S_5y4yow6DfosG7CvaPHWSOcWFwYS2KkIM-2Ak6cJ-o2IIVBwDtBBjSwZgRFcjo39zCIaXELu9g9GokQVDCV7ohNAdtiORY1X76mtW-0GQBgmHlek1Cwh-WAIk8le5ybjE3e4igFcF62lrejcM27c8hTTB6wcKPwRYun9EYi5ZXYxTrRTM2W-mhwFg7pSwvYlGolgve8Um8JL9RA3d6emDLw0-O7kLljG32Kx1_FUb-ktA1JzBijzAmuJ_3CACyEEsmQheVACU43J4JMe1I5ygd4XvCWstAUSKGlMKWtHELb9gf_fcGOrrqwprIm_sRKUpXd7c7fBwKjMiJfSo-kmJh46OrJ9h843siI_H9yiGH8grLoIjTVtFQPwTHLjZ_pRP9KZL-Sd8LUTV6y8XPJF3whgwt3Sopz3oVxyBSf02aLqI4BVKnxycnWegVUAr7_tBXW4JxTEyQPzSNVHsmV6x17Dr22R8kjcQM.ts"
+					"value": "//video-edge-96d243.sjc02.hls.ttvnw.net/v1/segment/CoGwIs1rt_H1UNaXziC8Wns2Onm8Si6sT1RxSILyH6eBSBXHvmolrgU9AL1pWBfOwVAjJ7ho7nhPST2c242XCGdvNKtWMU2IoCGrSRa1fla-CTOvpCMfQgpp4C52iJhdSM1uxT0Dtr60QxC8mlHF3iMtoiSADw87Tdw0pVAqjhv5xjEHjDHQzQbclZWzU3eKpwcK_l5lVYIivdB-Xpt7fSjGOCjq2CRt6KHWJPscInBAs4A9zRYDdHqbotFBCg_USCyvbUxnDbNUfdnhog-prjnJu0lu59mjTfVtyOEwh14xn1g9ANMJZtcJS1GxB2IXt-Updck_Idhcm5kHr0ntcQfaPM2KoUtFRrZpLzX9TUmDfFfqpHkq4SJNl8iq6tLfdgE-aDzAW9DUZoxieu0UMLCdz7hDJ01OSqTeY_LknIpBv_oT7583FfEoHMbidX-FVmhyD1KEqLY64VoUr5OA0IMlRxRDIkzQP5zUOR4IlHn0pc1VI_HvFZlubv4cOJGFzfK6RxG9aDN9zry2kR9Nyxzk-KbhlfnUzBC.ts"
 				}
 			]
 		},
@@ -2573,21 +2539,6 @@
 				},
 				{
 					"weight": 50,
-					"value": "no"
-				}
-			]
-		},
-		"4f952587-515d-44ac-b0cc-86769f543c72": {
-			"name": "TWILIGHT_ALL_THE_STATS",
-			"v": 3536,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "yes"
-				},
-				{
-					"weight": 0,
 					"value": "no"
 				}
 			]
@@ -7238,21 +7189,6 @@
 		"f60b889e-0327-46a8-ad7b-0d402717da45": {
 			"name": "CREATIVE_SIDEBAR_NAVIGATION",
 			"v": 493,
-			"t": 1,
-			"groups": [
-				{
-					"weight": 100,
-					"value": "yes"
-				},
-				{
-					"weight": 0,
-					"value": "no"
-				}
-			]
-		},
-		"f7249378-b153-4612-bd09-972fbb0b0b7e": {
-			"name": "TWILIGHT_ACHIEVE",
-			"v": 2444,
 			"t": 1,
 			"groups": [
 				{
