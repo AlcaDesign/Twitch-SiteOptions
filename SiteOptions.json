@@ -1545,22 +1545,22 @@
 		},
 		"3454d73f-f381-4453-93ad-3ea9d7209993": {
 			"name": "ios_gdpr_track_personal_data",
-			"v": 3714,
+			"v": 3839,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "active"
 				}
 			]
 		},
 		"3468778b-76fe-4cdf-add6-1be0dceea214": {
 			"name": "TWILIGHT_DASHBOARD_LIVE",
-			"v": 3814,
+			"v": 3841,
 			"t": 2,
 			"groups": [
 				{
@@ -1568,11 +1568,11 @@
 					"value": "disabled"
 				},
 				{
-					"weight": 0,
+					"weight": 80,
 					"value": "twilight"
 				},
 				{
-					"weight": 100,
+					"weight": 20,
 					"value": "ember"
 				}
 			]
@@ -2294,12 +2294,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3829,
+			"v": 3844,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-d761ea.sjc02.hls.ttvnw.net/v1/segment/CnQi6xlBwjlMwtQ8GAQMk7wiDh08VaeIDk397pXKRKrE5oOlR-h_tt0Vp69XG5-HR_Yi-gzH3j8XB76fmlF0mdmBlat4wRo23sLaZ__npXjB6mtMdMXsX5wJ0zXE-eJXr2-gsep3jReRgxbDd3nzGW8S-x6C1NceQCZWn_CYsnU8opA28AcsI3wIsmkbSiB5WLgoPOaY5DdKZTX8-fX6EgBFss-tnzlDP90sIYYTM0arKP3efgZQWIECuM4fO4_eN_CNTJcE3tlMxIUE0fp6B4j5A_gdRl_vJ97Axfsl6kU5zZ4cSDfdoRt1B_hGbDLuVn488LIiWcBXXUsBcLDgNugcCHi7gp75TyhVYruSHZEHb1ZFPj7YTC5hWuo5OoH2zSssWR61s-DMAWOsf0Wmfu7exmTmeWYOfaGInKUGWo953_ZwT270EiooZR6Q2_HdDBe5D9Bgo7YMj17p8NNRLJlfLib96Fv9QYobdy5kkpE3lpSNsY6lTVWkLULjSR_g11xlkuiT3sPgZDZVQZsmNy6mVJTmY7.ts"
+					"value": "//video-edge-a0abb2.sjc02.hls.ttvnw.net/v1/segment/CsI1F3QBiIegqLc-QybWAiHkhJXkiSsyYQUSOGKp3HXrnr2ehRFYzxij1lAxeZ2EGxNWRlzCljtptDXzqHzLYXfkaoaPBiYUs2lmbZEESjrrCHvuP2eyo2dTznIkeCCSt2-Uxv11iI7fQ04rV54lbNL1MjcKc3I18vIi8y7sXsC4y-ES2Iul3SFHCmRxU_4hk8VvSfKoYi2OlZllvh1J1ufUzqtI761zr3uYTlf-NTso9_W4ZxKW8UjhVR_xot2xP-Xz9kGuuoIB0dpvQGBv3iPefM3ggIJz-oFS_rOoJQ5jIaOIoKcYLFGy5DmQJni3LtZ8Pr49DSImZ-GtY1cl_f0VoKynsGIHIh5nNu1YLxUP2HjKM0skhAangmOSNtq3oTokxMSBV6F-fVsRiyOxqplo4sWNlD9Jbbc57c7k2_ocEVj4A0c5CBNku1A_wS7gAA6MmHPewhVYLho_lGqj_mytlbIC6AcS_C4IOumOXul-ByynZ7fdnRzlBrvrAY9T9ldN4gjAz_QrQzNDsSwrjtlRALX1RM9FyeA4eUE.ts"
 				}
 			]
 		},
@@ -2495,11 +2495,11 @@
 		},
 		"4f2ebce8-68ed-40a4-afb2-9db8fb09711d": {
 			"name": "vod_qos_model",
-			"v": 3784,
+			"v": 3843,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 20,
+					"weight": 30,
 					"value": "control"
 				},
 				{
@@ -2521,10 +2521,6 @@
 				{
 					"weight": 20,
 					"value": "control20"
-				},
-				{
-					"weight": 10,
-					"value": "no_cf_override"
 				}
 			]
 		},
@@ -2664,12 +2660,24 @@
 		},
 		"51efc82d-cfe8-42bd-ae4b-9304112ed9df": {
 			"name": "twilight_vod_provocateur",
-			"v": 3712,
+			"v": 3832,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 77,
 					"value": "control"
+				},
+				{
+					"weight": 9,
+					"value": "variant1"
+				},
+				{
+					"weight": 5,
+					"value": "variant2"
+				},
+				{
+					"weight": 9,
+					"value": "variant3"
 				}
 			]
 		},
@@ -3097,7 +3105,7 @@
 		},
 		"60936fd6-ef0a-49f1-9421-712f2ba02513": {
 			"name": "TWILIGHT_DASHBOARD_SETTINGS_LAUNCH",
-			"v": 3798,
+			"v": 3836,
 			"t": 2,
 			"groups": [
 				{
@@ -3528,6 +3536,21 @@
 				}
 			]
 		},
+		"7058f60c-4817-4781-9ab5-6907e0b9c234": {
+			"name": "vod_pop",
+			"v": 3842,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "experiment"
+				}
+			]
+		},
 		"711aaaf6-61c0-4cc4-9469-0dfc9908785a": {
 			"name": "VP_QOS_TEST",
 			"v": 819,
@@ -3786,6 +3809,21 @@
 				{
 					"weight": 1,
 					"value": "active"
+				}
+			]
+		},
+		"7a2d8915-c3b5-4418-8200-6d979dc1d8e9": {
+			"name": "ios_chromecast_mini_player",
+			"v": 3838,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "disabled"
+				},
+				{
+					"weight": 0,
+					"value": "enabled"
 				}
 			]
 		},
@@ -4811,15 +4849,15 @@
 		},
 		"9c1c65b0-607c-497c-b89f-cd14e84f08d0": {
 			"name": "android_gdpr_track_personal_data",
-			"v": 3710,
+			"v": 3840,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "active"
 				}
 			]
