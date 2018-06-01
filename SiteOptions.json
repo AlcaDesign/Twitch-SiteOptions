@@ -1560,7 +1560,7 @@
 		},
 		"3468778b-76fe-4cdf-add6-1be0dceea214": {
 			"name": "TWILIGHT_DASHBOARD_LIVE",
-			"v": 3841,
+			"v": 3849,
 			"t": 2,
 			"groups": [
 				{
@@ -1568,11 +1568,11 @@
 					"value": "disabled"
 				},
 				{
-					"weight": 80,
+					"weight": 100,
 					"value": "twilight"
 				},
 				{
-					"weight": 20,
+					"weight": 0,
 					"value": "ember"
 				}
 			]
@@ -2143,15 +2143,15 @@
 		},
 		"49083595-80d4-4c13-93a2-20a605b3318e": {
 			"name": "Player Core WASM experiment",
-			"v": 3691,
+			"v": 3867,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 2,
 					"value": "wasm"
 				},
 				{
-					"weight": 100,
+					"weight": 98,
 					"value": "asmjs"
 				}
 			]
@@ -2294,12 +2294,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3844,
+			"v": 3899,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-a0abb2.sjc02.hls.ttvnw.net/v1/segment/CsI1F3QBiIegqLc-QybWAiHkhJXkiSsyYQUSOGKp3HXrnr2ehRFYzxij1lAxeZ2EGxNWRlzCljtptDXzqHzLYXfkaoaPBiYUs2lmbZEESjrrCHvuP2eyo2dTznIkeCCSt2-Uxv11iI7fQ04rV54lbNL1MjcKc3I18vIi8y7sXsC4y-ES2Iul3SFHCmRxU_4hk8VvSfKoYi2OlZllvh1J1ufUzqtI761zr3uYTlf-NTso9_W4ZxKW8UjhVR_xot2xP-Xz9kGuuoIB0dpvQGBv3iPefM3ggIJz-oFS_rOoJQ5jIaOIoKcYLFGy5DmQJni3LtZ8Pr49DSImZ-GtY1cl_f0VoKynsGIHIh5nNu1YLxUP2HjKM0skhAangmOSNtq3oTokxMSBV6F-fVsRiyOxqplo4sWNlD9Jbbc57c7k2_ocEVj4A0c5CBNku1A_wS7gAA6MmHPewhVYLho_lGqj_mytlbIC6AcS_C4IOumOXul-ByynZ7fdnRzlBrvrAY9T9ldN4gjAz_QrQzNDsSwrjtlRALX1RM9FyeA4eUE.ts"
+					"value": "//video-edge-67dea5.sjc02.hls.ttvnw.net/v1/segment/Cl-cUndfXm4cG_ISkmRhPr9NW5wzrrBR7D_wtxDkyfjpznyWFrjEDaUCzeDXxhw55uXz446mZ3tYJ4t-HGSQJ-nWjpTMILswSN1SkndST81834d07e51_JB2AMtnaSZS3U__FTt083QKvRY8EcCm1Atv3VDAb0IeDIRN5CV-OeHzahtuDtH_wKKVrRkFIqnhUYtToigtMPGe1-rT2Ue_bx4_xwbdT2CtZgO2fJDiSNZ2qJczXMEK5x01wP1yEr84YLRXYy2SLJcrHxWouUrMD7m1BmOxHoelGOalG7U-IXu1GW99n9EUfamEE0bUgWN4jWBUgv9JqrkZbRKnahYsrwhg5xMfPB3Kd6pNECPl599HHXUSzC4hzaoiqZiwtK7Pqx0zSfivgZB5SPZ8znHHkpA_B12UfEhQyJuRhoJ-gNndRHLwz_1j3ea_s5vo5C6EzrKacvIltjY4wXD1Py-yBqys_YZ4jzIXvAcI_XTap9PglfYsjESiNF48EPOfNTZ4lOnhvE88tqGTFXG1y5EpXA4A3JMgc8kUxrb.ts"
 				}
 			]
 		},
@@ -2583,8 +2583,9 @@
 		},
 		"50e947d4-24b7-4000-a046-f48f4072b7cf": {
 			"name": "TWILIGHT_SUBSCRIBED_CHANNELS_SIDENAV",
-			"v": 3504,
+			"v": 3851,
 			"t": 2,
+			"s": 1,
 			"groups": [
 				{
 					"weight": 90,
@@ -3105,15 +3106,15 @@
 		},
 		"60936fd6-ef0a-49f1-9421-712f2ba02513": {
 			"name": "TWILIGHT_DASHBOARD_SETTINGS_LAUNCH",
-			"v": 3836,
+			"v": 3852,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "no"
 				},
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "yes"
 				}
 			]
@@ -3150,7 +3151,7 @@
 		},
 		"633fce9b-1bb8-49ea-886a-52e91a1b4575": {
 			"name": "ios_clips_sleepy_time",
-			"v": 3698,
+			"v": 3880,
 			"t": 1,
 			"groups": [
 				{
@@ -3255,15 +3256,15 @@
 		},
 		"6699df7d-9f23-494c-87a1-06fdf80f1e68": {
 			"name": "twilight_video_card_updates",
-			"v": 3538,
+			"v": 3893,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 90,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 100,
 					"value": "variation"
 				}
 			]
@@ -3521,6 +3522,21 @@
 				}
 			]
 		},
+		"6fff56b3-f76e-47d9-bd4d-ad1b1bd03fff": {
+			"name": "ios_airplay_seek_fix",
+			"v": 3857,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "enabled"
+				},
+				{
+					"weight": 0,
+					"value": "disabled"
+				}
+			]
+		},
 		"6fffb6c6-19d4-4172-980f-498079d99b9c": {
 			"name": "Overwatch Directory Filter",
 			"v": 2181,
@@ -3538,16 +3554,31 @@
 		},
 		"7058f60c-4817-4781-9ab5-6907e0b9c234": {
 			"name": "vod_pop",
-			"v": 3842,
+			"v": 3881,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "experiment"
+				}
+			]
+		},
+		"70a03c8f-25cf-4bd0-bdcf-ba1459727023": {
+			"name": "TWILIGHT_PLS_RAID_MORE",
+			"v": 3892,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "test"
+				},
+				{
+					"weight": 100,
+					"value": "control"
 				}
 			]
 		},
@@ -3742,19 +3773,19 @@
 		},
 		"76a67969-399d-44c3-ad37-f726a10bf54d": {
 			"name": "android_end_of_clips",
-			"v": 3456,
+			"v": 3847,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 33,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 33,
+					"weight": 0,
 					"value": "recommendations"
 				},
 				{
-					"weight": 33,
+					"weight": 100,
 					"value": "autoplay"
 				}
 			]
@@ -3934,15 +3965,15 @@
 		},
 		"7e81d1d7-80a5-4eef-8828-185256ed2c0b": {
 			"name": "ios_airplay_playback_interruption_avqueueplayer_workaround",
-			"v": 3826,
+			"v": 3883,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "enabled"
 				}
 			]
@@ -5260,7 +5291,7 @@
 		},
 		"add0c209-b45c-4ea5-b6f8-96a3d9e85699": {
 			"name": "android_clips_sleepy_time",
-			"v": 3697,
+			"v": 3879,
 			"t": 1,
 			"groups": [
 				{
@@ -5430,15 +5461,15 @@
 		},
 		"b156afda-e215-413a-b9f9-efebda54ce96": {
 			"name": "ios_aa_2018",
-			"v": 3681,
+			"v": 3897,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 50,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 50,
 					"value": "enabled"
 				}
 			]
@@ -5800,9 +5831,24 @@
 				}
 			]
 		},
+		"bf00cae3-c729-4ff9-816c-f9ede2f69f02": {
+			"name": "twilight_vod_used_to_this",
+			"v": 3854,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				}
+			]
+		},
 		"bf7566f3-241b-4ade-95d4-381a7e7dd390": {
 			"name": "android_wateb_6.0_release",
-			"v": 3499,
+			"v": 3863,
 			"t": 1,
 			"groups": [
 				{
@@ -6317,15 +6363,15 @@
 		},
 		"d1fe9a0a-e9f2-4450-ac57-4ff2eefa0dcf": {
 			"name": "twilight_get_bits_top_nav",
-			"v": 3550,
+			"v": 3869,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 10,
 					"value": "treatment"
 				},
 				{
-					"weight": 100,
+					"weight": 90,
 					"value": "control"
 				}
 			]
@@ -6372,6 +6418,21 @@
 				{
 					"weight": 2,
 					"value": "active"
+				}
+			]
+		},
+		"d4752777-a16a-4128-bcfb-42cbd4a53613": {
+			"name": "TWILIGHT_OWL_ROOM_CHEERING",
+			"v": 3846,
+			"t": 2,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "on"
+				},
+				{
+					"weight": 0,
+					"value": "off"
 				}
 			]
 		},
@@ -6933,7 +6994,7 @@
 		},
 		"eb66ec49-f377-4ad0-8d3e-7c3ecfafd8fa": {
 			"name": "android_videoplayer_r6_2_0",
-			"v": 3755,
+			"v": 3875,
 			"t": 1,
 			"groups": [
 				{
@@ -6941,11 +7002,11 @@
 					"value": "native"
 				},
 				{
-					"weight": 30,
+					"weight": 40,
 					"value": "control"
 				},
 				{
-					"weight": 30,
+					"weight": 40,
 					"value": "playercore"
 				},
 				{
@@ -6953,7 +7014,7 @@
 					"value": "exoplayer_2"
 				},
 				{
-					"weight": 30,
+					"weight": 10,
 					"value": "exoplayer"
 				}
 			]
@@ -7002,20 +7063,36 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3822,
+			"v": 3860,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 78,
-					"value": "2.5.1"
-				},
-				{
-					"weight": 20,
+					"weight": 88,
 					"value": "2.5.6"
 				},
 				{
 					"weight": 2,
-					"value": "2.5.7"
+					"value": "2.5.9"
+				},
+				{
+					"weight": 2,
+					"value": "2.5.10"
+				},
+				{
+					"weight": 2,
+					"value": "2.5.11+nspeed"
+				},
+				{
+					"weight": 2,
+					"value": "2.5.8+penalty"
+				},
+				{
+					"weight": 2,
+					"value": "2.5.8+rebuf"
+				},
+				{
+					"weight": 2,
+					"value": "2.5.8+speed"
 				}
 			]
 		},
@@ -7157,15 +7234,15 @@
 		},
 		"f3920cff-ef57-46c9-8dd9-b4f145acf6e5": {
 			"name": "twilight_discovery_frontpage_mvp",
-			"v": 3626,
+			"v": 3895,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 95,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 5,
 					"value": "variant"
 				}
 			]
@@ -7256,7 +7333,7 @@
 		},
 		"f75ab09d-daf7-46db-bdd5-bb5a2f413cf7": {
 			"name": "twilight_clips_on_the_brain",
-			"v": 3824,
+			"v": 3878,
 			"t": 1,
 			"groups": [
 				{
