@@ -21,7 +21,7 @@ function getData() {
 
 function removeJavascript(data) {
 	console.log('removeJavascript');
-	return data.replace(/(^window.SiteOptions = |;$)/g, '');
+	return data.replace(/(^window.SiteOptions = |;\s+$)/g, '');
 }
 
 function setVariable(data) {
